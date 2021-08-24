@@ -6,8 +6,9 @@ authors = ["Your Name <you@example.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "3.9"
+python = "^3.9"
 conllu = "^4.4.1"
+spacy-conll = {extras = ["parsers"], version = "^3.0.2"}
 
 [tool.poetry.dev-dependencies]
 ipython = "^7.26.0"
