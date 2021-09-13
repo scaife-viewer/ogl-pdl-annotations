@@ -1,8 +1,38 @@
+import sys
+
 from pathlib import Path
 
 import spacy
 
 from spacy_conll import init_parser
+
+
+def extract_content(path):
+    # https://github.com/BramVanroy/spacy_conll/issues/9
+    txt = []
+    if path.suffix == ".txt":
+        for l in path.read_text().splitlines():
+            ref, content = l.split(" ", maxsplit=1)
+            if ref == "1.33":
+                break
+
+            txt.append(content.strip())
+    elif path.suffix == ".cex":
+        for l in path.read_text().splitlines():
+            ref, content = l.split("#", maxsplit=1)
+            if ref == "urn:cts:greekLit:tlg0012.tlg002.perseus-eng3:2.1":
+                break
+
+            txt.append(content.strip())
+
+    return " ".join(txt)
+
+
+def get_output_path(input_path):
+    parts = input_path.stem.split(".")
+    base_dir = Path(f"data/syntax-trees/{parts[0]}/{parts[1]}/raw")
+    base_dir.mkdir(parents=True, exist_ok=True)
+    return Path(base_dir, f"{input_path.stem}.conllu")
 
 
 def main():
@@ -30,12 +60,13 @@ def main():
     #     "udpipe",
     # )
 
-    # TODO: This file does not exist in VCS
-    input_path = Path("data/tlg0012.tlg001.parrish-eng1.txt")
-    # https://github.com/BramVanroy/spacy_conll/issues/9
-    txt = " ".join([l.strip() for l in input_path.read_text().splitlines()])
-    doc = nlp(txt)
-    output_path = Path("data/syntax-trees/tlg0012/tlg001/raw/tlg0012.tlg001.parrish-eng1.conllu")
+    # TODO: document path; files aren't in this local
+    # repo yet
+    input_path = Path(sys.argv[1])
+    content = extract_content(input_path)
+    doc = nlp(content)
+
+    output_path = get_output_path(input_path)
     output_path.write_text(doc._.conll_str)
 
 

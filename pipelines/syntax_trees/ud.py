@@ -1,14 +1,23 @@
+import sys
+
 import json
 from pathlib import Path
 
 import conllu
 
 
-def main():
-    path = Path("data/syntax-trees/tlg0012/tlg001/raw/tlg0012.tlg001.parrish-eng1.conllu")
-    data = conllu.parse(open(path).read())
+def get_output_path(input_path):
+    parts = input_path.stem.split(".")
+    base_dir = Path(f"data/syntax-trees/{parts[0]}/{parts[1]}/processed")
+    base_dir.mkdir(parents=True, exist_ok=True)
+    return Path(base_dir, f"{input_path.stem}.json")
 
-    version = "urn:cts:greekLit:tlg0012.tlg001.parrish-eng1:"
+
+def main():
+    input_path = Path(sys.argv[1])
+    version = sys.argv[2]
+
+    data = conllu.parse(input_path.read_text())
     meta = {}
     to_create = []
     counter = 0
@@ -41,12 +50,14 @@ def main():
         # This is likely something we could do from that sent_id as another
         # kind of lookup
         sentence_obj.update(
-            {"references": [], "citation": str(sentence_id),}
+            {
+                "references": [],
+                "citation": str(sentence_id),
+            }
         )
         to_create.append(sentence_obj)
 
-    output_path = Path("data/syntax-trees/tlg0012/tlg001/processed/tlg0012.tlg001.parrish-eng1.json")
-    output_path.parent.mkdir(parents=True, exist_ok=True)
+    output_path = get_output_path(input_path)
 
     json.dump(
         to_create,
