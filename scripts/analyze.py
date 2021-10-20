@@ -13,15 +13,11 @@ def extract_content(path):
     if path.suffix == ".txt":
         for l in path.read_text().splitlines():
             ref, content = l.split(" ", maxsplit=1)
-            if ref == "1.33":
-                break
 
             txt.append(content.strip())
     elif path.suffix == ".cex":
         for l in path.read_text().splitlines():
             ref, content = l.split("#", maxsplit=1)
-            if ref == "urn:cts:greekLit:tlg0012.tlg002.perseus-eng3:2.1":
-                break
 
             txt.append(content.strip())
 
