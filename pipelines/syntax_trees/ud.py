@@ -15,7 +15,10 @@ def get_output_path(input_path):
 
 def main():
     input_path = Path(sys.argv[1])
-    version = sys.argv[2]
+    version_urn = sys.argv[2]
+    version_part = version_urn.rsplit(":", maxsplit=2)[1]
+    exemplar = version_part.replace(".", "-")
+    versionish_urn = f"{str(version_urn)[:-1]}-trees:"
 
     data = conllu.parse(input_path.read_text())
     meta = {}
@@ -33,7 +36,7 @@ def main():
         sentence_id = counter
 
         sentence_obj = {
-            "urn": f"urn:cite2:scaife-viewer:syntaxTree.v1:syntaxTree{sentence_id}",
+            "urn": f'urn:cite2:scaife-viewer:syntaxTree.v1:syntaxTree-{exemplar}-{sentence_id}',
             "treebank_id": sentence_id,
             "words": [],
         }
@@ -51,7 +54,9 @@ def main():
         # kind of lookup
         sentence_obj.update(
             {
-                "references": [],
+                "references": [
+                    f"{versionish_urn}{counter}"
+                ],
                 "citation": str(sentence_id),
             }
         )
