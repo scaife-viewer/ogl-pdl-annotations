@@ -1,8 +1,6 @@
 import sys
-
+import time
 from pathlib import Path
-
-import spacy
 
 from spacy_conll import init_parser
 
@@ -60,7 +58,12 @@ def main():
     # repo yet
     input_path = Path(sys.argv[1])
     content = extract_content(input_path)
+
+    start = time.time()
     doc = nlp(content)
+    end = time.time()
+    elapsed = end - start
+    print(f"Elapsed: {elapsed}")
 
     output_path = get_output_path(input_path)
     output_path.write_text(doc._.conll_str)
