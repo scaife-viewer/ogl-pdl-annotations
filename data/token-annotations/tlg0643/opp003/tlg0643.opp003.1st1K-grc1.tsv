@@ -1,0 +1,633 @@
+subref	form	norm	lemma	tag	curated
+1@ΑΡΙΣΤΟΤΕΛΟΥΣ	ΑΡΙΣΤΟΤΕΛΟΥΣ	αριστοτελους			n
+1@ΙΑΤΡΙΚΩΝ	ΙΑΤΡΙΚΩΝ	ιατρικων			n
+1@ΜΕΝΩΝΕΙΩΝ	ΜΕΝΩΝΕΙΩΝ	μενωνειων			n
+1@FRAGMENTA	FRAGMENTA	fragmenta			n
+1@RELIQUA	RELIQUA	reliqua			n
+1@I[2]	I	i			n
+1@Fragm	Fragm	fragm			n
+1@V	V	v			n
+1@Rose	Rose	rose			n
+1@335	335	335			n
+1@Berol	Berol	berol			n
+1@373	373	373			n
+1@Lips	Lips	lips			n
+1@Galenus	Galenus	galenus			n
+1@in	in	in			n
+1@comm	comm	comm			n
+1@ad	ad	ad			n
+1@I[3]	I	i			n
+1@Hipp	Hipp	hipp			n
+1@de	de	de			n
+1@nat	nat	nat			n
+1@hom	hom	hom			n
+1@XV	XV	xv			n
+1@25	25	25			n
+1@sq	sq	sq			n
+1@K	K	k			n
+1@καὶ	καὶ	καί	καί		n
+1@Θεόφρστος	Θεόφρστος	θεόφρστος			n
+1@δ	δ	δ			n
+1@ἂν	ἂν	ἄν	ἄν		n
+1@ἐν	ἐν	ἐν	ἐν		n
+1@ταῖς	ταῖς	ταῖς	ὁ		n
+1@τῶν	τῶν	τῶν	ὁ		n
+1@Φθσικῶν	Φθσικῶν	φθσικῶν			n
+1@δοξῶν	δοξῶν	δοξῶν			n
+1@ἐπιτομαῖς	ἐπιτομαῖς	ἐπιτομαῖς			n
+1@τὴν	τὴν	τήν	ὁ		n
+1@Ξενοφάνους	Ξενοφάνους	ξενοφάνους	Ξενοφάνης		n
+1@δόξαν	δόξαν	δόξαν	δόξα		n
+1@εἴπερ	εἴπερ	εἴπερ	εἴπερ		n
+1@οὕτως	οὕτως	οὕτως	οὕτως		n
+1@εἶχεν	εἶχεν	εἶχεν	ἔχω		n
+1@ἐγεγράφει	ἐγεγράφει	ἐγεγράφει			n
+1@καὶ[2]	καὶ	καί	καί		n
+1@σοι	σοι	σοι			n
+1@πάρεστιν	πάρεστιν	πάρεστιν	πάρειμι		n
+1@εἰ	εἰ	εἰ	εἰ		n
+1@χαίροις	χαίροις	χαίροις	χαίρω		n
+1@τῇ	τῇ	τῇ	ὁ		n
+1@περὶ	περὶ	περί	περί		n
+1@τούτων	τούτων	τούτων	οὗτος		n
+1@ἱστορίᾳ	ἱστορίᾳ	ἱστορίᾳ	ἱστορία		n
+1@τὰς	τὰς	τάς	ὁ		n
+1@τοῦ	τοῦ	τοῦ	ὁ		n
+1@Θεοφράστου	Θεοφράστου	θεοφράστου	Θεόφραστος		n
+1@βίβλους	βίβλους	βίβλους	βύβλος		n
+1@ἀναγῶναι	ἀναγῶναι	ἀναγῶναι			n
+1@καθ	καθ	καθ	κατά		n
+1@ἃς	ἃς	ἅς	ὅς		n
+1@τὴν[2]	τὴν	τήν	ὁ		n
+1@ἐπιτομὴν	ἐπιτομὴν	ἐπιτομήν	ἐπιτομή		n
+1@ἐποιήσατο	ἐποιήσατο	ἐποιήσατο	ποιέω		n
+1@τῶν[2]	τῶν	τῶν	ὁ		n
+1@Φυσικῶν	Φυσικῶν	φυσικῶν			n
+1@δοξῶν[2]	δοξῶν	δοξῶν			n
+1@ὥσπερ	ὥσπερ	ὥσπερ	ὥσπερ		n
+1@γε[2]	γε	γέ	γε		n
+1@πάλιν	πάλιν	πάλιν	πάλιν		n
+1@εἰ[2]	εἰ	εἰ	εἰ		n
+1@τὰς[2]	τὰς	τάς	ὁ		n
+1@τῶν[3]	τῶν	τῶν	ὁ		n
+1@παλαιῶν	παλαιῶν	παλαιῶν	παλαιός		n
+1@ἰατρῶν	ἰατρῶν	ἰατρῶν	ἰατρός		n
+1@δόξας	δόξας	δόξας	δοκέω		n
+1@ἐθέλοις	ἐθέλοις	ἐθέλοις	ἐθέλω		n
+1@ἱστορῆσαι	ἱστορῆσαι	ἱστορῆσαι	ἱστορέω		n
+1@πάρεστί	πάρεστί	πάρεστι	πάρειμι		n
+1@σοι[2]	σοι	σοι			n
+1@τὰς[3]	τὰς	τάς	ὁ		n
+1@τῆς	τῆς	τῆς	ὁ		n
+1@ἰατρικῆς	ἰατρικῆς	ἰατρικῆς	ἰατρικός		n
+1@συναγωγῆς	συναγωγῆς	συναγωγῆς	συναγωγή		n
+1@ἀναγνῶναι	ἀναγνῶναι	ἀναγνῶναι	ἀναγιγνώσκω		n
+1@βίβλους[2]	βίβλους	βίβλους	βύβλος		n
+1@ἐπιγεγραμμένας	ἐπιγεγραμμένας	ἐπιγεγραμμένας			n
+1@μὲν	μὲν	μέν	μέν		n
+1@Ἀριστοτέλει	Ἀριστοτέλει	ἀριστοτέλει	Ἀριστοτέλης		n
+1@ὁμολογουμένας	ὁμολογουμένας	ὁμολογουμένας			n
+1@δὲ	δὲ	δέ	δέ		n
+1@ὑπὸ	ὑπὸ	ὑπό	ὑπό		n
+1@τοῦ[2]	τοῦ	τοῦ	ὁ		n
+1@Μένωνος	Μένωνος	μένωνος	Μένων		n
+1@ὃς	ὃς	ὅς	ὅς		n
+1@ἦν	ἦν	ἦν	εἰμί		n
+1@μαθητὴς	μαθητὴς	μαθητής	μαθητής		n
+1@αὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτός		n
+1@γεγράφθαι	γεγράφθαι	γεγράφθαι	γράφω		n
+1@διὸ	διὸ	διό	διό		n
+1@καὶ[3]	καὶ	καί	καί		n
+1@Μενώνεια	Μενώνεια	μενώνεια			n
+1@προσαγορεύουσιν	προσαγορεύουσιν	προσαγορεύουσιν	προσαγορεύω		n
+1@ἔνιοι	ἔνιοι	ἔνιοι	ἔνιοι		n
+1@ταυτὶ	ταυτὶ	ταυτί	οὗτος		n
+1@τὰ[4]	τὰ	τά	ὁ		n
+1@βιβλία	βιβλία	βιβλία	βιβλίον		n
+1@δῆλον	δῆλον	δῆλον	δῆλος		n
+1@δὲ[2]	δὲ	δέ	δέ		n
+1@ὅτι	ὅτι	ὅτι	ὅτι2		n
+1@καὶ[4]	καὶ	καί	καί		n
+1@ὁ[2]	ὁ	ὁ	ὁ		n
+1@Μένων[2]	Μένων	μένων	Μένων		n
+1@ἐκεῖνος	ἐκεῖνος	ἐκεῖνος	ἐκεῖνος		n
+1@ἀναζητήσας	ἀναζητήσας	ἀναζητήσας	ἀναζητέω		n
+1@ἐπιμελῶς	ἐπιμελῶς	ἐπιμελῶς	ἐπιμελής		n
+1@τὰ[5]	τὰ	τά	ὁ		n
+1@διασῳζόμενα	διασῳζόμενα	διασῳζόμενα			n
+1@κατ	κατ	κατ			n
+1@αὐτὸν	αὐτὸν	αὐτόν	αὐτός		n
+1@ἔτι	ἔτι	ἔτι	ἔτι		n
+1@τῶν[4]	τῶν	τῶν	ὁ		n
+1@παλαιῶν[2]	παλαιῶν	παλαιῶν	παλαιός		n
+1@ἰατρῶν[2]	ἰατρῶν	ἰατρῶν			n
+1@βιβλία[2]	βιβλία	βιβλία	βιβλίον		n
+1@τὰς[4]	τὰς	τάς	ὁ		n
+1@δόξας[2]	δόξας	δόξας	δόξα		n
+1@αὐτῶν	αὐτῶν	αὐτῶν	αὐτός		n
+1@ἐκεῖθεν	ἐκεῖθεν	ἐκεῖθεν	ἐκεῖθεν		n
+1@ἀνελέξατο	ἀνελέξατο	ἀνελέξατο			n
+1@τῶν[6]	τῶν	τῶν	ὁ		n
+1@δ[12]	δ	δ			n
+1@ἤδη	ἤδη	ἤδη	ἤδη		n
+1@διαφθαρμένων	διαφθαρμένων	διαφθαρμένων			n
+1@παντάπασιν	παντάπασιν	παντάπασιν	παντάπασι		n
+1@ἢ	ἢ	ἤ	ἤ		n
+1@σῳζομένων	σῳζομένων	σῳζομένων	σῴζω		n
+1@μέν[5]	μέν	μέν	μέν		n
+1@οὐ	οὐ	οὐ	οὐ		n
+1@θεωρηθέντων	θεωρηθέντων	θεωρηθέντων	θεωρέω		n
+1@δ[15]	δ	δ			n
+1@αὐτῷ	αὐτῷ	αὐτῷ	αὐτός		n
+1@τὰς[5]	τὰς	τάς	ὁ		n
+1@γνώμας	γνώμας	γνώμας	γνώμη		n
+1@οὐκ	οὐκ	οὐ	οὐ		n
+1@ἠδύνατο	ἠδύνατο	ἠδύνατο	δύναμαι		n
+1@γράψαι	γράψαι	γράψαι	γράφω		n
+1@κατὰ	κατὰ	κατά	κατά		n
+1@ταῦτ	ταῦτ	ταῦτ			n
+1@οὖν	οὖν	οὖν	οὖν		n
+1@τὰ[9]	τὰ	τά	ὁ		n
+1@βιβλία[3]	βιβλία	βιβλία	βιβλίον		n
+1@χολὴν	χολὴν	χολήν	χολή		n
+1@ξανθὴν	ξανθὴν	ξανθήν	ξανθός		n
+1@ἢ[2]	ἢ	ἤ	τίη		n
+1@μέλαιναν	μέλαιναν	μέλαιναν	μέλας		n
+1@ἢ[3]	ἢ	ἤ	ἤ		n
+1@φλέγμα	φλέγμα	φλέγμα	φλέγμα		n
+1@στοιχεῖον	στοιχεῖον	στοιχεῖον	στοιχεῖον		n
+1@ἀνθρώπου	ἀνθρώπου	ἀνθρώπου	ἄνθρωπος		n
+1@φύσεως	φύσεως	φύσεως	φύσις		n
+1@οὐκ[2]	οὐκ	οὐ	οὐ		n
+1@ἂν[2]	ἂν	ἄν	ἄν		n
+1@εὅροις	εὅροις	εὅροις			n
+1@οὀδ	οὀδ	οὀδ			n
+1@ὑφ	ὑφ	ὑφ			n
+1@ἑνὸς	ἑνὸς	ἑνός	ὑπό		n
+1@εἰρημένον	εἰρημένον	εἰρημένον	λέγω		n
+1@αἶμα	αἶμα	αἶμα			n
+1@δὲ[3]	δὲ	δέ	δέ		n
+1@καἲ	καἲ	καἴ			n
+1@τῶν[7]	τῶν	τῶν	ὁ		n
+1@μεθ	μεθ	μεθ	μετά		n
+1@Ἱπποκράτην	Ἱπποκράτην	ἱπποκράτην	Ἱπποκράτης		n
+1@φαίνονται	φαίνονται	φαίνονται	φαίνω		n
+1@πολλοὶ	πολλοὶ	πολλοί	πολύς		n
+1@μόνον	μόνον	μόνον	μόνος		n
+1@εἶναι	εἶναι	εἶναι	εἰμί		n
+1@νομίζοντες	νομίζοντες	νομίζοντες	νομίζω		n
+1@ἐν[2]	ἐν	ἐν	ἐν		n
+1@ἡμῖν	ἡμῖν	ἡμῖν	ἐγώ		n
+1@ὥστε	ὥστε	ὥστε	ὥστε		n
+1@καὶ[5]	καὶ	καί	καί		n
+1@τὴν[3]	τὴν	τήν	ὁ		n
+1@πρώτην	πρώτην	πρώτην	πρῶτος		n
+1@γένεσιν	γένεσιν	γένεσιν	γένεσις		n
+1@ἡμῶν	ἡμῶν	ἡμῶν	ἐγώ		n
+1@ἐξ	ἐξ	ἐκ	ἐκ		n
+1@αὐτοῦ[2]	αὐτοῦ	αὐτοῦ	αὐτός		n
+1@γίγνεθαι	γίγνεθαι	γίγνεθαι			n
+1@καὶ[6]	καὶ	καί	καί		n
+1@τὴν[4]	τὴν	τήν	ὁ		n
+1@μετὰ	μετὰ	μετά	μετά		n
+1@ταῦτα	ταῦτα	ταῦτα	οὗτος		n
+1@τὴν[5]	τὴν	τήν	ὁ		n
+1@μήτραν	μήτραν	μήτραν	μήτρα		n
+1@αὔξησιν	αὔξησιν	αὔξησιν	αὔξησις		n
+1@καὶ[7]	καὶ	καί	καί		n
+1@ἀποκυηθέντων	ἀποκυηθέντων	ἀποκυηθέντων			n
+1@τελείωσιν	τελείωσιν	τελείωσιν			n
+1@II	II	ii			n
+1@R[4]	R	r			n
+1@336	336	336			n
+1@B[2]	B	b			n
+1@347	347	347			n
+1@L[3]	L	l			n
+1@Laertius	Laertius	laertius			n
+1@Diogenes	Diogenes	diogenes			n
+1@V[3]	V	v			n
+1@61	61	61			n
+1@γεγόνασι	γεγόνασι	γεγόνασι	γίγνομαι		n
+1@δὲ[4]	δὲ	δέ	δέ		n
+1@Στρατωνες	Στρατωνες	στρατωνες			n
+1@ὀκτώ	ὀκτώ	ὀκτώ	ὀκτώ		n
+1@πρῶτος	πρῶτος	πρῶτος	πρῶτος		n
+1@Ἱσοκράτους	Ἱσοκράτους	ἱσοκράτους			n
+1@ἀκροατής	ἀκροατής	ἀκροατής			n
+1@δεύτερος	δεύτερος	δεύτερος	δεύτερος		n
+1@αὐτὸς	αὐτὸς	αὐτός	αὐτός		n
+1@οὖτος	οὖτος	οὖτος			n
+1@philosophus	philosophus	philosophus			n
+1@τρίτος	τρίτος	τρίτος	τρίτος		n
+1@ἰατρός	ἰατρός	ἰατρός	ἰατρός		n
+1@μαθητὴς[2]	μαθητὴς	μαθητής	μαθητής		n
+1@Ἐραστστράτου	Ἐραστστράτου	ἐραστστράτου			n
+1@ὡς	ὡς	ὡς	ὡς		n
+1@δέ	δέ	δέ	δέ		n
+1@τινες	τινες	τινές	τις		n
+1@τρόφιμος	τρόφιμος	τρόφιμος	τρόφιμος		n
+1@ἕβδομος	ἕβδομος	ἕβδομος	ἕβδομος		n
+1@ἰατρὸς	ἰατρὸς	ἰατρός	ἰατρός		n
+1@ἀρχαῖος	ἀρχαῖος	ἀρχαῖος	ἀρχαῖος		n
+1@ὡς[2]	ὡς	ὡς	ὡς		n
+1@Ἀριστοτέλης	Ἀριστοτέλης	ἀριστοτέλης	Ἀριστοτέλης		n
+1@φησίν	φησίν	φησίν	φημί		n
+1@ΙΙΙ	ΙΙΙ	ιιι			n
+1@R[5]	R	r			n
+1@337	337	337			n
+1@B[3]	B	b			n
+1@375	375	375			n
+1@L[5]	L	l			n
+1@Plutarchus	Plutarchus	plutarchus			n
+1@Quaest	Quaest	quaest			n
+1@conviv	conviv	conviv			n
+1@VIII	VIII	viii			n
+1@9	9	9			n
+1@3[11]	3	3			n
+1@καὶ[8]	καὶ	καί	καί		n
+1@μὴν[2]	μὴν	μήν	μήν		n
+1@ἔν[2]	ἔν	ἔν	ἐν		n
+1@γε[6]	γε	γέ	γε		n
+1@τοῖς	τοῖς	τοῖς	ὁ		n
+1@Μενωνείοις	Μενωνείοις	μενωνείοις			n
+1@σημεῖον	σημεῖον	σημεῖον	σημεῖον		n
+1@ἡπατικοῦ	ἡπατικοῦ	ἡπατικοῦ			n
+1@πάθους	πάθους	πάθους	πάθος		n
+1@ἀναγέγραπται	ἀναγέγραπται	ἀναγέγραπται	ἀναγράφω		n
+1@τὸ[3]	τὸ	τό	ὁ		n
+1@τοὺς	τοὺς	τούς	ὁ		n
+1@κατοικιδίους	κατοικιδίους	κατοικιδίους			n
+1@μῦς	μῦς	μῦς			n
+1@ἐπιμελῶς[2]	ἐπιμελῶς	ἐπιμελῶς	ἐπιμελής		n
+1@παραφυλάττειν	παραφυλάττειν	παραφυλάττειν	παραφυλάσσω		n
+1@καὶ[9]	καὶ	καί	καί		n
+1@διώκειν	διώκειν	διώκειν	διώκω		n
+1@Fr[2]	Fr	fr			n
+1@I[9]	I	i			n
+1@7[5]	7	7			n
+1@Ἀριστοτέλους	Ἀριστοτέλους	ἀριστοτέλους			n
+1@Cobetus	Cobetus	cobetus			n
+1@12	12	12			n
+1@an	an	an			n
+1@οὐχ	οὐχ	οὐ			n
+1@εὐρηθέντων	εὐρηθέντων	εὐρηθέντων			n
+1@Fr[3]	Fr	fr			n
+1@II[4]	II	ii			n
+1@cf	cf	cf			n
+1@M[2]	M	m			n
+1@Wellmann	Wellmann	wellmann			n
+1@Jahrb	Jahrb	jahrb			n
+1@f[2]	f	f			n
+1@cl	cl	cl			n
+1@Philol	Philol	philol			n
+1@1892	1892	1892			n
+1@CXLV	CXLV	cxlv			n
+1@675	675	675			n
+1@Fr[4]	Fr	fr			n
+1@III[2]	III	iii			n
+1@μελωνείοις	μελωνείοις	μελωνείοις			n
+1@codex	codex	codex			n
+1@corr	corr	corr			n
+1@I[15]	I	i			n
+1@A[4]	A	a			n
+1@Fabricius	Fabricius	fabricius			n
+1@IV	IV	iv			n
+1@R[6]	R	r			n
+1@339	339	339			n
+1@B[4]	B	b			n
+1@377	377	377			n
+1@L[7]	L	l			n
+1@Caelius	Caelius	caelius			n
+1@Aurelianus	Aurelianus	aurelianus			n
+1@acut	acut	acut			n
+1@morb	morb	morb			n
+1@II[7]	II	ii			n
+1@13	13	13			n
+1@ed	ed	ed			n
+1@Amman	Amman	amman			n
+1@Amstel	Amstel	amstel			n
+1@1722	1722	1722			n
+1@p[6]	p	p			n
+1@110	110	110			n
+1@hanc	hanc	hanc			n
+1@pleuritidem	pleuritidem	pleuritidem			n
+1@definiens	definiens	definiens			n
+1@primo	primo	primo			n
+1@De	De	de			n
+1@adiutoriis	adiutoriis	adiutoriis			n
+1@libro	libro	libro			n
+1@Aristoteles	Aristoteles	aristoteles			n
+1@sic	sic	sic			n
+1@tradendam	tradendam	tradendam			n
+1@credidit	credidit	credidit			n
+1@pleuritis	pleuritis	pleuritis			n
+1@inquit	inquit	inquit			n
+1@est[2]	est	est			n
+1@liquidae	liquidae	liquidae			n
+1@materiae	materiae	materiae			n
+1@coactio	coactio	coactio			n
+1@sive	sive	sive			n
+1@densatio	densatio	densatio			n
+1@nec	nec	nec			n
+1@tamen	tamen	tamen			n
+1@disseruit	disseruit	disseruit			n
+1@utrumne	utrumne	utrumne			n
+1@totius	totius	totius			n
+1@falsissimum	falsissimum	falsissimum			n
+1@si[5]	si	si			n
+1@quidem	quidem	quidem			n
+1@phlebotomati	phlebotomati	phlebotomati			n
+1@aegrotantes	aegrotantes	aegrotantes			n
+1@liquidum	liquidum	liquidum			n
+1@sanguinem	sanguinem	sanguinem			n
+1@redduntj	redduntj	redduntj			n
+1@an[8]	an	an			n
+1@vero	vero	vero			n
+1@particulae	particulae	particulae			n
+1@sed	sed	sed			n
+1@cum	cum	cum			n
+1@hoc	hoc	hoc			n
+1@tacuit	tacuit	tacuit			n
+1@necessarium	necessarium	necessarium			n
+1@praetermisit	praetermisit	praetermisit			n
+1@V[7]	V	v			n
+1@R[7]	R	r			n
+1@341	341	341			n
+1@B[5]	B	b			n
+1@379	379	379			n
+1@L[8]	L	l			n
+1@ESCOLAPIUS	ESCOLAPIUS	escolapius			n
+1@q[6]	q	q			n
+1@d[20]	d	d			n
+1@de[8]	de	de			n
+1@morbis	morbis	morbis			n
+1@p[13]	p	p			n
+1@VIII[2]	VIII	viii			n
+1@post	post	post			n
+1@Physicam	Physicam	physicam			n
+1@Hildegardis	Hildegardis	hildegardis			n
+1@etc	etc	etc			n
+1@ed[5]	ed	ed			n
+1@lo[3]	lo	lo			n
+1@Schottus	Schottus	schottus			n
+1@Arg	Arg	arg			n
+1@1533	1533	1533			n
+1@iracundia	iracundia	iracundia			n
+1@irritantur	irritantur	irritantur			n
+1@melancholici	melancholici	melancholici			n
+1@cum[2]	cum	cum			n
+1@mentis	mentis	mentis			n
+1@perversitate	perversitate	perversitate			n
+1@insaniunt	insaniunt	insaniunt			n
+1@ut[5]	ut	ut			n
+1@maniaci	maniaci	maniaci			n
+1@in[6]	in	in			n
+1@vociferatione	vociferatione	vociferatione			n
+1@solum	solum	solum			n
+1@differunt	differunt	differunt			n
+1@Aristotele[2]	Aristotele	aristotele			n
+1@philosopho	philosopho	philosopho			n
+1@testante	testante	testante			n
+1@VL	VL	vl			n
+1@R[8]	R	r			n
+1@340	340	340			n
+1@B[6]	B	b			n
+1@378	378	378			n
+1@L[11]	L	l			n
+1@Caelius[2]	Caelius	caelius			n
+1@Aue	Aue	aue			n
+1@chronic	chronic	chronic			n
+1@morb[3]	morb	morb			n
+1@I[23]	I	i			n
+1@5[6]	5	5			n
+1@ed[6]	ed	ed			n
+1@Amman[2]	Amman	amman			n
+1@p[18]	p	p			n
+1@336[2]	336	336			n
+1@alii	alii	alii			n
+1@frigidis	frigidis	frigidis			n
+1@usi	usi	usi			n
+1@sunt	sunt	sunt			n
+1@rebus	rebus	rebus			n
+1@contra	contra	contra			n
+1@manian	manian	manian			n
+1@passionis	passionis	passionis			n
+1@causam	causam	causam			n
+1@ex[2]	ex	ex			n
+1@fervore	fervore	fervore			n
+1@uenire	uenire	uenire			n
+1@suspicantes	suspicantes	suspicantes			n
+1@ut[6]	ut	ut			n
+1@Aristoteles[2]	Aristoteles	aristoteles			n
+1@et[4]	et	et			n
+1@Diocles	Diocles	diocles			n
+1@VIL	VIL	vil			n
+1@R[9]	R	r			n
+1@338	338	338			n
+1@B[7]	B	b			n
+1@376	376	376			n
+1@L[13]	L	l			n
+1@Plinius	Plinius	plinius			n
+1@H[3]	H	h			n
+1@Ν[5]	Ν	ν			n
+1@XXVIII	XXVIII	xxviii			n
+1@74	74	74			n
+1@peculiariter	peculiariter	peculiariter			n
+1@valet	valet	valet			n
+1@lac	lac	lac			n
+1@potum	potum	potum			n
+1@contra[2]	contra	contra			n
+1@venena	venena	venena			n
+1@quae	quae	quae			n
+1@data	data	data			n
+1@sint	sint	sint			n
+1@e[85]	e	e			n
+1@marino	marino	marino			n
+1@lepore	lepore	lepore			n
+1@bupresti	bupresti	bupresti			n
+1@et[6]	et	et			n
+1@aliis	aliis	aliis			n
+1@ut[7]	ut	ut			n
+1@Aristoteles[3]	Aristoteles	aristoteles			n
+1@tradit	tradit	tradit			n
+1@dorycnium	dorycnium	dorycnium			n
+1@et[7]	et	et			n
+1@contra[3]	contra	contra			n
+1@insaniam	insaniam	insaniam			n
+1@quae[2]	quae	quae			n
+1@facta	facta	facta			n
+1@sit[3]	sit	sit			n
+1@hyoscyami	hyoscyami	hyoscyami			n
+1@potu[2]	potu	potu			n
+1@Fr[5]	Fr	fr			n
+1@IV[2]	IV	iv			n
+1@post[2]	post	post			n
+1@definiens[2]	definiens	definiens			n
+1@fortasse	fortasse	fortasse			n
+1@intercidit	intercidit	intercidit			n
+1@ut[8]	ut	ut			n
+1@ait	ait	ait			n
+1@in[13]	in	in			n
+1@nam	nam	nam			n
+1@Sorani	Sorani	sorani			n
+1@liber	liber	liber			n
+1@rispi	rispi	rispi			n
+1@βοηθημάτων	βοηθημάτων	βοηθημάτων			n
+1@citatur	citatur	citatur			n
+1@ut[9]	ut	ut			n
+1@acut[2]	acut	acut			n
+1@morb[4]	morb	morb			n
+1@II[12]	II	ii			n
+1@29	29	29			n
+1@p[28]	p	p			n
+1@143	143	143			n
+1@coactio[2]	coactio	coactio			n
+1@Almeloveenus	Almeloveenus	almeloveenus			n
+1@coctio	coctio	coctio			n
+1@vulgo	vulgo	vulgo			n
+1@necessarium[2]	necessarium	necessarium			n
+1@praetermisit[2]	praetermisit	praetermisit			n
+1@em[4]	em	em			n
+1@ed[7]	ed	ed			n
+1@Lugd	Lugd	lugd			n
+1@1567	1567	1567			n
+1@non	non	non			n
+1@promisit	promisit	promisit			n
+1@vulgo[2]	vulgo	vulgo			n
+1@Fr[6]	Fr	fr			n
+1@V[13]	V	v			n
+1@cf[2]	cf	cf			n
+1@Cael[3]	Cael	cael			n
+1@Aur[2]	Aur	aur			n
+1@chron[2]	chron	chron			n
+1@I[31]	I	i			n
+1@6[7]	6	6			n
+1@p[31]	p	p			n
+1@340[2]	340	340			n
+1@ceterum	ceterum	ceterum			n
+1@idem[3]	idem	idem			n
+1@potuit	potuit	potuit			n
+1@repeti	repeti	repeti			n
+1@ex[3]	ex	ex			n
+1@Aristotelis	Aristotelis	aristotelis			n
+1@Probl	Probl	probl			n
+1@30	30	30			n
+1@1[12]	1	1			n
+1@953	953	953			n
+1@b[14]	b	b			n
+1@14[2]	14	14			n
+1@954	954	954			n
+1@a[87]	a	a			n
+1@31	31	31			n
+1@sicut	sicut	sicut			n
+1@maniae	maniae	maniae			n
+1@causa[2]	causa	causa			n
+1@fr[2]	fr	fr			n
+1@340[3]	340	340			n
+1@tangitur	tangitur	tangitur			n
+1@ibidem	ibidem	ibidem			n
+1@954[2]	954	954			n
+1@a[93]	a	a			n
+1@32	32	32			n
+1@ROSE	ROSE	rose			n
+1@Fr[7]	Fr	fr			n
+1@VI[5]	VI	vi			n
+1@cf[3]	cf	cf			n
+1@Anecd	Anecd	anecd			n
+1@med	med	med			n
+1@Paris	Paris	paris			n
+1@Suppl	Suppl	suppl			n
+1@636	636	636			n
+1@f[16]	f	f			n
+1@47[2]	47	47			n
+1@r[86]	r	r			n
+1@cf[4]	cf	cf			n
+1@supra	supra	supra			n
+1@test[2]	test	test			n
+1@IV[3]	IV	iv			n
+1@14[3]	14	14			n
+1@et[11]	et	et			n
+1@Sitzungsber	Sitzungsber	sitzungsber			n
+1@d[40]	d	d			n
+1@Β	Β	β			n
+1@Ak	Ak	ak			n
+1@1893	1893	1893			n
+1@p[37]	p	p			n
+1@102	102	102			n
+1@2[9]	2	2			n
+1@inter[2]	inter	inter			n
+1@Praxagorae	Praxagorae	praxagorae			n
+1@et[12]	et	et			n
+1@Hippocratis	Hippocratis	hippocratis			n
+1@placita	placita	placita			n
+1@de[13]	de	de			n
+1@mania[4]	mania	mania			n
+1@Ὁ	Ὁ	ὁ			n
+1@δὲ[5]	δὲ	δέ			n
+1@Διοκλῆς	Διοκλῆς	διοκλῆς			n
+1@ζέσιν	ζέσιν	ζέσιν			n
+1@τοῦ[5]	τοῦ	τοῦ			n
+1@ἐν[3]	ἐν	ἐν			n
+1@τῇ[2]	τῇ	τῇ			n
+1@καρδίᾳ	καρδίᾳ	καρδίᾳ			n
+1@αἵματός	αἵματός	αἵματος			n
+1@φησιν	φησιν	φησίν			n
+1@εἶναι[2]	εἶναι	εἶναι			n
+1@χωρὶς	χωρὶς	χωρίς			n
+1@ἐμφράξεως	ἐμφράξεως	ἐμφράξεως			n
+1@γινομένην	γινομένην	γινομένην			n
+1@διὰ	διὰ	διά			n
+1@τοῦτο	τοῦτο	τοῦτο			n
+1@γὰρ	γὰρ	γάρ			n
+1@μηδὲ	μηδὲ	μηδέ			n
+1@πυρετοὺς	πυρετοὺς	πυρετούς			n
+1@ἕπεσθαι	ἕπεσθαι	ἕπεσθαι			n
+1@ὅτι[2]	ὅτι	ὅτι			n
+1@δὲ[7]	δὲ	δέ			n
+1@ἐπὶ	ἐπὶ	ἐπί			n
+1@ζέσιν[2]	ζέσιν	ζέσιν			n
+1@ζέσει	ζέσει	ζέσει			n
+1@γίνεται	γίνεται	γίνεται			n
+1@τοῦ[7]	τοῦ	τοῦ			n
+1@αἵματος	αἵματος	αἵματος			n
+1@δηλοῖ	δηλοῖ	δηλοῖ			n
+1@ἡ[4]	ἡ	ἡ			n
+1@συνήθεια	συνήθεια	συνήθεια			n
+1@τοὺς[3]	τοὺς	τούς			n
+1@γὰρ[2]	γὰρ	γάρ			n
+1@μανιώδεις	μανιώδεις	μανιώδεις			n
+1@τε[6]	τε	τέ			n
+1@Fr[8]	Fr	fr			n
+1@VII[4]	VII	vii			n
+1@bupresti[2]	bupresti	bupresti			n
+1@SR	SR	sr			n
+1@2[10]	2	2			n
+1@praestim	praestim	praestim			n
+1@V[17]	V	v			n
+1@1[18]	1	1			n
+1@prestim	prestim	prestim			n
+1@R[12]	R	r			n
+1@1[19]	1	1			n
+1@et[13]	et	et			n
+1@aliis[2]	aliis	aliis			n
+1@temptavi	temptavi	temptavi			n
+1@utalim	utalim	utalim			n
+1@dorhicnum	dorhicnum	dorhicnum			n
+1@V[18]	V	v			n
+1@dorgcnum	dorgcnum	dorgcnum			n
+1@R[13]	R	r			n
+1@em[8]	em	em			n
+1@L[15]	L	l			n
+1@lanus	lanus	lanus			n
+1@cum[3]	cum	cum			n
+1@toto	toto	toto			n
+1@fr[3]	fr	fr			n
+1@cf[5]	cf	cf			n
+1@Galen[2]	Galen	galen			n
+1@de[14]	de	de			n
+1@antidotis	antidotis	antidotis			n
+1@II[14]	II	ii			n
+1@7[16]	7	7			n
+1@XIV	XIV	xiv			n
+1@139	139	139			n
+1@sqq	sqq	sqq			n
