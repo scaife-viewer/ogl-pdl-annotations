@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "ogl-pdl-annotations"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+conllu = "^4.4.1"
+spacy-conll = {extras = ["parsers"], version = "^3.0.2"}
+
+[tool.poetry.dev-dependencies]
+ipython = "^7.26.0"
+black = "^21.7b0"
+
+[tool.black]
+line-length = 100
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
