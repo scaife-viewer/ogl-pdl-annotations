@@ -1,0 +1,4792 @@
+subref	form	norm	lemma	tag	curated
+5@Μανιχαῖος	Μανιχαῖος	μανιχαῖος			n
+5@ἀπόστολος	ἀπόστολος	ἀπόστολος			n
+5@Ἰησοῦ	Ἰησοῦ	ἰησοῦ	Ἰησοῦς		n
+5@Χριστοῦ	Χριστοῦ	χριστοῦ			n
+5@καὶ	καὶ	καί	καί		n
+5@οἱ	οἱ	οἱ	ὁ		n
+5@σὺν	σὺν	σύν	σύν		n
+5@ἐμοὶ	ἐμοὶ	ἐμοί			n
+5@πάντες	πάντες	πάντες	πᾶς		n
+5@ἅγιοι	ἅγιοι	ἅγιοι	ἅγιος		n
+5@κοὶ	κοὶ	κοί			n
+5@παρθένοι	παρθένοι	παρθένοι			n
+5@Μαρκέλλῳ	Μαρκέλλῳ	μαρκέλλῳ	Μάρκελλος		n
+5@τέκνῳ	τέκνῳ	τέκνῳ			n
+5@ἀγαπητῷ	ἀγαπητῷ	ἀγαπητῷ	ἀγαπητός		n
+5@χάρις	χάρις	χάρις	χάρις		n
+5@ἔλεος	ἔλεος	ἔλεος			n
+5@εἰρήνη	εἰρήνη	εἰρήνη	εἰρήνη		n
+5@ἀπὸ	ἀπὸ	ἀπό	ἀπό		n
+5@θεοῦ	θεοῦ	θεοῦ	θεός		n
+5@πατρὸς	πατρὸς	πατρός	πατήρ		n
+5@καὶ[2]	καὶ	καί	καί		n
+5@κυρίου	κυρίου	κυρίου			n
+5@ἡμῶν	ἡμῶν	ἡμῶν	ἐγώ		n
+5@Ἰησοῦ[2]	Ἰησοῦ	ἰησοῦ	Ἰησοῦς		n
+5@Χριστοῦ[2]	Χριστοῦ	χριστοῦ			n
+5@καὶ[3]	καὶ	καί	καί		n
+5@ἡ[2]	ἡ	ἡ	ὁ		n
+5@ΑCM	ΑCM	αcm			n
+5@und	und	und			n
+5@Epiph	Epiph	epiph			n
+5@25	25	25			n
+5@27	27	27			n
+5@1	1	1			n
+5@animus	animus	animus			n
+5@animose	animose	animose			n
+5@M[2]	M	m			n
+5@stuabat	stuabat	stuabat			n
+5@Α[2]	Α	α			n
+5@utramnam	utramnam	utramnam			n
+5@C[2]	C	c			n
+5@ad	ad	ad			n
+5@eum	eum	eum			n
+5@pergeret	pergeret	pergeret			n
+5@ex	ex	ex			n
+5@se[2]	se	se			n
+5@ad[2]	ad	ad			n
+5@eum[2]	eum	eum			n
+5@pergeret[2]	pergeret	pergeret			n
+5@C[3]	C	c			n
+5@per[3]	per	per			n
+5@se[3]	se	se			n
+5@ageret	ageret	ageret			n
+5@ad[3]	ad	ad			n
+5@eum[3]	eum	eum			n
+5@Μ[3]	Μ	μ			n
+5@p[6]	p	p			n
+5@s[6]	s	s			n
+5@ad[4]	ad	ad			n
+5@eum[4]	eum	eum			n
+5@ageret[2]	ageret	ageret			n
+5@M2	M2	m2			n
+5@3	3	3			n
+5@ingressum	ingressum	ingressum			n
+5@A	A	a			n
+5@aliquid	aliquid	aliquid			n
+5@M[4]	M	m			n
+5@4	4	4			n
+5@versutioribus	versutioribus	versutioribus			n
+5@es[2]	es	es			n
+5@folgt	folgt	folgt			n
+5@in[2]	in	in			n
+5@Α[3]	Α	α			n
+5@eine	eine	eine			n
+5@Ras	Ras	ras			n
+5@von	von	von			n
+5@drei	drei	drei			n
+5@Buchst	Buchst	buchst			n
+5@5[2]	5	5			n
+5@adda	adda	adda			n
+5@C[4]	C	c			n
+5@qui[2]	qui	qui			n
+5@instructus	instructus	instructus			n
+5@vielleicht	vielleicht	vielleicht			n
+5@eine[2]	eine	eine			n
+5@Glosse	Glosse	glosse			n
+5@zu	zu	zu			n
+5@adda[2]	adda	adda			n
+5@Τύρβων	Τύρβων	τύρβων			n
+5@Epiphanius	Epiphanius	epiphanius			n
+5@addam	addam	addam			n
+5@adda[4]	adda	adda			n
+5@Α[4]	Α	α			n
+5@6	6	6			n
+5@acceptam	acceptam	acceptam			n
+5@eam	eam	eam			n
+5@die	die	die			n
+5@beiden	beiden	beiden			n
+5@m[13]	m	m			n
+5@Zeichen	Zeichen	zeichen			n
+5@durchstrichen	durchstrichen	durchstrichen			n
+5@C2	C2	c2			n
+5@7[2]	7	7			n
+5@manen	manen	manen			n
+5@Α[5]	Α	α			n
+5@manne	manne	manne			n
+5@C[6]	C	c			n
+5@praeceptum	praeceptum	praeceptum			n
+5@fuerat	fuerat	fuerat			n
+5@C[7]	C	c			n
+5@8	8	8			n
+5@curso	curso	curso			n
+5@Α[6]	Α	α			n
+5@9	9	9			n
+5@et[5]	et	et			n
+5@Α[7]	Α	α			n
+5@10	10	10			n
+5@ad[9]	ad	ad			n
+5@M[5]	M	m			n
+5@11	11	11			n
+5@intruxerat	intruxerat	intruxerat			n
+5@Α[8]	Α	α			n
+5@12	12	12			n
+5@esset	esset	esset			n
+5@nach	nach	nach			n
+5@quis	quis	quis			n
+5@in[7]	in	in			n
+5@M[6]	M	m			n
+5@14	14	14			n
+5@ad[10]	ad	ad			n
+5@wie	wie	wie			n
+5@immer	immer	immer			n
+5@Α[9]	Α	α			n
+5@ignoratum	ignoratum	ignoratum			n
+5@Α[10]	Α	α			n
+5@15	15	15			n
+5@ipsi	ipsi	ipsi			n
+5@Α[11]	Α	α			n
+5@adhibendum	adhibendum	adhibendum			n
+5@C[8]	C	c			n
+5@16	16	16			n
+5@singula	singula	singula			n
+5@cum	cum	cum			n
+5@M[7]	M	m			n
+5@M2[2]	M2	m2			n
+5@cotidiae	cotidiae	cotidiae			n
+5@Α[12]	Α	α			n
+5@adqne	adqne	adqne			n
+5@wie[2]	wie	wie			n
+5@immer[2]	immer	immer			n
+5@Α[13]	Α	α			n
+5@17	17	17			n
+5@perferre	perferre	perferre			n
+5@Α[14]	Α	α			n
+5@hosptiis	hosptiis	hosptiis			n
+5@Α[15]	Α	α			n
+5@18	18	18			n
+5@indicasse	indicasse	indicasse			n
+5@Α[16]	Α	α			n
+5@20	20	20			n
+5@vero	vero	vero			n
+5@igitur	igitur	igitur			n
+5@C[9]	C	c			n
+5@marcellus	marcellus	marcellus			n
+5@litteras	litteras	litteras			n
+5@M[9]	M	m			n
+5@legit	legit	legit			n
+5@C[10]	C	c			n
+5@21	21	21			n
+5@est	est	est			n
+5@hoc	hoc	hoc			n
+5@C[11]	C	c			n
+5@25[2]	25	25			n
+5@apostolus	apostolus	apostolus			n
+5@s[35]	s	s			n
+5@aus	aus	aus			n
+5@m[25]	m	m			n
+5@w[3]	w	w			n
+5@e[64]	e	e			n
+5@seh	seh	seh			n
+5@corr	corr	corr			n
+5@Α[17]	Α	α			n
+5@ihm	ihm	ihm			n
+5@Α[18]	Α	α			n
+5@26	26	26			n
+5@narh	narh	narh			n
+5@misericordia	misericordia	misericordia			n
+5@et[7]	et	et			n
+5@M[10]	M	m			n
+5@27[2]	27	27			n
+5@dnm	dnm	dnm			n
+5@nm[2]	nm	nm			n
+5@ihm[2]	ihm	ihm			n
+5@xpm	xpm	xpm			n
+5@A[2]	A	a			n
+5@δεξιὰ	δεξιὰ	δεξιά	δεξιός		n
+5@τοῦ[3]	τοῦ	τοῦ	ὁ		n
+5@φωτὸς	φωτὸς	φωτός	φώς		n
+5@διατηρήσειέ	διατηρήσειέ	διατηρήσειε			n
+5@σε[2]	σε	σε			n
+5@ἀπὸ[2]	ἀπὸ	ἀπό	ἀπό		n
+5@τοῦ[4]	τοῦ	τοῦ	ὁ		n
+5@ἐνεστῶτος	ἐνεστῶτος	ἐνεστῶτος			n
+5@αἰῶνος	αἰῶνος	αἰῶνος	αἰών		n
+5@πονηροῦ	πονηροῦ	πονηροῦ	πονηρός		n
+5@καὶ[4]	καὶ	καί	καί		n
+5@τῶν	τῶν	τῶν	ὁ		n
+5@συμπτωμάτων	συμπτωμάτων	συμπτωμάτων	σύμπτωμα		n
+5@αὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτός		n
+5@καὶ[5]	καὶ	καί	καί		n
+5@παγίδων	παγίδων	παγίδων	παγίς		n
+5@τοῦ[6]	τοῦ	τοῦ	ὁ		n
+5@πονηροῦ[2]	πονηροῦ	πονηροῦ	πονηρός		n
+5@ἀμήν	ἀμήν	ἀμήν	ἄμη		n
+5@Τὴν	Τὴν	τήν	ὁ		n
+5@μὲν	μὲν	μέν	μέν		n
+5@περὶ	περὶ	περί	περί		n
+5@σὲ	σὲ	σέ			n
+5@ἀγάπην	ἀγάπην	ἀγάπην	ἀγάπη		n
+5@μεγίστην	μεγίστην	μεγίστην	μέγας		n
+5@οὖσαν	οὖσαν	οὖσαν	εἰμί		n
+5@αἰσθηθείς	αἰσθηθείς	αἰσθηθείς			n
+5@λίαν	λίαν	λίαν	λίαν		n
+5@ἐχάρην	ἐχάρην	ἐχάρην			n
+5@τὴν	τὴν	τήν	ὁ		n
+5@δὲ	δὲ	δέ	δέ		n
+5@πίστιν	πίστιν	πίστιν	πίστις		n
+5@οὐκ	οὐκ	οὐ	οὐ		n
+5@οὖσαν[2]	οὖσαν	οὖσαν	εἰμί		n
+5@κατὰ	κατὰ	κατά	κατά		n
+5@τὸν	τὸν	τόν	ὁ		n
+5@ὁρθὸν	ὁρθὸν	ὁρθόν			n
+5@λόγον	λόγον	λόγον	λόγος		n
+5@ἠχθέσθην	ἠχθέσθην	ἠχθέσθην	ἔχθω		n
+5@ὅθεν	ὅθεν	ὅθεν	ὅθεν		n
+5@πρὸς	πρὸς	πρός	πρός		n
+5@ἐπανόρθωσιν	ἐπανόρθωσιν	ἐπανόρθωσιν	ἐπανόρθωσις		n
+5@τοῦ[7]	τοῦ	τοῦ	ὁ		n
+5@τῶν[2]	τῶν	τῶν	ὁ		n
+5@ἀνθρώπων	ἀνθρώπων	ἀνθρώπων	ἄνθρωπος		n
+5@γένους	γένους	γένους	γένος		n
+5@ἀποσταλεὶς	ἀποσταλεὶς	ἀποσταλείς	ἀποστέλλω		n
+5@φειδόμενός	φειδόμενός	φειδόμενος			n
+5@τε[2]	τε	τέ	τε		n
+5@τῶν[3]	τῶν	τῶν	ὁ		n
+5@ἀπάτῃ	ἀπάτῃ	ἀπάτῃ	ἀπάτη		n
+5@καὶ[6]	καὶ	καί	καί		n
+5@πλάνῃ	πλάνῃ	πλάνῃ	πλάνη		n
+5@ἑαυτοὺς	ἑαυτοὺς	ἑαυτούς	ἑαυτοῦ		n
+5@ἐκδεδωκότων	ἐκδεδωκότων	ἐκδεδωκότων			n
+5@ταῦτα	ταῦτα	ταῦτα	οὗτος		n
+5@τὰ[2]	τὰ	τά	ὁ		n
+5@γράμματα	γράμματα	γράμματα	γράμμα		n
+5@πρὸς[2]	πρὸς	πρός	πρός		n
+5@σὲ[2]	σὲ	σέ			n
+5@ἀναγκαῖον	ἀναγκαῖον	ἀναγκαῖον	ἀναγκαῖον		n
+5@ἡγησάμην	ἡγησάμην	ἡγησάμην	ἡγέομαι		n
+5@ἀποστεῖλαι	ἀποστεῖλαι	ἀποστεῖλαι	ἀποστέλλω		n
+5@πρῶτον	πρῶτον	πρῶτον	πρῶτος		n
+5@μὶν	μὶν	μίν			n
+5@πρὸς[3]	πρὸς	πρός	πρός		n
+5@σωτηρίαν	σωτηρίαν	σωτηρίαν	σωτηρία		n
+5@τῆς	τῆς	τῆς	ὁ		n
+5@σεαυτοῦ	σεαυτοῦ	σεαυτοῦ	σεαυτοῦ		n
+5@ψυχῆς	ψυχῆς	ψυχῆς	ψυχή		n
+5@ἔπειτα	ἔπειτα	ἔπειτα	ἔπειτα		n
+5@δὲ[2]	δὲ	δέ	δέ		n
+5@καὶ[7]	καὶ	καί	καί		n
+5@τῶν[4]	τῶν	τῶν	ὁ		n
+5@ἅμα	ἅμα	ἅμα	ἅμα		n
+5@σοι	σοι	σοι			n
+5@τυγχανόντων	τυγχανόντων	τυγχανόντων	τυγχάνω		n
+5@πρὸς[4]	πρὸς	πρός	πρός		n
+5@τὸ[3]	τὸ	τό	ὁ		n
+5@μὴ	μὴ	μή			n
+5@ἀδιάκριτόν	ἀδιάκριτόν	ἀδιάκριτον			n
+5@σε[4]	σε	σε			n
+5@ἔχειν	ἔχειν	ἔχειν	ἔχω		n
+5@τὸν[2]	τὸν	τόν	ὁ		n
+5@λογισμόν	λογισμόν	λογισμόν	λογισμός		n
+5@ὡς	ὡς	ὡς	ὡς		n
+5@οἱ[2]	οἱ	οἱ	ἕ		n
+5@τῶν[5]	τῶν	τῶν	ὁ		n
+5@ἁπλουστέρων	ἁπλουστέρων	ἁπλουστέρων	ἁπλόος		n
+5@καθηγεμόνες	καθηγεμόνες	καθηγεμόνες	καθηγεμών		n
+5@διδάσκουσι	διδάσκουσι	διδάσκουσι	διδάσκω		n
+5@λέγοντες	λέγοντες	λέγοντες	λέγω		n
+5@τὸ[5]	τὸ	τό	ὁ		n
+5@ἀγαθὸν	ἀγαθὸν	ἀγαθόν	ἀγαθός		n
+5@κοὶ[2]	κοὶ	κοί			n
+5@τὸ[6]	τὸ	τό	ὁ		n
+5@κακὸν	κακὸν	κακόν	κακός		n
+5@ἀπὸ[3]	ἀπὸ	ἀπό	ἀπό		n
+5@τοῦ[9]	τοῦ	τοῦ	ὁ		n
+5@αὐτοῦ[2]	αὐτοῦ	αὐτοῦ	αὐτός		n
+5@φέρεσθαι	φέρεσθαι	φέρεσθαι	φέρω		n
+5@καὶ[8]	καὶ	καί	καί		n
+5@μίαν	μίαν	μίαν			n
+5@ἀρχὴν	ἀρχὴν	ἀρχήν	ἀρχή		n
+5@εἰσηγούμενοι	εἰσηγούμενοι	εἰσηγούμενοι			n
+5@οὐ[2]	οὐ	οὐ	οὐ		n
+5@διακρίνοντες	διακρίνοντες	διακρίνοντες	διακρίνω		n
+5@οὐδὲ	οὐδὲ	οὐδέ	οὐδέ		n
+5@διαιροῦντες	διαιροῦντες	διαιροῦντες	διαιρέω		n
+5@ἀπὸ[4]	ἀπὸ	ἀπό	ἀπό		n
+5@τοῦ[11]	τοῦ	τοῦ	ὁ		n
+5@φωτὸς[2]	φωτὸς	φωτός	φώς		n
+5@τὸ[8]	τὸ	τό	ὁ		n
+5@σκότος	σκότος	σκότος	σκότος		n
+5@καὶ[9]	καὶ	καί	καί		n
+5@τὸ[9]	τὸ	τό	ὁ		n
+5@ἀγαθὸν[2]	ἀγαθὸν	ἀγαθόν	ἀγαθός		n
+5@ἀπὸ[5]	ἀπὸ	ἀπό	ἀπό		n
+5@τοῦ[12]	τοῦ	τοῦ	ὁ		n
+5@κακοῦ	κακοῦ	κακοῦ	κακός		n
+5@καὶ[10]	καὶ	καί	καί		n
+5@φαύλου	φαύλου	φαύλου			n
+5@καὶ[11]	καὶ	καί	καί		n
+5@τὸν[3]	τὸν	τόν	ὁ		n
+5@ἔξωθεν	ἔξωθεν	ἔξωθεν	ἔξωθεν		n
+5@ἄνθρωπον	ἄνθρωπον	ἄνθρωπον	ἄνθρωπος		n
+5@ἀπὸ[6]	ἀπὸ	ἀπό	ἀπό		n
+5@τοῦ[13]	τοῦ	τοῦ	ὁ		n
+5@ἔνδον	ἔνδον	ἔνδον	ἔνδον		n
+5@ὡς[2]	ὡς	ὡς	ὡς		n
+5@προείπομεν	προείπομεν	προείπομεν	προαγορεύω		n
+5@άλλὰ	άλλὰ	άλλα			n
+5@κιρνῶντες	κιρνῶντες	κιρνῶντες			n
+5@καὶ[12]	καὶ	καί	καί		n
+5@ἐγκαταμιγνῦντες	ἐγκαταμιγνῦντες	ἐγκαταμιγνῦντες			n
+5@θάτερον	θάτερον	θάτερον	ἕτερος		n
+5@θατέρῳ	θατέρῳ	θατέρῳ	ἕτερος		n
+5@οὐ[4]	οὐ	οὐ	οὐ		n
+5@παύονται	παύονται	παύονται	παύω		n
+5@σὺ[2]	σὺ	σύ			n
+5@δέ	δέ	δέ	δέ		n
+5@ὦ	ὦ	ὦ	ὦ		n
+5@τέκνον	τέκνον	τέκνον	τέκνον		n
+5@μὴ[2]	μὴ	μή	μή		n
+5@ἶσα	ἶσα	ἶσα	ἴσος		n
+5@τοῖς	τοῖς	τοῖς	ὁ		n
+5@πολλοῖς	πολλοῖς	πολλοῖς	πολύς		n
+5@τῶν[6]	τῶν	τῶν	ὁ		n
+5@ἀνθρώπων[2]	ἀνθρώπων	ἀνθρώπων	ἄνθρωπος		n
+5@ἀλογίστως	ἀλογίστως	ἀλογίστως	ἀλόγιστος		n
+5@καὶ[13]	καὶ	καί	καί		n
+5@ἁπλῶς	ἁπλῶς	ἁπλῶς	ἁπλόος		n
+5@ἀμφότερα	ἀμφότερα	ἀμφότερα	ἀμφότερος		n
+5@ὡς[3]	ὡς	ὡς	ὡς		n
+5@ἂν	ἂν	ἄν	ἄν		n
+5@τύχοι	τύχοι	τύχοι	τυγχάνω		n
+5@ἐνώσῃς	ἐνώσῃς	ἐνώσῃς			n
+5@μηδὲ	μηδὲ	μηδέ	μηδέ		n
+5@τῷ[2]	τῷ	τῷ	τῷ		n
+5@τῆς[2]	τῆς	τῆς	ὁ		n
+5@ACM	ACM	acm			n
+5@und[2]	und	und			n
+5@Epiph[3]	Epiph	epiph			n
+5@1[12]	1	1			n
+5@διατηρήσειε	διατηρήσειε	διατηρήσειε			n
+5@Dindorf	Dindorf	dindorf			n
+5@διατηρήσει[3]	διατηρήσει	διατηρήσει			n
+5@J	J	j			n
+5@9[2]	9	9			n
+5@μὴ[3]	μὴ	μή			n
+5@von[2]	von	von			n
+5@Cornarius	Cornarius	cornarius			n
+5@und[3]	und	und			n
+5@Pelavius	Pelavius	pelavius			n
+5@eingefügt	eingefügt	eingefügt			n
+5@17[2]	17	17			n
+5@te[2]	te	te			n
+5@a[49]	a	a			n
+5@te[3]	te	te			n
+5@de[2]	de	de			n
+5@Α[19]	Α	α			n
+5@et[8]	et	et			n
+5@a[50]	a	a			n
+5@C[14]	C	c			n
+5@ruina	ruina	ruina			n
+5@C[15]	C	c			n
+5@de[3]	de	de			n
+5@laqueis	laqueis	laqueis			n
+5@malignis	malignis	malignis			n
+5@Α[20]	Α	α			n
+5@a[54]	a	a			n
+5@laqueis[2]	laqueis	laqueis			n
+5@maligni[2]	maligni	maligni			n
+5@C[16]	C	c			n
+5@labiis	labiis	labiis			n
+5@malignis[2]	malignis	malignis			n
+5@M[12]	M	m			n
+5@18[2]	18	18			n
+5@amen	amen	amen			n
+5@C[17]	C	c			n
+5@20[2]	20	20			n
+5@fidem	fidem	fidem			n
+5@M[13]	M	m			n
+5@iuxta	iuxta	iuxta			n
+5@te[4]	te	te			n
+5@recta	recta	recta			n
+5@ratione	ratione	ratione			n
+5@C[18]	C	c			n
+5@iuxta[2]	iuxta	iuxta			n
+5@recta[2]	recta	recta			n
+5@ratione[2]	ratione	ratione			n
+5@M[14]	M	m			n
+5@21[2]	21	21			n
+5@nach[2]	nach	nach			n
+5@missus	missus	missus			n
+5@sum[2]	sum	sum			n
+5@Α[21]	Α	α			n
+5@C[19]	C	c			n
+5@et[9]	et	et			n
+5@Α[22]	Α	α			n
+5@22	22	22			n
+5@scribta	scribta	scribta			n
+5@wie[3]	wie	wie			n
+5@immer[3]	immer	immer			n
+5@Α[23]	Α	α			n
+5@28	28	28			n
+5@primum	primum	primum			n
+5@M[15]	M	m			n
+5@salate	salate	salate			n
+5@Α[24]	Α	α			n
+5@24	24	24			n
+5@animos[2]	animos	animos			n
+5@λογισμὸν	λογισμὸν	λογισμόν			n
+5@Εpiphanius	Εpiphanius	εpiphanius			n
+5@25[3]	25	25			n
+5@docent	docent	docent			n
+5@dicentes	dicentes	dicentes			n
+5@docentes	docentes	docentes			n
+5@C[20]	C	c			n
+5@26[2]	26	26			n
+5@auctorem	auctorem	auctorem			n
+5@A[4]	A	a			n
+5@quiquam	quiquam	quiquam			n
+5@A[5]	A	a			n
+5@26[3]	26	26			n
+5@27[3]	27	27			n
+5@ungenaue	ungenaue	ungenaue			n
+5@Übersetzung	Übersetzung	übersetzung			n
+5@καὶ[14]	καὶ	καί			n
+5@φαύλου[2]	φαύλου	φαύλου			n
+5@des	des	des			n
+5@Epiphanius[2]	Epiphanius	epiphanius			n
+5@nicht	nicht	nicht			n
+5@übersetzt	übersetzt	übersetzt			n
+5@29	29	29			n
+5@o[25]	o	o			n
+5@fili	fili	fili			n
+5@Μ[4]	Μ	μ			n
+5@30	30	30			n
+5@indiscraetae	indiscraetae	indiscraetae			n
+5@Α[25]	Α	α			n
+5@indiscreta	indiscreta	indiscreta			n
+5@C[21]	C	c			n
+5@ἀγαθωσύνης	ἀγαθωσύνης	ἀγαθωσύνης	ἀγαθωσύνη		n
+5@θεῷ	θεῷ	θεῷ	θεός		n
+5@ἀνατίθεσο	ἀνατίθεσο	ἀνατίθεσο			n
+5@ἀρχὴν[2]	ἀρχὴν	ἀρχήν	ἀρχή		n
+5@γὰρ	γὰρ	γάρ	γάρ		n
+5@καὶ[15]	καὶ	καί	καί		n
+5@τέλος	τέλος	τέλος	τέλος		n
+5@καὶ[16]	καὶ	καί	καί		n
+5@τὸν[4]	τὸν	τόν	ὁ		n
+5@τούτων	τούτων	τούτων	οὗτος		n
+5@πατέρα	πατέρα	πατέρα	πατήρ		n
+5@τῶν[7]	τῶν	τῶν	ὁ		n
+5@κακῶν	κακῶν	κακῶν	κακός		n
+5@ἐπὶ	ἐπὶ	ἐπί	ἐπί		n
+5@τὸν[5]	τὸν	τόν	ὁ		n
+5@θεὸν	θεὸν	θεόν			n
+5@ἀναφέρουσιν	ἀναφέρουσιν	ἀναφέρουσιν	ἀναφέρω		n
+5@ὦν	ὦν	ὦν			n
+5@τὸ[13]	τὸ	τό	ὁ		n
+5@τέλος[2]	τέλος	τέλος	τέλος		n
+5@κατάρας	κατάρας	κατάρας	καταίρω		n
+5@ἐγγύς	ἐγγύς	ἐγγύς	ἐγγύς		n
+5@οὔτε	οὔτε	οὔτε	οὔτε		n
+5@γὰρ[2]	γὰρ	γάρ	γάρ		n
+5@ἐν[3]	ἐν	ἐν	ἐν		n
+5@τοῖς[2]	τοῖς	τοῖς	ὁ		n
+5@εἰρημένοις	εἰρημένοις	εἰρημένοις	λέγω		n
+5@ἐν[4]	ἐν	ἐν			n
+5@εὐαγγελίοις	εὐαγγελίοις	εὐαγγελίοις			n
+5@παρ[2]	παρ	παρ	παρά		n
+5@αὐτοῦ[3]	αὐτοῦ	αὐτοῦ	αὐτός		n
+5@τοῦ[15]	τοῦ	τοῦ	ὁ		n
+5@σωτῆρος	σωτῆρος	σωτῆρος	σωτήρ		n
+5@ἡμῶν[2]	ἡμῶν	ἡμῶν	ἐγώ		n
+5@καὶ[17]	καὶ	καί	καί		n
+5@κυρίου[2]	κυρίου	κυρίου			n
+5@Ἰησοῦ[3]	Ἰησοῦ	ἰησοῦ			n
+5@Χριστοῦ[3]	Χριστοῦ	χριστοῦ			n
+5@πιστεύουσιν	πιστεύουσιν	πιστεύουσιν	πιστεύω		n
+5@ὅτι	ὅτι	ὅτι	ὅτι2		n
+5@οὐ[5]	οὐ	οὐ	οὐ		n
+5@δύναται	δύναται	δύναται	δύναμαι		n
+5@δέδρον	δέδρον	δέδρον			n
+5@καλὸν	καλὸν	καλόν	καλός		n
+5@καρποὺς	καρποὺς	καρπούς	καρπός		n
+5@κακοὺς	κακοὺς	κακούς	κακός		n
+5@ποιῆσαι	ποιῆσαι	ποιῆσαι	ποιέω		n
+5@οὑδὲ	οὑδὲ	οὑδέ			n
+5@μὴν	μὴν	μήν	μήν		n
+5@δένδρον	δένδρον	δένδρον	δένδρον		n
+5@κακὸν[2]	κακὸν	κακόν	κακός		n
+5@καλοὺς	καλοὺς	καλούς	καλός		n
+5@καρποὺς[2]	καρποὺς	καρπούς	καρπός		n
+5@ποιῆσαι[2]	ποιῆσαι	ποιῆσαι	ποιέω		n
+5@καὶ[18]	καὶ	καί	καί		n
+5@πῶς	πῶς	πῶς	πῶς		n
+5@τὸν[6]	τὸν	τόν	ὁ		n
+5@θεὸν[2]	θεὸν	θεόν			n
+5@τοῦ[17]	τοῦ	τοῦ	ὁ		n
+5@Σατανᾶ	Σατανᾶ	σατανᾶ			n
+5@καὶ[19]	καὶ	καί	καί		n
+5@τῶν[8]	τῶν	τῶν	ὁ		n
+5@κακῶν[2]	κακῶν	κακῶν	κακός		n
+5@αὐτοῦ[4]	αὐτοῦ	αὐτοῦ	αὐτός		n
+5@πραγμάτων	πραγμάτων	πραγμάτων	πρᾶγμα		n
+5@λέγειν	λέγειν	λέγειν	λέγω		n
+5@τολμῶσι	τολμῶσι	τολμῶσι			n
+5@ποιητὴν	ποιητὴν	ποιητήν	ποιητής		n
+5@καὶ[20]	καὶ	καί	καί		n
+5@δημιουργὸν	δημιουργὸν	δημιουργόν	δημιουργός		n
+5@θαυμάζειν	θαυμάζειν	θαυμάζειν	θαυμάζω		n
+5@μοι	μοι	μοι	ἐγώ		n
+5@ἐπέρχεται	ἐπέρχεται	ἐπέρχεται	ἐπέρχομαι		n
+5@καὶ[21]	καὶ	καί	καί		n
+5@εἴθε	εἴθε	εἴθε			n
+5@μὲν[2]	μὲν	μέν	μέν		n
+5@ἄχρι	ἄχρι	ἄχρι	ἄχρι		n
+5@τούτων[2]	τούτων	τούτων	οὗτος		n
+5@ἔφθασεν	ἔφθασεν	ἔφθασεν	φθάνω		n
+5@αὐτῶν	αὐτῶν	αὐτῶν	αὐτός		n
+5@ἡ[5]	ἡ	ἡ	ὁ		n
+5@ματαιοπονία	ματαιοπονία	ματαιοπονία	ματαιοπονία		n
+5@καὶ[22]	καὶ	καί	καί		n
+5@μὴ[5]	μὴ	μή	μή		n
+5@τὸν[7]	τὸν	τόν	ὁ		n
+5@μονογενῆ	μονογενῆ	μονογενῆ	μονογενής		n
+5@τὸν[8]	τὸν	τόν	ὁ		n
+5@ἐκ[2]	ἐκ	ἐκ	ἐκ		n
+5@τῶν[10]	τῶν	τῶν	ὁ		n
+5@κόλπων	κόλπων	κόλπων			n
+5@τοῦ[19]	τοῦ	τοῦ	ὁ		n
+5@πατρὸς[2]	πατρὸς	πατρός	πατήρ		n
+5@καταβάντα	καταβάντα	καταβάντα	καταβαίνω		n
+5@Χριστόν	Χριστόν	χριστόν	Χριστός		n
+5@Μαρίας	Μαρίας	μαρίας	Μαρία		n
+5@τινὸς	τινὸς	τινός			n
+5@γυναικὸς	γυναικὸς	γυναικός	γυνή		n
+5@ἔλεγον	ἔλεγον	ἔλεγον	λέγω		n
+5@εἶναι	εἶναι	εἶναι	εἰμί		n
+5@υἱόν	υἱόν	υἱόν	υἱός		n
+5@ἐξ	ἐξ	ἐκ	ἐκ		n
+5@αἴματος	αἴματος	αἴματος			n
+5@κοὶ[3]	κοὶ	κοί			n
+5@σαρκὸς	σαρκὸς	σαρκός	σάρξ		n
+5@καὶ[23]	καὶ	καί	καί		n
+5@τῆς[3]	τῆς	τῆς	ὁ		n
+5@ἄλλης	ἄλλης	ἄλλης	ἄλλος		n
+5@δυσωδίας	δυσωδίας	δυσωδίας	δυσωδία		n
+5@τῶν[11]	τῶν	τῶν	ὁ		n
+5@γυναικῶν	γυναικῶν	γυναικῶν	γυνή		n
+5@γεγεννῆσθαι	γεγεννῆσθαι	γεγεννῆσθαι	γεννάω		n
+5@καὶ[24]	καὶ	καί	καί		n
+5@ἵνα	ἵνα	ἵνα	ἵνα		n
+5@μὴ[6]	μὴ	μή	μή		n
+5@τὰ[3]	τὰ	τά	ὁ		n
+5@πολλὰ	πολλὰ	πολλά	πολύς		n
+5@διὰ	διὰ	διά	διά		n
+5@τῆσδε	τῆσδε	τῆσδε	ὅδε		n
+5@τῆς[4]	τῆς	τῆς	ὁ		n
+5@ἐπιστολῆς	ἐπιστολῆς	ἐπιστολῆς	ἐπιστολή		n
+5@γράφων	γράφων	γράφων	γράφω		n
+5@εἰς	εἰς	εἰς	εἰς		n
+5@μῆκος	μῆκος	μῆκος	μῆκος		n
+5@χρόνου	χρόνου	χρόνου	χρόνος		n
+5@σιασύρω	σιασύρω	σιασύρω			n
+5@σου	σου	σου			n
+5@τὴν[3]	τὴν	τήν	ὁ		n
+5@ἐπιείκειαν	ἐπιείκειαν	ἐπιείκειαν	ἐπιείκεια		n
+5@οὐκ[2]	οὐκ	οὐ	οὐ		n
+5@ἔχων	ἔχων	ἔχων	ἔχω		n
+5@τὰς	τὰς	τάς	ὁ		n
+5@φυσικὰς	φυσικὰς	φυσικάς	φυσικός		n
+5@φράσεις	φράσεις	φράσεις	φράσις		n
+5@ἐπὶ[2]	ἐπὶ	ἐπί	ἐπί		n
+5@τούτοις	τούτοις	τούτοις	οὗτος		n
+5@ἀρκεσθήσομαι	ἀρκεσθήσομαι	ἀρκεσθήσομαι			n
+5@τὸ[17]	τὸ	τό	ὁ		n
+5@δ[31]	δ	δ			n
+5@ὅλου	ὅλου	ὅλου			n
+5@γνώσῃ	γνώσῃ	γνώσῃ	γιγνώσκω		n
+5@παρόντος	παρόντος	παρόντος	πάρειμι		n
+5@μου	μου	μου			n
+5@πρὸς[5]	πρὸς	πρός	πρός		n
+5@σέ	σέ	σέ			n
+5@εἴγε	εἴγε	εἴγε	εἰ		n
+5@τῆς[5]	τῆς	τῆς	ὁ		n
+5@σεαυτοῦ[2]	σεαυτοῦ	σεαυτοῦ	σεαυτοῦ		n
+5@σωτηρίας	σωτηρίας	σωτηρίας	σωτηρία		n
+5@ἔτι	ἔτι	ἔτι	ἔτι		n
+5@φείδῃ	φείδῃ	φείδῃ			n
+5@οὔδὲ	οὔδὲ	οὔδε			n
+5@γὰρ[3]	γὰρ	γάρ	γάρ		n
+5@βρόχον	βρόχον	βρόχον	βρόχος		n
+5@τινὶ	τινὶ	τινί			n
+5@2[23]	2	2			n
+5@17[3]	17	17			n
+5@Hebr	Hebr	hebr			n
+5@6[6]	6	6			n
+5@8[5]	8	8			n
+5@4[4]	4	4			n
+5@18[3]	18	18			n
+5@Matth	Matth	matth			n
+5@7[8]	7	7			n
+5@18[4]	18	18			n
+5@Luk	Luk	luk			n
+5@6[7]	6	6			n
+5@43	43	43			n
+5@9[4]	9	9			n
+5@28[2]	28	28			n
+5@Joh	Joh	joh			n
+5@1[19]	1	1			n
+5@18[5]	18	18			n
+5@15[2]	15	15			n
+5@29[2]	29	29			n
+5@I	I	i			n
+5@Kor	Kor	kor			n
+5@7[9]	7	7			n
+5@35	35	35			n
+5@AMC	AMC	amc			n
+5@und[4]	und	und			n
+5@Epiph[5]	Epiph	epiph			n
+5@3[5]	3	3			n
+5@ἐν[5]	ἐν	ἐν			n
+5@nach[3]	nach	nach			n
+5@den[2]	den	den			n
+5@Acta	Acta	acta			n
+5@corr[2]	corr	corr			n
+5@Zacagni	Zacagni	zacagni			n
+5@10[2]	10	10			n
+5@nach[4]	nach	nach			n
+5@υἱὸν	υἱὸν	υἱόν			n
+5@καὶ[25]	καὶ	καί			n
+5@Oehler	Oehler	oehler			n
+5@11[2]	11	11			n
+5@γεγεν-	γεγεν-	γεγεν-			n
+5@νῆσθαι[2]	νῆσθαι	νῆσθαι			n
+5@γεγεννημένον	γεγεννημένον	γεγεννημένον			n
+5@Routh	Routh	routh			n
+5@16[2]	16	16			n
+5@freie	freie	freie			n
+5@Übersetzung[2]	Übersetzung	übersetzung			n
+5@dei	dei	dei			n
+5@Α[26]	Α	α			n
+5@enim	enim	enim			n
+5@C[23]	C	c			n
+5@17[4]	17	17			n
+5@fidem[2]	fidem	fidem			n
+5@Α[27]	Α	α			n
+5@patrum	patrum	patrum			n
+5@Μ[6]	Μ	μ			n
+5@est[2]	est	est			n
+5@fehlt	fehlt	fehlt			n
+5@im[9]	im	im			n
+5@Griechischen	Griechischen	griechischen			n
+5@18[6]	18	18			n
+5@in[15]	in	in			n
+5@nach[5]	nach	nach			n
+5@enim[2]	enim	enim			n
+5@Α[28]	Α	α			n
+5@19	19	19			n
+5@et[15]	et	et			n
+5@domini	domini	domini			n
+5@Μ[7]	Μ	μ			n
+5@ihm[3]	ihm	ihm			n
+5@Α[29]	Α	α			n
+5@19[2]	19	19			n
+5@20[3]	20	20			n
+5@umgekehrte	umgekehrte	umgekehrte			n
+5@Reihenfolge	Reihenfolge	reihenfolge			n
+5@der	der	der			n
+5@Sätze	Sätze	sätze			n
+5@des[2]	des	des			n
+5@Citates	Citates	citates			n
+5@20[4]	20	20			n
+5@fructus	fructus	fructus			n
+5@bonos	bonos	bonos			n
+5@M[18]	M	m			n
+5@M2[3]	M2	m2			n
+5@malus	malus	malus			n
+5@Α[30]	Α	α			n
+5@21[3]	21	21			n
+5@deum	deum	deum			n
+5@aus[2]	aus	aus			n
+5@corr[3]	corr	corr			n
+5@A[8]	A	a			n
+5@dominum	dominum	dominum			n
+5@C[25]	C	c			n
+5@actum	actum	actum			n
+5@Α[31]	Α	α			n
+5@factorum	factorum	factorum			n
+5@C[26]	C	c			n
+5@et[16]	et	et			n
+5@C[27]	C	c			n
+5@23	23	23			n
+5@qui[5]	qui	qui			n
+5@de[12]	de	de			n
+5@aus[3]	aus	aus			n
+5@quidem	quidem	quidem			n
+5@corr[4]	corr	corr			n
+5@C2[2]	C2	c2			n
+5@de[14]	de	de			n
+5@Α[32]	Α	α			n
+5@24[2]	24	24			n
+5@nach[6]	nach	nach			n
+5@filium	filium	filium			n
+5@et[17]	et	et			n
+5@Μ[8]	Μ	μ			n
+5@25[4]	25	25			n
+5@at[11]	at	at			n
+5@tu[8]	tu	tu			n
+5@Α[33]	Α	α			n
+5@plura	plura	plura			n
+5@Μ[9]	Μ	μ			n
+5@26[4]	26	26			n
+5@atque	atque	atque			n
+5@quae	quae	quae			n
+5@Μ[10]	Μ	μ			n
+5@27[4]	27	27			n
+5@non	non	non			n
+5@C[29]	C	c			n
+5@sufficiant	sufficiant	sufficiant			n
+5@M[20]	M	m			n
+5@28[3]	28	28			n
+5@cognoscis	cognoscis	cognoscis			n
+5@Α[34]	Α	α			n
+5@aput	aput	aput			n
+5@Α[35]	Α	α			n
+5@wie[4]	wie	wie			n
+5@immer[4]	immer	immer			n
+5@29[3]	29	29			n
+5@parcere	parcere	parcere			n
+5@festinas	festinas	festinas			n
+5@sehr	sehr	sehr			n
+5@freie[2]	freie	freie			n
+5@Übersetzung[3]	Übersetzung	übersetzung			n
+5@ἐπιβάλλω	ἐπιβάλλω	ἐπιβάλλω	ἐπιβάλλω		n
+5@ὡς[4]	ὡς	ὡς	ὡς		n
+5@οἱ[3]	οἱ	οἱ	ὁ		n
+5@τῶν[12]	τῶν	τῶν	ὁ		n
+5@πολλῶν	πολλῶν	πολλῶν	πολύς		n
+5@ἀφρονέστεροι	ἀφρονέστεροι	ἀφρονέστεροι			n
+5@ποιοῦσιν	ποιοῦσιν	ποιοῦσιν	ποιέω		n
+5@νόει	νόει	νόει	νοέω		n
+5@νόει[2]	νόει	νόει	νοέω		n
+5@ἃ	ἃ	ἅ	ὅς		n
+5@λέγω	λέγω	λέγω	λέγω		n
+5@τέκνον[2]	τέκνον	τέκνον	τέκνον		n
+5@τιμιώτατε	τιμιώτατε	τιμιώτατε			n
+6@VII	VII	vii			n
+6@Mάρκελλος	Mάρκελλος	mάρκελλος			n
+6@ἀνὴρ	ἀνὴρ	ἀνήρ	ἀνήρ		n
+6@ἐπίσημος	ἐπίσημος	ἐπίσημος	ἐπίσημος		n
+6@Μανιχαίῳ	Μανιχαίῳ	μανιχαίῳ			n
+6@τῷ	τῷ	τῷ	τῷ		n
+6@διὰ	διὰ	διά	διά		n
+6@τῆς	τῆς	τῆς	ὁ		n
+6@ἐπιστολῆς	ἐπιστολῆς	ἐπιστολῆς	ἐπιστολή		n
+6@δηλουμένῳ	δηλουμένῳ	δηλουμένῳ			n
+6@χαίρειν	χαίρειν	χαίρειν	χαίρω		n
+6@τὴν	τὴν	τήν	ὁ		n
+6@τὴν[2]	τὴν	τήν	ὁ		n
+6@μὲν	μὲν	μέν	μέν		n
+6@ὑπὸ	ὑπὸ	ὑπό	ὑπό		n
+6@σοῦ	σοῦ	σοῦ	σός		n
+6@γραφεῖσαν	γραφεῖσαν	γραφεῖσαν	γράφω		n
+6@ἐπιστολὴν	ἐπιστολὴν	ἐπιστολήν	ἐπιστολή		n
+6@προσηκάμην	προσηκάμην	προσηκάμην	προσίημι		n
+6@τὸν	τὸν	τόν	ὁ		n
+6@δὲ	δὲ	δέ	δέ		n
+6@Τύρβωνα	Τύρβωνα	τύρβωνα			n
+6@προσεδεξάμην	προσεδεξάμην	προσεδεξάμην			n
+6@κατὰ	κατὰ	κατά	κατά		n
+6@φιλοφροσύνην	φιλοφροσύνην	φιλοφροσύνην	φιλοφροσύνη		n
+6@ἐμήν	ἐμήν	ἐμήν	ἐμός		n
+6@τῶν	τῶν	τῶν	ὁ		n
+6@δὲ[2]	δὲ	δέ	δέ		n
+6@γραμάτων	γραμάτων	γραμάτων			n
+6@τὸν[2]	τὸν	τόν	ὁ		n
+6@νοῦν	νοῦν	νοῦν	νόος		n
+6@οὑδαμῶς	οὑδαμῶς	οὑδαμῶς			n
+6@ἔγνων	ἔγνων	ἔγνων	γιγνώσκω		n
+6@εἰ	εἰ	εἰ	εἰ		n
+6@μὴ	μὴ	μή	μή		n
+6@σὺ	σὺ	σύ			n
+6@παραγενόμενος	παραγενόμενος	παραγενόμενος	παραγίγνομαι		n
+6@φράσῃς	φράσῃς	φράσῃς	φράζω		n
+6@ἡμῖν	ἡμῖν	ἡμῖν			n
+6@καταλογάδην	καταλογάδην	καταλογάδην	καταλογάδην		n
+6@ἔκαστον	ἔκαστον	ἔκαστον			n
+6@ὡς	ὡς	ὡς	ὡς		n
+6@ὑπέσχου	ὑπέσχου	ὑπέσχου	ὑπέχω		n
+6@διὰ[2]	διὰ	διά	διά		n
+6@τῆς[2]	τῆς	τῆς	ὁ		n
+6@ἐπιστολῆς[2]	ἐπιστολῆς	ἐπιστολῆς	ἐπιστολή		n
+6@ἔρρωσθε	ἔρρωσθε	ἔρρωσθε			n
+6@ACM	ACM	acm			n
+6@und	und	und			n
+6@Epiph	Epiph	epiph			n
+6@3	3	3			n
+6@4	4	4			n
+6@und[2]	und	und			n
+6@17-21	17-21	17-21			n
+6@3[2]	3	3			n
+6@initio	initio	initio			n
+6@C[2]	C	c			n
+6@4[2]	4	4			n
+6@nach	nach	nach			n
+6@honorabilis	honorabilis	honorabilis			n
+6@uale	uale	uale			n
+6@Α	Α	α			n
+6@5	5	5			n
+6@haec	haec	haec			n
+6@ACM[2]	ACM	acm			n
+6@obsequen-	obsequen-	obsequen-			n
+6@tissimo	tissimo	tissimo			n
+6@das	das	das			n
+6@erste	erste	erste			n
+6@e[7]	e	e			n
+6@vielleicht	vielleicht	vielleicht			n
+6@a[6]	a	a			n
+6@Ras	Ras	ras			n
+6@C[4]	C	c			n
+6@6	6	6			n
+6@quae	quae	quae			n
+6@q[3]	q	q			n
+6@Α[2]	Α	α			n
+6@7[2]	7	7			n
+6@nach[2]	nach	nach			n
+6@conclusus	conclusus	conclusus			n
+6@os	os	os			n
+6@M[4]	M	m			n
+6@8	8	8			n
+6@sibi	sibi	sibi			n
+6@desiderans	desiderans	desiderans			n
+6@dari	dari	dari			n
+6@uidere	uidere	uidere			n
+6@desiderans[2]	desiderans	desiderans			n
+6@M[5]	M	m			n
+6@vgl	vgl	vgl			n
+6@Epiphanius	Epiphanius	epiphanius			n
+6@haer	haer	haer			n
+6@66	66	66			n
+6@7[3]	7	7			n
+6@ὸ[4]	ὸ	ό			n
+6@δὲ[3]	δὲ	δέ			n
+6@Ἀρχέλαος	Ἀρχέλαος	ἀρχέλαος			n
+6@γνοὺς	γνοὺς	γνούς			n
+6@τὴν[3]	τὴν	τήν			n
+6@αἰτίαν	αἰτίαν	αἰτίαν			n
+6@καὶ	καὶ	καί			n
+6@τὴν[4]	τὴν	τήν			n
+6@ἐπιστολὴν[2]	ἐπιστολὴν	ἐπιστολήν			n
+6@ἀναγνοὺς	ἀναγνοὺς	ἀναγνούς			n
+6@ἔβρυχε	ἔβρυχε	ἔβρυχε			n
+6@τοὺς	τοὺς	τούς			n
+6@ὁδόντας	ὁδόντας	ὁδόντας			n
+6@ὥσπερ	ὥσπερ	ὥσπερ			n
+6@λέων	λέων	λέων			n
+6@ὡρυόμενος	ὡρυόμενος	ὡρυόμενος			n
+6@καὶ[2]	καὶ	καί			n
+6@ξῆλον	ξῆλον	ξῆλον			n
+6@θεοῦ	θεοῦ	θεοῦ			n
+6@ἀναλαβὼν	ἀναλαβὼν	ἀναλαβών			n
+6@ἐπειρᾶτο	ἐπειρᾶτο	ἐπειρᾶτο			n
+6@ὁρμῆσαι	ὁρμῆσαι	ὁρμῆσαι			n
+6@μᾶλλον	μᾶλλον	μᾶλλον			n
+6@ἕως	ἕως	ἕως			n
+6@αὐτοῦ	αὐτοῦ	αὐτοῦ			n
+6@καὶ[3]	καὶ	καί			n
+6@χειρώσασθαι	χειρώσασθαι	χειρώσασθαι			n
+6@τὸν[3]	τὸν	τόν			n
+6@τοιοῦτον	τοιοῦτον	τοιοῦτον			n
+6@usw	usw	usw			n
+6@9	9	9			n
+6@procuratum	procuratum	procuratum			n
+6@Α[3]	Α	α			n
+6@procuraturam	procuraturam	procuraturam			n
+6@Μ[2]	Μ	μ			n
+6@18	18	18			n
+6@a[18]	a	a			n
+6@te[2]	te	te			n
+6@ΑΜ	ΑΜ	αμ			n
+6@19	19	19			n
+6@vero	vero	vero			n
+6@uerum	uerum	uerum			n
+6@Α[5]	Α	α			n
+6@Μ[4]	Μ	μ			n
+6@21[2]	21	21			n
+6@per	per	per			n
+6@epistulam	epistulam	epistulam			n
+6@C[5]	C	c			n
+6@promisti	promisti	promisti			n
+6@C[6]	C	c			n
+6@22	22	22			n
+6@scriptam	scriptam	scriptam			n
+6@atque	atque	atque			n
+6@C[7]	C	c			n
+6@tradit	tradit	tradit			n
+6@M[6]	M	m			n
+6@referendam	referendam	referendam			n
+6@C[8]	C	c			n
+6@23	23	23			n
+6@ad[2]	ad	ad			n
+6@eum	eum	eum			n
+6@illi	illi	illi			n
+6@Μ[5]	Μ	μ			n
+6@24	24	24			n
+6@nach[3]	nach	nach			n
+6@itineris	itineris	itineris			n
+6@ac[4]	ac	ac			n
+6@M[7]	M	m			n
+6@25	25	25			n
+6@ad[3]	ad	ad			n
+6@illum	illum	illum			n
+6@reuersurum	reuersurum	reuersurum			n
+6@A[3]	A	a			n
+6@ad[4]	ad	ad			n
+6@eum[2]	eum	eum			n
+6@reditum	reditum	reditum			n
+6@C[9]	C	c			n
+7@XXV	XXV	xxv			n
+7@Εἰ	Εἰ	εἰ	εἰ		n
+7@τὴν	τὴν	τήν	ὁ		n
+7@τοῦ	τοῦ	τοῦ	ὁ		n
+7@Μάνη	Μάνη	μάνη			n
+7@πίστιν	πίστιν	πίστιν	πίστις		n
+7@θέλετε	θέλετε	θέλετε	ἐθέλω		n
+7@μαθεῖν	μαθεῖν	μαθεῖν	μανθάνω		n
+7@παρ	παρ	παρ			n
+7@ἐμοῦ	ἐμοῦ	ἐμοῦ	παρά		n
+7@ἀκούσατε	ἀκούσατε	ἀκούσατε	ἀκούω		n
+7@συντόμως	συντόμως	συντόμως	σύντομος		n
+7@οὗτος	οὗτος	οὗτος	οὗτος		n
+7@δύο	δύο	δύο	γε		n
+7@σέβει	σέβει	σέβει	σέβομαι		n
+7@θεοὺς	θεοὺς	θεούς			n
+7@ἀγεννήτους	ἀγεννήτους	ἀγεννήτους			n
+7@αὐτοφυεῖς	αὐτοφυεῖς	αὐτοφυεῖς	αὐτοφυής		n
+7@ἀἵδίους	ἀἵδίους	ἀἵδιους			n
+7@ἴνα	ἴνα	ἴνα	ἴς		n
+7@τῷ	τῷ	τῷ	ὁ		n
+7@ἑνὶ	ἑνὶ	ἑνί			n
+7@ἀντικείμενον	ἀντικείμενον	ἀντικείμενον			n
+7@καὶ	καὶ	καί	καί		n
+7@τὸν	τὸν	τόν	ὁ		n
+7@μὲν	μὲν	μέν	μέν		n
+7@ἀγαθόν	ἀγαθόν	ἀγαθόν	ἀγαθός		n
+7@τὸν[2]	τὸν	τόν	ὁ		n
+7@δὲ	δὲ	δέ	δέ		n
+7@πονηρὸν	πονηρὸν	πονηρόν	πονηρός		n
+7@εἰσηγεῖται	εἰσηγεῖται	εἰσηγεῖται			n
+7@φῶς	φῶς	φῶς	φάος		n
+7@τῷ[2]	τῷ	τῷ	τῷ		n
+7@ἐνὶ	ἐνὶ	ἐνί	ἐν		n
+7@ὅνομα	ὅνομα	ὅνομα			n
+7@θέμενος	θέμενος	θέμενος			n
+7@καὶ[2]	καὶ	καί	καί		n
+7@τῷ[3]	τῷ	τῷ	τῷ		n
+7@ἐτέρῳ	ἐτέρῳ	ἐτέρῳ			n
+7@σκότος	σκότος	σκότος	σκότος		n
+7@καὶ[3]	καὶ	καί	καί		n
+7@τοῦ[2]	τοῦ	τοῦ	ὁ		n
+7@μὶν	μὶν	μίν			n
+7@φωτὸς	φωτὸς	φωτός	φώς		n
+7@εῖναι	εῖναι	εῖναι			n
+7@μέρος	μέρος	μέρος	μέρος		n
+7@τὴν[2]	τὴν	τήν	ὁ		n
+7@ἐν[2]	ἐν	ἐν	ἐν		n
+7@ἀνθρώποις	ἀνθρώποις	ἀνθρώποις	ἄνθρωπος		n
+7@ψυχήν	ψυχήν	ψυχήν	ψυχή		n
+7@τοῦ[3]	τοῦ	τοῦ	ὁ		n
+7@δὲ[2]	δὲ	δέ	δέ		n
+7@σκότους	σκότους	σκότους			n
+7@τὸ[4]	τὸ	τό	ὁ		n
+7@σῶμα	σῶμα	σῶμα	σῶμα		n
+7@καὶ[4]	καὶ	καί	καί		n
+7@τὸ[5]	τὸ	τό	ὁ		n
+7@τῆς	τῆς	τῆς	ὁ		n
+7@ὕλης	ὕλης	ὕλης	ὕλη		n
+7@δημιούργημα	δημιούργημα	δημιούργημα	δημιούργημα		n
+7@μῖξιν	μῖξιν	μῖξιν	μίξις		n
+7@δὲ[3]	δὲ	δέ	δέ		n
+7@ἤτοι	ἤτοι	ἤτοι	ἤτοι		n
+7@σύγκρασιν	σύγκρασιν	σύγκρασιν	σύγκρασις		n
+7@τοῦτον	τοῦτον	τοῦτον	οὗτος		n
+7@λέγει	λέγει	λέγει	λέγω		n
+7@γεγονέναι	γεγονέναι	γεγονέναι	γίγνομαι		n
+7@τὸν[3]	τὸν	τόν	ὁ		n
+7@τρόπον	τρόπον	τρόπον	τρόπος		n
+7@ἀπεικάζων	ἀπεικάζων	ἀπεικάζων	ἀπεικάζω		n
+7@τοὺς	τοὺς	τούς	ὁ		n
+7@δύο[2]	δύο	δύο	γε		n
+7@ACM	ACM	acm			n
+7@und	und	und			n
+7@Epiph	Epiph	epiph			n
+7@l	l	l			n
+7@18	18	18			n
+7@24	24	24			n
+7@1[2]	1	1			n
+7@fore	fore	fore			n
+7@futuram	futuram	futuram			n
+7@C[2]	C	c			n
+7@unum	unum	unum			n
+7@A[2]	A	a			n
+7@calisto	calisto	calisto			n
+7@M[2]	M	m			n
+7@2[2]	2	2			n
+7@praecepit	praecepit	praecepit			n
+7@Μ[2]	Μ	μ			n
+7@ilico	ilico	ilico			n
+7@M[3]	M	m			n
+7@postridum	postridum	postridum			n
+7@Α	Α	α			n
+7@3	3	3			n
+7@manem	manem	manem			n
+7@C[3]	C	c			n
+7@repperit	repperit	repperit			n
+7@das	das	das			n
+7@erste	erste	erste			n
+7@p[8]	p	p			n
+7@durchstrichen	durchstrichen	durchstrichen			n
+7@C[4]	C	c			n
+7@4[2]	4	4			n
+7@tradit	tradit	tradit			n
+7@Μ[3]	Μ	μ			n
+7@5	5	5			n
+7@esse	esse	esse			n
+7@zweimal	zweimal	zweimal			n
+7@geschrieben	geschrieben	geschrieben			n
+7@A[3]	A	a			n
+7@inuitatum	inuitatum	inuitatum			n
+7@se[2]	se	se			n
+7@esse[2]	esse	esse			n
+7@C[5]	C	c			n
+7@5[2]	5	5			n
+7@6	6	6			n
+7@remorationem	remorationem	remorationem			n
+7@non	non	non			n
+7@prosperam	prosperam	prosperam			n
+7@C[6]	C	c			n
+7@vielleicht	vielleicht	vielleicht			n
+7@richtig	richtig	richtig			n
+7@vgl	vgl	vgl			n
+7@Epiphanius	Epiphanius	epiphanius			n
+7@a[12]	a	a			n
+7@a[13]	a	a			n
+7@Ο	Ο	ο			n
+7@Cap	Cap	cap			n
+7@8[2]	8	8			n
+7@ταῦτα	ταῦτα	ταῦτα			n
+7@γνοὺς	γνοὺς	γνούς			n
+7@ὁ	ὁ	ὁ			n
+7@Μάνης	Μάνης	μάνης			n
+7@ἐσκέπτετο	ἐσκέπτετο	ἐσκέπτετο			n
+7@οὐκ	οὐκ	οὐ			n
+7@ἀγαθὴν	ἀγαθὴν	ἀγαθήν			n
+7@εἶναι	εἶναι	εἶναι			n
+7@τὴν[3]	τὴν	τήν			n
+7@τοῦ[5]	τοῦ	τοῦ			n
+7@Τύρβωνος	Τύρβωνος	τύρβωνος			n
+7@ἐν[3]	ἐν	ἐν			n
+7@καθέξει	καθέξει	καθέξει			n
+7@γενομένην	γενομένην	γενομένην			n
+7@παρουσίαν	παρουσίαν	παρουσίαν			n
+7@ὅμως	ὅμως	ὅμως			n
+7@διὰ	διὰ	διά			n
+7@τῆς[2]	τῆς	τῆς			n
+7@ἐπιστολῆς	ἐπιστολῆς	ἐπιστολῆς			n
+7@λαβόμενος	λαβόμενος	λαβόμενος			n
+7@τὴν[4]	τὴν	τήν			n
+7@πρόφασιν	πρόφασιν	πρόφασιν			n
+7@δρομαίως	δρομαίως	δρομαίως			n
+7@ἦκε	ἦκε	ἦκε			n
+7@πρὸς	πρὸς	πρός			n
+7@τὸν[4]	τὸν	τόν			n
+7@Μάρκελλον	Μάρκελλον	μάρκελλον			n
+7@6[2]	6	6			n
+7@praesagus	praesagus	praesagus			n
+7@Α[2]	Α	α			n
+7@7	7	7			n
+7@prorsus	prorsus	prorsus			n
+7@M[4]	M	m			n
+7@descedebat	descedebat	descedebat			n
+7@Α[3]	Α	α			n
+7@descendebat	descendebat	descendebat			n
+7@Μ[6]	Μ	μ			n
+7@8[3]	8	8			n
+7@nach	nach	nach			n
+7@archelai	archelai	archelai			n
+7@episcopi	episcopi	episcopi			n
+7@C[8]	C	c			n
+7@manis	manis	manis			n
+7@manen	manen	manen			n
+7@AM	AM	am			n
+7@mannichei	mannichei	mannichei			n
+7@C[9]	C	c			n
+7@der	der	der			n
+7@Genetiv	Genetiv	genetiv			n
+7@dieses	dieses	dieses			n
+7@Wortes	Wortes	wortes			n
+7@kommt	kommt	kommt			n
+7@nur	nur	nur			n
+7@hier	hier	hier			n
+7@und[2]	und	und			n
+7@Z	Z	z			n
+7@18[2]	18	18			n
+7@unten	unten	unten			n
+7@vor	vor	vor			n
+7@9	9	9			n
+7@studiis	studiis	studiis			n
+7@studis	studis	studis			n
+7@Α[4]	Α	α			n
+7@is[6]	is	is			n
+7@a[25]	a	a			n
+7@Ras	Ras	ras			n
+7@Μ[7]	Μ	μ			n
+7@quis	quis	quis			n
+7@et[2]	et	et			n
+7@qui[2]	qui	qui			n
+7@sit	sit	sit			n
+7@Α[5]	Α	α			n
+7@11	11	11			n
+7@παρ[3]	παρ	παρ			n
+7@ἐμοῦ[2]	ἐμοῦ	ἐμοῦ			n
+7@Routh	Routh	routh			n
+7@interpungiert	interpungiert	interpungiert			n
+7@nach[2]	nach	nach			n
+7@ἐμοῦ[3]	ἐμοῦ	ἐμοῦ			n
+7@so	so	so			n
+7@auch	auch	auch			n
+7@der[2]	der	der			n
+7@Übersetzer	Übersetzer	übersetzer			n
+7@der[3]	der	der			n
+7@Acta	Acta	acta			n
+7@17	17	17			n
+7@τοῦτον[2]	τοῦτον	τοῦτον			n
+7@Zacagni	Zacagni	zacagni			n
+7@τούτων	τούτων	τούτων			n
+7@J	J	j			n
+7@τούτων[2]	τούτων	τούτων			n
+7@τοῦτον[3]	τοῦτον	τοῦτον			n
+7@Gataker	Gataker	gataker			n
+7@18[3]	18	18			n
+7@de[8]	de	de			n
+7@fide	fide	fide			n
+7@manitis	manitis	manitis			n
+7@rot	rot	rot			n
+7@M[6]	M	m			n
+7@s[36]	s	s			n
+7@Einleitung	Einleitung	einleitung			n
+7@manis[2]	manis	manis			n
+7@mani[4]	mani	mani			n
+7@Α[6]	Α	α			n
+7@maunichei	maunichei	maunichei			n
+7@C[10]	C	c			n
+7@19	19	19			n
+7@exemet	exemet	exemet			n
+7@A[6]	A	a			n
+7@aeteruns	aeteruns	aeteruns			n
+7@Α[7]	Α	α			n
+7@20	20	20			n
+7@et[6]	et	et			n
+7@alterum	alterum	alterum			n
+7@zweimal[2]	zweimal	zweimal			n
+7@gesehrieben	gesehrieben	gesehrieben			n
+7@A[7]	A	a			n
+7@nach[3]	nach	nach			n
+7@bonuml	bonuml	bonuml			n
+7@et[7]	et	et			n
+7@A[8]	A	a			n
+7@autem	autem	autem			n
+7@C[11]	C	c			n
+7@introducit	introducit	introducit			n
+7@intruducit	intruducit	intruducit			n
+7@Α[8]	Α	α			n
+7@aus	aus	aus			n
+7@introducim	introducim	introducim			n
+7@corr	corr	corr			n
+7@C2	C2	c2			n
+7@das[2]	das	das			n
+7@m-Zeichen	m-Zeichen	m-zeichen			n
+7@ist[2]	ist	ist			n
+7@durchstrichen[2]	durchstrichen	durchstrichen			n
+7@und[3]	und	und			n
+7@t[47]	t	t			n
+7@übergesch	übergesch	übergesch			n
+7@21	21	21			n
+7@nomen	nomen	nomen			n
+7@lumen	lumen	lumen			n
+7@Α[9]	Α	α			n
+7@alter[2]	alter	alter			n
+7@Α[10]	Α	α			n
+7@22	22	22			n
+7@q[3]	q	q			n
+7@Α[11]	Α	α			n
+7@est	est	est			n
+7@tenebrarum	tenebrarum	tenebrarum			n
+7@zweimal[3]	zweimal	zweimal			n
+7@gesch[3]	gesch	gesch			n
+7@Α[12]	Α	α			n
+7@28	28	28			n
+7@conditio	conditio	conditio			n
+7@aus[2]	aus	aus			n
+7@condicio	condicio	condicio			n
+7@corr[2]	corr	corr			n
+7@A[9]	A	a			n
+7@24[2]	24	24			n
+7@modo	modo	modo			n
+7@aus[3]	aus	aus			n
+7@modum	modum	modum			n
+7@corr[3]	corr	corr			n
+7@Α[13]	Α	α			n
+7@τῷδε	τῷδε	τῷδε	ὅδε		n
+7@τῷ[5]	τῷ	τῷ	τῷ		n
+7@παραδείγματι	παραδείγματι	παραδείγματι	παράδειγμα		n
+7@καθάπερ	καθάπερ	καθάπερ	καθά		n
+7@δύο[3]	δύο	δύο	γε		n
+7@βασιλεῖς	βασιλεῖς	βασιλεῖς	βασιλεύς		n
+7@ἀντιμαχόμενοι	ἀντιμαχόμενοι	ἀντιμαχόμενοι			n
+7@ἀλλήλους	ἀλλήλους	ἀλλήλους	ἀλλήλων		n
+7@ὄντες	ὄντες	ὄντες	εἰμί		n
+7@ἀπ[2]	ἀπ	ἀπ	ἀπό		n
+7@ἀρχῆς	ἀρχῆς	ἀρχῆς	ἀρχή		n
+7@ἐχθροὶ	ἐχθροὶ	ἐχθροί	ἐχθρός		n
+7@καὶ[5]	καὶ	καί	καί		n
+7@ἀνὰ	ἀνὰ	ἀνά	ἀνά		n
+7@μέρος[2]	μέρος	μέρος	μέρος		n
+7@ἑκάστου	ἑκάστου	ἑκάστου	ἕκαστος		n
+7@τὰ	τὰ	τά	ὁ		n
+7@ἴδια	ἴδια	ἴδια	ἴδιος		n
+7@ἔχοντος	ἔχοντος	ἔχοντος	ἔχω		n
+7@κατὰ	κατὰ	κατά	κατά		n
+7@δὲ[4]	δὲ	δέ	δέ		n
+7@σύστασιν	σύστασιν	σύστασιν	σύστασις		n
+7@τὸ[8]	τὸ	τό	ὁ		n
+7@σκότος[2]	σκότος	σκότος	σκότος		n
+7@ἐπελθὸν	ἐπελθὸν	ἐπελθόν			n
+7@ἐκ	ἐκ	ἐκ	ἐκ		n
+7@τῶν	τῶν	τῶν	ὁ		n
+7@ὁρίων	ὁρίων	ὁρίων	ὅριος		n
+7@αὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτός		n
+7@προσεμαχήσατο	προσεμαχήσατο	προσεμαχήσατο			n
+7@τῷ[6]	τῷ	τῷ	τῷ		n
+7@φωτί	φωτί	φωτί			n
+7@γνόντα	γνόντα	γνόντα	γιγνώσκω		n
+7@δὲ[5]	δὲ	δέ	δέ		n
+7@τὸν[5]	τὸν	τόν	ὁ		n
+7@ἀγαθὸν	ἀγαθὸν	ἀγαθόν	ἀγαθός		n
+7@πατέρα	πατέρα	πατέρα	πατήρ		n
+7@τὸ[10]	τὸ	τό	ὁ		n
+7@σκότος[3]	σκότος	σκότος	σκότος		n
+7@ἐν[4]	ἐν	ἐν	ἐν		n
+7@τῇ	τῇ	τῇ	ὁ		n
+7@γῇ	γῇ	γῇ	γῆ		n
+7@αὐτοῦ[2]	αὐτοῦ	αὐτοῦ	αὐτός		n
+7@ἐπιδεδημηκός	ἐπιδεδημηκός	ἐπιδεδημηκός			n
+7@προβάλλειν	προβάλλειν	προβάλλειν	προβάλλω		n
+7@ἐξ	ἐξ	ἐκ	ἐκ		n
+7@αὐτοῦ[3]	αὐτοῦ	αὐτοῦ	αὐτός		n
+7@δύναμιν	δύναμιν	δύναμιν	δύναμις		n
+7@λεγομένην	λεγομένην	λεγομένην	λέγω		n
+7@μητέρα	μητέρα	μητέρα	μήτηρ		n
+7@τῆς[3]	τῆς	τῆς	ὁ		n
+7@ζωῆς	ζωῆς	ζωῆς	ζωή		n
+7@καὶ[6]	καὶ	καί	καί		n
+7@αὐτὴν	αὐτὴν	αὐτήν	αὐτός		n
+7@προβεβληκέναι	προβεβληκέναι	προβεβληκέναι	προβάλλω		n
+7@τὸν[6]	τὸν	τόν	ὁ		n
+7@πρῶτον	πρῶτον	πρῶτον	πρῶτος		n
+7@ἄνθρωπον	ἄνθρωπον	ἄνθρωπον	ἄνθρωπος		n
+7@τὰ[3]	τὰ	τά	ὁ		n
+7@πέντε	πέντε	πέντε			n
+7@στοιχεῖα	στοιχεῖα	στοιχεῖα	στοιχεῖον		n
+7@εἰσὶ	εἰσὶ	εἰσί	εἰμί		n
+7@δὲ[6]	δὲ	δέ	δέ		n
+7@ἄνεμος	ἄνεμος	ἄνεμος	ἄνεμος		n
+7@φῶς[2]	φῶς	φῶς	φάος		n
+7@ὔδωρ	ὔδωρ	ὔδωρ			n
+7@πῦρ	πῦρ	πῦρ	πῦρ		n
+7@καὶ[7]	καὶ	καί	καί		n
+7@ὕλη[2]	ὕλη	ὕλη	ὕλη		n
+7@καὶ[8]	καὶ	καί	καί		n
+7@ταῦτα[2]	ταῦτα	ταῦτα	οὗτος		n
+7@ἐνδυσάμενον	ἐνδυσάμενον	ἐνδυσάμενον			n
+7@ὡς	ὡς	ὡς	ὡς		n
+7@πρὸς[2]	πρὸς	πρός	πρός		n
+7@κατασκευὴν	κατασκευὴν	κατασκευήν	κατασκευή		n
+7@πολέμου	πολέμου	πολέμου	πόλεμος		n
+7@κατελθεῖν	κατελθεῖν	κατελθεῖν	κατέρχομαι		n
+7@κάτω	κάτω	κάτω	κάτω		n
+7@καὶ[9]	καὶ	καί	καί		n
+7@πολεμῆσαι	πολεμῆσαι	πολεμῆσαι	πολεμέω		n
+7@τῷ[7]	τῷ	τῷ	ὁ		n
+7@σκότει	σκότει	σκότει	σκότος		n
+7@οἱ	οἱ	οἱ	ὁ		n
+7@δὲ[7]	δὲ	δέ	δέ		n
+7@τοῦ[11]	τοῦ	τοῦ	ὁ		n
+7@σκότους[2]	σκότους	σκότους	σκότος		n
+7@ἄρχοντες	ἄρχοντες	ἄρχοντες	ἄρχων		n
+7@ἀντιπολεμοῦντες	ἀντιπολεμοῦντες	ἀντιπολεμοῦντες			n
+7@αὐτῷ	αὐτῷ	αὐτῷ	αὐτός		n
+7@ἔφαγον	ἔφαγον	ἔφαγον			n
+7@ἐκ[2]	ἐκ	ἐκ	ἐκ		n
+7@τῆς[4]	τῆς	τῆς	ὁ		n
+7@πανοπλίας	πανοπλίας	πανοπλίας	πανοπλία		n
+7@αὐτοῦ[4]	αὐτοῦ	αὐτοῦ	αὐτός		n
+7@ὅ[3]	ὅ	ὅ			n
+7@ἐστιν	ἐστιν	ἐστίν	εἰμί		n
+7@ἡ	ἡ	ἡ	ὁ		n
+7@ψυχή[2]	ψυχή	ψυχή	ψυχή		n
+7@τότε	τότε	τότε	τότε		n
+7@δεινῶς	δεινῶς	δεινῶς	δεινός		n
+7@ἐθλίβη	ἐθλίβη	ἐθλίβη			n
+7@ἐκεῖ	ἐκεῖ	ἐκεῖ	ἐκεῖ		n
+7@κάτω[2]	κάτω	κάτω	κάτω		n
+7@ὁ[3]	ὁ	ὁ	ὁ		n
+7@πρῶτος	πρῶτος	πρῶτος	πρῶτος		n
+7@ἄνθρωπος	ἄνθρωπος	ἄνθρωπος	ἄνθρωπος		n
+7@ὑπὸ	ὑπὸ	ὑπό	ὑπό		n
+7@τοῦ[13]	τοῦ	τοῦ	ὁ		n
+7@σκότους[3]	σκότους	σκότους	σκότος		n
+7@καὶ[10]	καὶ	καί	καί		n
+7@εἰ[3]	εἰ	εἰ	εἰ		n
+7@μὴ	μὴ	μή	μή		n
+7@εὐξαμένου	εὐξαμένου	εὐξαμένου	εὔχομαι		n
+7@εἰσήκουσεν	εἰσήκουσεν	εἰσήκουσεν	εἰσακούω		n
+7@ὁ[4]	ὁ	ὁ	ὁ		n
+7@πατὴρ	πατὴρ	πατήρ	πατήρ		n
+7@καὶ[11]	καὶ	καί	καί		n
+7@ἀπέστειλεν	ἀπέστειλεν	ἀπέστειλεν	ἀποστέλλω		n
+7@ἑτέραν	ἑτέραν	ἑτέραν	ἕτερος		n
+7@δύναμιν[2]	δύναμιν	δύναμιν	δύναμις		n
+7@προβληθεῖσαν	προβληθεῖσαν	προβληθεῖσαν			n
+7@ὑπ[2]	ὑπ	ὑπ	ὑπό		n
+7@αὐτοῦ[5]	αὐτοῦ	αὐτοῦ	αὐτός		n
+7@λεγομένην[2]	λεγομένην	λεγομένην	λέγω		n
+7@ζῶν	ζῶν	ζῶν	ζήω		n
+7@νεῦμαι	νεῦμαι	νεῦμαι	νέω3		n
+7@χοὶ	χοὶ	χοί			n
+7@εἰ[5]	εἰ	εἰ	εἰ		n
+7@μὴ[2]	μὴ	μή	μή		n
+7@κατελθὼν	κατελθὼν	κατελθών	κατέρχομαι		n
+7@δέδωκεν	δέδωκεν	δέδωκεν	δίδωμι		n
+7@αὐτῷ[2]	αὐτῷ	αὐτῷ	αὐτός		n
+7@δεξιὰν	δεξιὰν	δεξιάν	δεξιός		n
+7@καὶ[12]	καὶ	καί	καί		n
+7@ἀνήνεγκεν	ἀνήνεγκεν	ἀνήνεγκεν	ἀναφέρω		n
+7@ἐκ[4]	ἐκ	ἐκ	ἐκ		n
+7@τοῦ[15]	τοῦ	τοῦ	ὁ		n
+7@σκότους[4]	σκότους	σκότους	σκότος		n
+7@πάλαι	πάλαι	πάλαι	πάλαι		n
+7@ἂν	ἂν	ἄν	ἄν		n
+7@ὁ[5]	ὁ	ὁ	ὁ		n
+7@πρῶτος[2]	πρῶτος	πρῶτος	πρῶτος		n
+7@ανθρωπος	ανθρωπος	ανθρωπος			n
+7@κατεχόμενος	κατεχόμενος	κατεχόμενος	κατέχω		n
+7@ἐκινδύνευσεν	ἐκινδύνευσεν	ἐκινδύνευσεν	κινδυνεύω		n
+7@ἔκτοτε	ἔκτοτε	ἔκτοτε	ἔκτοτε		n
+7@οὖν	οὖν	οὖν	οὖν		n
+7@κατ-	κατ-	κατ-			n
+7@5[3]	5	5			n
+7@προβάλλειν[2]	προβάλλειν	προβάλλειν			n
+7@Petavius	Petavius	petavius			n
+7@προσβάλλειν	προσβάλλειν	προσβάλλειν			n
+7@J[2]	J	j			n
+7@6[3]	6	6			n
+7@προβεβληκέναι[2]	προβεβληκέναι	προβεβληκέναι			n
+7@περιβεβληκέναι	περιβεβληκέναι	περιβεβληκέναι			n
+7@nach[4]	nach	nach			n
+7@den	den	den			n
+7@Acta[2]	Acta	acta			n
+7@corr[4]	corr	corr			n
+7@Oehler	Oehler	oehler			n
+7@aber	aber	aber			n
+7@vgl[2]	vgl	vgl			n
+7@Epiphanius[2]	Epiphanius	epiphanius			n
+7@Cap[2]	Cap	cap			n
+7@45	45	45			n
+7@καὶ[13]	καὶ	καί			n
+7@αὕτη	αὕτη	αὕτη			n
+7@δέ[2]	δέ	δέ			n
+7@φησί	φησί	φησί			n
+7@ἡ[2]	ἡ	ἡ			n
+7@θήλεια	θήλεια	θήλεια			n
+7@προεβάλετο	προεβάλετο	προεβάλετο			n
+7@τὸν[7]	τὸν	τόν			n
+7@πρῶτον[2]	πρῶτον	πρῶτον			n
+7@ἄνθρωπον[2]	ἄνθρωπον	ἄνθρωπον			n
+7@13	13	13			n
+7@ζωὴν	ζωὴν	ζωήν			n
+7@J[3]	J	j			n
+7@16	16	16			n
+7@aduersus	aduersus	aduersus			n
+7@M[7]	M	m			n
+7@17[2]	17	17			n
+7@singuli	singuli	singuli			n
+7@zu	zu	zu			n
+7@singulis	singulis	singulis			n
+7@corr[5]	corr	corr			n
+7@Α[14]	Α	α			n
+7@suas	suas	suas			n
+7@singulas	singulas	singulas			n
+7@Α[15]	Α	α			n
+7@accederit	accederit	accederit			n
+7@A[11]	A	a			n
+7@ut[4]	ut	ut			n
+7@at[6]	at	at			n
+7@C[14]	C	c			n
+7@getilgt	getilgt	getilgt			n
+7@und[4]	und	und			n
+7@ut[5]	ut	ut			n
+7@übergesch[2]	übergesch	übergesch			n
+7@C2[2]	C2	c2			n
+7@19[2]	19	19			n
+7@agnouisset	agnouisset	agnouisset			n
+7@C[16]	C	c			n
+7@ad[3]	ad	ad			n
+7@a[63]	a	a			n
+7@A[12]	A	a			n
+7@superuenire	superuenire	superuenire			n
+7@Μ[8]	Μ	μ			n
+7@20[2]	20	20			n
+7@produxit	produxit	produxit			n
+7@virtutem	virtutem	virtutem			n
+7@produxit[2]	produxit	produxit			n
+7@ex[2]	ex	ex			n
+7@uirtute	uirtute	uirtute			n
+7@A[13]	A	a			n
+7@produxerit	produxerit	produxerit			n
+7@et[11]	et	et			n
+7@esse[3]	esse	esse			n
+7@uirtutem	uirtutem	uirtutem			n
+7@zυ	zυ	zυ			n
+7@produxit[3]	produxit	produxit			n
+7@ex[3]	ex	ex			n
+7@se[9]	se	se			n
+7@uirtutem[2]	uirtutem	uirtutem			n
+7@ohne	ohne	ohne			n
+7@Ras[2]	Ras	ras			n
+7@corr[6]	corr	corr			n
+7@C[17]	C	c			n
+7@produxerit[2]	produxerit	produxerit			n
+7@ex[4]	ex	ex			n
+7@se[10]	se	se			n
+7@uirtutem[3]	uirtutem	uirtutem			n
+7@M[8]	M	m			n
+7@nach[5]	nach	nach			n
+7@qua	qua	qua			n
+7@uirtute[5]	uirtute	uirtute			n
+7@C[18]	C	c			n
+7@21[2]	21	21			n
+7@ventus	ventus	ventus			n
+7@A[14]	A	a			n
+7@22[2]	22	22			n
+7@materia	materia	materia			n
+7@maria	maria	maria			n
+7@Α[16]	Α	α			n
+7@inductus	inductus	inductus			n
+7@C[19]	C	c			n
+7@paratum	paratum	paratum			n
+7@A[15]	A	a			n
+7@C[20]	C	c			n
+7@23	23	23			n
+7@pugnaturus	pugnaturus	pugnaturus			n
+7@Μ[9]	Μ	μ			n
+7@aduersus[2]	aduersus	aduersus			n
+7@A[16]	A	a			n
+7@at[10]	at	at			n
+7@aus[4]	aus	aus			n
+7@ad[5]	ad	ad			n
+7@corr[7]	corr	corr			n
+7@C2[3]	C2	c2			n
+7@23[2]	23	23			n
+7@24[3]	24	24			n
+7@principes	principes	principes			n
+7@ei[9]	ei	ei			n
+7@princeps	princeps	princeps			n
+7@repugnantese	repugnantese	repugnantese			n
+7@Μ[10]	Μ	μ			n
+7@24[4]	24	24			n
+7@animam	animam	animam			n
+7@A[17]	A	a			n
+7@Μ[11]	Μ	μ			n
+7@26	26	26			n
+7@orante	orante	orante			n
+7@Α[17]	Α	α			n
+7@27	27	27			n
+7@se[12]	se	se			n
+7@ae[4]	ae	ae			n
+7@Α[18]	Α	α			n
+7@ea	ea	ea			n
+7@M[9]	M	m			n
+7@28[2]	28	28			n
+7@duxisset	duxisset	duxisset			n
+7@M[10]	M	m			n
+7@29	29	29			n
+7@deorsum	deorsum	deorsum			n
+7@animam[2]	animam	animam			n
+7@C[22]	C	c			n
+7@relinquit	relinquit	relinquit			n
+7@A[18]	A	a			n
+7@έλειψε	έλειψε	έλειψε			n
+7@κάτω[3]	κάτω	κάτω	κάτω		n
+7@τὴν[6]	τὴν	τήν	ὁ		n
+7@ψυχήν[2]	ψυχήν	ψυχήν	ψυχή		n
+7@καὶ[14]	καὶ	καί	καί		n
+7@διὰ[2]	διὰ	διά	διά		n
+7@τοῦτο[4]	τοῦτο	τοῦτο	οὗτος		n
+7@Μανιχαῖοι	Μανιχαῖοι	μανιχαῖοι			n
+7@ἐὰν	ἐὰν	ἐάν	ἐάν		n
+7@συναντήσωσιν	συναντήσωσιν	συναντήσωσιν			n
+7@ἀλλήλοις	ἀλλήλοις	ἀλλήλοις	ἀλλήλων		n
+7@δεξιὰς	δεξιὰς	δεξιάς	δεξιά		n
+7@διδόασιν	διδόασιν	διδόασιν			n
+7@ἑαυτοῖς	ἑαυτοῖς	ἑαυτοῖς	ἑαυτοῦ		n
+7@σημείου	σημείου	σημείου	σημεῖον		n
+7@χάριν	χάριν	χάριν	χάρις		n
+7@ὡς[2]	ὡς	ὡς	ὡς		n
+7@ἀπὸ	ἀπὸ	ἀπό	ἀπό		n
+7@σκότους[5]	σκότους	σκότους			n
+7@σωθέντες	σωθέντες	σωθέντες	σῴζω		n
+7@ἐν[6]	ἐν	ἐν	ἐν		n
+7@γὰρ	γὰρ	γάρ	γάρ		n
+7@τῷ[10]	τῷ	τῷ	τῷ		n
+7@σκότει[2]	σκότει	σκότει	σκοτάω		n
+7@πάσας	πάσας	πάσας	πᾶς		n
+7@τὰς	τὰς	τάς	ὁ		n
+7@αἱρέσεις	αἱρέσεις	αἱρέσεις	αἵρεσις		n
+7@εἶναι[2]	εἶναι	εἶναι	εἰμί		n
+7@λέγει[2]	λέγει	λέγει	λέγω		n
+7@VIII	VIII	viii			n
+7@Τότε	Τότε	τότε			n
+7@τὸ[13]	τὸ	τό			n
+7@ζῶν[2]	ζῶν	ζῶν	ζήω		n
+7@πνεῦμα	πνεῦμα	πνεῦμα	πνεῦμα		n
+7@ἔκτισε	ἔκτισε	ἔκτισε	ἐκτίνω		n
+7@τὸν[8]	τὸν	τόν	ὁ		n
+7@κόσμον	κόσμον	κόσμον	κόσμος		n
+7@καὶ[15]	καὶ	καί	καί		n
+7@αὐτὸ	αὐτὸ	αὐτό	αὐτός		n
+7@ἑτέρας	ἑτέρας	ἑτέρας	ἕτερος		n
+7@τρεῖς	τρεῖς	τρεῖς			n
+7@δυνάμεις	δυνάμεις	δυνάμεις	δύναμις		n
+7@κατελθὸν	κατελθὸν	κατελθόν	κατέρχομαι		n
+7@ἀνήνεγκε[2]	ἀνήνεγκε	ἀνήνεγκε	ἀναφέρω		n
+7@τοὺς[2]	τοὺς	τούς	ὁ		n
+7@ἄρχοντας	ἄρχοντας	ἄρχοντας	ἄρχων		n
+7@καὶ[16]	καὶ	καί	καί		n
+7@ἐσταύρωσεν	ἐσταύρωσεν	ἐσταύρωσεν			n
+7@ἐν[7]	ἐν	ἐν	ἐν		n
+7@τῷ[11]	τῷ	τῷ	ὁ		n
+7@στερεώματι	στερεώματι	στερεώματι			n
+7@ὅ[4]	ὅ	ὅ	ὅς		n
+7@ἐστιν[2]	ἐστιν	ἐστίν	εἰμί		n
+7@αὐτῶν	αὐτῶν	αὐτῶν	αὐτός		n
+7@σῶμα[2]	σῶμα	σῶμα	σῶμα		n
+7@ἡ[3]	ἡ	ἡ	ὁ		n
+7@σφαῖρα	σφαῖρα	σφαῖρα	σφαῖρα		n
+7@XXVI	XXVI	xxvi			n
+7@Τότε[2]	Τότε	τότε	τότε		n
+7@κάλιν	κάλιν	κάλιν			n
+7@τὸ[16]	τὸ	τό	ὁ		n
+7@ζῶν[3]	ζῶν	ζῶν	ζήω		n
+7@πνεῦμα[2]	πνεῦμα	πνεῦμα	πνεῦμα		n
+7@ἔκτισε[2]	ἔκτισε	ἔκτισε	ἐκτίνω		n
+7@τοὺς[3]	τοὺς	τούς	ὁ		n
+7@φωστῆρας	φωστῆρας	φωστῆρας			n
+7@ἅ	ἅ	ἅ	ὅς		n
+7@ἐστι[3]	ἐστι	ἐστί	εἰμί		n
+7@τῆς[5]	τῆς	τῆς	ὁ		n
+7@ψυχῆς	ψυχῆς	ψυχῆς	ψυχή		n
+7@λείψαναν	λείψαναν	λείψαναν			n
+7@καὶ[17]	καὶ	καί	καί		n
+7@οὕτως	οὕτως	οὕτως	οὕτως		n
+7@ἐποίησε	ἐποίησε	ἐποίησε	ποιέω		n
+7@τὸ[17]	τὸ	τό	ὁ		n
+7@στερέωμα	στερέωμα	στερέωμα	στερέωμα		n
+7@κυκλεῦσαι	κυκλεῦσαι	κυκλεῦσαι			n
+7@κοὶ	κοὶ	κοί			n
+7@πάλιν	πάλιν	πάλιν	πάλιν		n
+7@ἔκτισε[3]	ἔκτισε	ἔκτισε	ἐκτίνω		n
+7@τὴν[7]	τὴν	τήν	ὁ		n
+7@γῆν	γῆν	γῆν	γῆ		n
+7@εἰς	εἰς	εἰς	εἰς		n
+7@εἴδη	εἴδη	εἴδη	εἶδος		n
+7@ὀκτώ	ὀκτώ	ὀκτώ	ὀκτώ		n
+7@ὁ[6]	ὁ	ὁ	ὁ		n
+7@δὲ[8]	δὲ	δέ	δέ		n
+7@Ὠμοφόρος	Ὠμοφόρος	ὠμοφόρος			n
+7@κάτω[4]	κάτω	κάτω	κάτω		n
+7@βαστάζει	βαστάζει	βαστάζει	βαστάζω		n
+7@καὶ[18]	καὶ	καί	καί		n
+7@ἐπὰν	ἐπὰν	ἐπάν	ἐπεί		n
+7@κάμῃ	κάμῃ	κάμῃ			n
+7@βαστάζων	βαστάζων	βαστάζων	βαστάζω		n
+7@τρέμει	τρέμει	τρέμει	τρέμω		n
+7@καὶ[19]	καὶ	καί	καί		n
+7@σεισμοῦ	σεισμοῦ	σεισμοῦ	σεισμός		n
+7@αἴτιος	αἴτιος	αἴτιος	αἴτιος		n
+7@γίνεται	γίνεται	γίνεται	γίγνομαι		n
+7@παρὰ	παρὰ	παρά	παρά		n
+7@τὸυ	τὸυ	τόυ			n
+7@ὡρισμένον	ὡρισμένον	ὡρισμένον	ὁρίζω		n
+7@καιρόν	καιρόν	καιρόν	καιρός		n
+7@τούτου	τούτου	τούτου	οὗτος		n
+7@ἕνεκα	ἕνεκα	ἕνεκα	ἕνεκα		n
+7@τὸν[9]	τὸν	τόν	ὁ		n
+7@υἱὸν	υἱὸν	υἱόν	υἱός		n
+7@αὐτοῦ[6]	αὐτοῦ	αὐτοῦ	αὐτός		n
+7@ἀπέστειλεν[2]	ἀπέστειλεν	ἀπέστειλεν	ἀποστέλλω		n
+7@ὁ[7]	ὁ	ὁ	ὁ		n
+7@ἀγαθὸς	ἀγαθὸς	ἀγαθός	ἀγαθός		n
+7@πατὴρ[2]	πατὴρ	πατήρ	πατήρ		n
+7@ἐκ[6]	ἐκ	ἐκ	ἐκ		n
+7@τῶν[3]	τῶν	τῶν	ὁ		n
+7@κόλπων	κόλπων	κόλπων	κόλπος		n
+7@εἰς[2]	εἰς	εἰς	εἰς		n
+7@τὴν[8]	τὴν	τήν	ὁ		n
+7@καρδίαν	καρδίαν	καρδίαν	καρδία		n
+7@τῆς[6]	τῆς	τῆς	ὁ		n
+7@γῆς	γῆς	γῆς	γῆ		n
+7@καὶ[20]	καὶ	καί	καί		n
+7@εἰς[3]	εἰς	εἰς	εἰς		n
+7@τὰ[5]	τὰ	τά	ὁ		n
+7@ταύτης	ταύτης	ταύτης	οὗτος		n
+7@μέρη	μέρη	μέρη	μέρος		n
+7@ὅπως	ὅπως	ὅπως	ὅπως		n
+7@αὐτῷ[3]	αὐτῷ	αὐτῷ	αὐτός		n
+7@τὴν[9]	τὴν	τήν	ὁ		n
+7@προσήκουσαν	προσήκουσαν	προσήκουσαν	προσήκω		n
+7@ἐπιτιμίαν	ἐπιτιμίαν	ἐπιτιμίαν	ἐπιτιμία		n
+7@δῷ	δῷ	δῷ	δίδωμι		n
+7@καὶ[21]	καὶ	καί	καί		n
+7@ACM[2]	ACM	acm			n
+7@und[5]	und	und			n
+7@Epiph[4]	Epiph	epiph			n
+7@4[7]	4	4			n
+7@τὸ[20]	τὸ	τό			n
+7@Dindorf	Dindorf	dindorf			n
+7@9[5]	9	9			n
+7@εἰς[4]	εἰς	εἰς			n
+7@εἴδη[2]	εἴδη	εἴδη			n
+7@Zacagni[2]	Zacagni	zacagni			n
+7@vermutet	vermutet	vermutet			n
+7@εἰσὶ[2]	εἰσὶ	εἰσί			n
+7@δὲ[9]	δὲ	δέ			n
+7@ὴ[17]	ὴ	ή			n
+7@als	als	als			n
+7@die[2]	die	die			n
+7@Lesart	Lesart	lesart			n
+7@des[3]	des	des			n
+7@Übersetzers	Übersetzers	übersetzers			n
+7@18[4]	18	18			n
+7@κατώτατα	κατώτατα	κατώτατα			n
+7@Dindorf[2]	Dindorf	dindorf			n
+7@vermutet[2]	vermutet	vermutet			n
+7@κατώτερα	κατώτερα	κατώτερα			n
+7@als[2]	als	als			n
+7@die[3]	die	die			n
+7@Lesart[2]	Lesart	lesart			n
+7@des[4]	des	des			n
+7@Übersetzers[2]	Übersetzers	übersetzers			n
+7@und[6]	und	und			n
+7@verbessert	verbessert	verbessert			n
+7@interiores	interiores	interiores			n
+7@zu[2]	zu	zu			n
+7@inferiores	inferiores	inferiores			n
+7@14	14	14			n
+7@dextras	dextras	dextras			n
+7@Μ[13]	Μ	μ			n
+7@15	15	15			n
+7@16[2]	16	16			n
+7@omnis	omnis	omnis			n
+7@dicitur	dicitur	dicitur			n
+7@omnes	omnes	omnes			n
+7@hereses	hereses	hereses			n
+7@esse[5]	esse	esse			n
+7@dicunt	dicunt	dicunt			n
+7@C[24]	C	c			n
+7@vielleicht[2]	vielleicht	vielleicht			n
+7@liegt	liegt	liegt			n
+7@eine	eine	eine			n
+7@Doppelversion	Doppelversion	doppelversion			n
+7@vom	vom	vom			n
+7@Übersetzer[4]	Übersetzer	übersetzer			n
+7@selbst	selbst	selbst			n
+7@vor[2]	vor	vor			n
+7@18[5]	18	18			n
+7@et[18]	et	et			n
+7@crucifixit	crucifixit	crucifixit			n
+7@in[19]	in	in			n
+7@A[20]	A	a			n
+7@hat	hat	hat			n
+7@eine[2]	eine	eine			n
+7@spätere	spätere	spätere			n
+7@Hand	Hand	hand			n
+7@die[4]	die	die			n
+7@zeimlich	zeimlich	zeimlich			n
+7@verblichenen	verblichenen	verblichenen			n
+7@Buchst	Buchst	buchst			n
+7@ausradiert	ausradiert	ausradiert			n
+7@und[7]	und	und			n
+7@in[21]	in	in			n
+7@groben	groben	groben			n
+7@Buchst[2]	Buchst	buchst			n
+7@et[19]	et	et			n
+7@crucixit	crucixit	crucixit			n
+7@das[3]	das	das			n
+7@letzte	letzte	letzte			n
+7@t[117]	t	t			n
+7@Übergesch	Übergesch	übergesch			n
+7@geschrieben[2]	geschrieben	geschrieben			n
+7@Derselbe	Derselbe	derselbe			n
+7@Schreiber	Schreiber	schreiber			n
+7@ist[3]	ist	ist			n
+7@auch[2]	auch	auch			n
+7@sonst	sonst	sonst			n
+7@tätig	tätig	tätig			n
+7@wo	wo	wo			n
+7@die[6]	die	die			n
+7@Tinte	Tinte	tinte			n
+7@blass	blass	blass			n
+7@wurde	wurde	wurde			n
+7@aber[2]	aber	aber			n
+7@ohne[2]	ohne	ohne			n
+7@auszuradieren	auszuradieren	auszuradieren			n
+7@so[3]	so	so			n
+7@dass	dass	dass			n
+7@es[31]	es	es			n
+7@immer	immer	immer			n
+7@möglich	möglich	möglich			n
+7@ist[4]	ist	ist			n
+7@das[5]	das	das			n
+7@Ursprüngliche	Ursprüngliche	ursprüngliche			n
+7@festzustellen	festzustellen	festzustellen			n
+7@firmamentum	firmamentum	firmamentum			n
+7@A[21]	A	a			n
+7@19[3]	19	19			n
+7@eius	eius	eius			n
+7@richtig[2]	richtig	richtig			n
+7@αὐτῶν[2]	αὐτῶν	αὐτῶν			n
+7@sc[10]	sc	sc			n
+7@ἀρχόντων	ἀρχόντων	ἀρχόντων			n
+7@Epiphanius[3]	Epiphanius	epiphanius			n
+7@spera[2]	spera	spera			n
+7@A[22]	A	a			n
+7@fera	fera	fera			n
+7@Μ[14]	Μ	μ			n
+7@rursus	rursus	rursus			n
+7@A[23]	A	a			n
+7@20[3]	20	20			n
+7@reliquae	reliquae	reliquae			n
+7@A[24]	A	a			n
+7@eam	eam	eam			n
+7@A[25]	A	a			n
+7@circumire	circumire	circumire			n
+7@C[25]	C	c			n
+7@21[3]	21	21			n
+7@humoforus	humoforus	humoforus			n
+7@C[26]	C	c			n
+7@homoforus	homoforus	homoforus			n
+7@M[12]	M	m			n
+7@das[6]	das	das			n
+7@erste[2]	erste	erste			n
+7@o[64]	o	o			n
+7@getilgt[2]	getilgt	getilgt			n
+7@und[8]	und	und			n
+7@n[101]	n	n			n
+7@übergesch[3]	übergesch	übergesch			n
+7@von	von	von			n
+7@M2	M2	m2			n
+7@22[3]	22	22			n
+7@id[3]	id	id			n
+7@est[3]	est	est			n
+7@humeris	humeris	humeris			n
+7@eine[3]	eine	eine			n
+7@Erklärung	Erklärung	erklärung			n
+7@des[5]	des	des			n
+7@Übersetzers[3]	Übersetzers	übersetzers			n
+7@w[6]	w	w			n
+7@e[231]	e	e			n
+7@sch[8]	sch	sch			n
+7@umeris[2]	umeris	umeris			n
+7@C[27]	C	c			n
+7@portans	portans	portans			n
+7@M[14]	M	m			n
+7@intremescit	intremescit	intremescit			n
+7@mescit[2]	mescit	mescit			n
+7@a[113]	a	a			n
+7@Ras[3]	Ras	ras			n
+7@A[26]	A	a			n
+7@intremiscit	intremiscit	intremiscit			n
+7@Μ[15]	Μ	μ			n
+7@23[3]	23	23			n
+7@haec	haec	haec			n
+7@A[27]	A	a			n
+7@24[5]	24	24			n
+7@benignus	benignus	benignus			n
+7@benedictus	benedictus	benedictus			n
+7@A[28]	A	a			n
+7@suis	suis	suis			n
+7@A[29]	A	a			n
+7@25	25	25			n
+7@in[26]	in	in			n
+7@A[30]	A	a			n
+7@M[15]	M	m			n
+7@interioris	interioris	interioris			n
+7@A[31]	A	a			n
+7@quod	quod	quod			n
+7@A[32]	A	a			n
+7@M[16]	M	m			n
+7@illam	illam	illam			n
+7@Μ[16]	Μ	μ			n
+7@par[2]	par	par			n
+7@erat	erat	erat			n
+7@parerent	parerent	parerent			n
+7@A[33]	A	a			n
+7@pareret	pareret	pareret			n
+7@Μ[17]	Μ	μ			n
+7@cohercerent	cohercerent	cohercerent			n
+7@A[34]	A	a			n
+7@M[17]	M	m			n
+7@quotiensque	quotiensque	quotiensque			n
+7@C[28]	C	c			n
+7@quotienscumque	quotienscumque	quotienscumque			n
+7@M[18]	M	m			n
+7@ὁσάκις	ὁσάκις	ὁσάκις	ὁσάκις		n
+7@ἂν[2]	ἂν	ἄν	ἄν		n
+7@σεισμὸς	σεισμὸς	σεισμός	σεισμός		n
+7@γένηται	γένηται	γένηται	γίγνομαι		n
+7@ἢ	ἢ	ἤ	ἤ		n
+7@τρέμει[2]	τρέμει	τρέμει	τρέμω		n
+7@κάμνων	κάμνων	κάμνων	κάμνω		n
+7@ἢ[2]	ἢ	ἤ	ἤ		n
+7@ἀντιφέρει	ἀντιφέρει	ἀντιφέρει			n
+7@εἰς[5]	εἰς	εἰς	εἰς		n
+7@τὸν[10]	τὸν	τόν	ὁ		n
+7@ἕτερον	ἕτερον	ἕτερον	ἕτερος		n
+7@ὠμον	ὠμον	ὠμον			n
+7@τότε[2]	τότε	τότε	τότε		n
+7@τοίνυν	τοίνυν	τοίνυν	τοίνυν		n
+7@καὶ[22]	καὶ	καί	καί		n
+7@ἡ[4]	ἡ	ἡ	ὁ		n
+7@ὕλη[3]	ὕλη	ὕλη	ὕλη		n
+7@ἀφ	ἀφ	ἀφ	ἀπό		n
+7@ἑαυτῆς	ἑαυτῆς	ἑαυτῆς	ἑαυτοῦ		n
+7@ἔκτισε[4]	ἔκτισε	ἔκτισε	ἐκτίνω		n
+7@τὰ[6]	τὰ	τά	ὁ		n
+7@φυτά	φυτά	φυτά	φυτός		n
+7@καὶ[23]	καὶ	καί	καί		n
+7@συλωμένων	συλωμένων	συλωμένων	συλάω		n
+7@αὐτῶν[3]	αὐτῶν	αὐτῶν	αὐτός		n
+7@ἀπό	ἀπό	ἀπό	ἀπό		n
+7@τινων	τινων	τινῶν			n
+7@ἀρχόντων[2]	ἀρχόντων	ἀρχόντων	ἄρχων		n
+7@ἐκάλεσε	ἐκάλεσε	ἐκάλεσε	καλέω		n
+7@πάντας	πάντας	πάντας	πᾶς		n
+7@τοὺς[4]	τοὺς	τούς	ὁ		n
+7@τῶν[6]	τῶν	τῶν	ὁ		n
+7@ἀρχόντων[3]	ἀρχόντων	ἀρχόντων	ἄρχων		n
+7@πρωτίστους	πρωτίστους	πρωτίστους			n
+7@κοὶ[2]	κοὶ	κοί			n
+7@ἔλαβεν	ἔλαβεν	ἔλαβεν	λαμβάνω		n
+7@ἀπ[7]	ἀπ	ἀπ	ἀπό		n
+7@αὐτῶν[4]	αὐτῶν	αὐτῶν	αὐτός		n
+7@ἀνὰ[2]	ἀνὰ	ἀνά	ἀνά		n
+7@μίαν[2]	μίαν	μίαν			n
+7@δύναμιν[3]	δύναμιν	δύναμιν	δύναμις		n
+7@καὶ[24]	καὶ	καί	καί		n
+7@κατεσκεύασε	κατεσκεύασε	κατεσκεύασε	κατασκευάζω		n
+7@τὸν[11]	τὸν	τόν	ὁ		n
+7@ἄνθρωπον[3]	ἄνθρωπον	ἄνθρωπον	ἄνθρωπος		n
+7@τὸν[12]	τὸν	τόν	ὁ		n
+7@κατὰ[2]	κατὰ	κατά	κατά		n
+7@τὴν[10]	τὴν	τήν	ὁ		n
+7@ἰδέαν	ἰδέαν	ἰδέαν	ἰδέα		n
+7@τοῦ[18]	τοῦ	τοῦ	ὁ		n
+7@πρώτου	πρώτου	πρώτου	πρῶτος		n
+7@ἀνθρώπου	ἀνθρώπου	ἀνθρώπου	ἄνθρωπος		n
+7@ἐκείνου	ἐκείνου	ἐκείνου	ἐκεῖνος		n
+7@καὶ[25]	καὶ	καί	καί		n
+7@ἔδησε	ἔδησε	ἔδησε	δέω		n
+7@τὴν[11]	τὴν	τήν	ὁ		n
+7@ψυχὴν	ψυχὴν	ψυχήν	ψυχή		n
+7@ἐν[8]	ἐν	ἐν	ἐν		n
+7@αὐτῷ[4]	αὐτῷ	αὐτῷ	αὐτός		n
+7@αὕτη[2]	αὕτη	αὕτη	οὗτος		n
+7@ἐστὶ	ἐστὶ	ἐστί	εἰμί		n
+7@τῆς[8]	τῆς	τῆς	ὁ		n
+7@συγκράσεως	συγκράσεως	συγκράσεως	σύγκρασις		n
+7@ἡ[5]	ἡ	ἡ	ὁ		n
+7@ὑπόθεσις	ὑπόθεσις	ὑπόθεσις	ὑπόθεσις		n
+7@ὅτε	ὅτε	ὅτε	ὅτε		n
+7@δὲ[10]	δὲ	δέ	δέ		n
+7@εἶδεν	εἶδεν	εἶδεν	ὁράω		n
+7@ὁ[9]	ὁ	ὁ	ὁ		n
+7@πατὴρ[3]	πατὴρ	πατήρ	πατήρ		n
+7@ὁ[10]	ὁ	ὁ	ὁ		n
+7@ζῶν[4]	ζῶν	ζῶν	ζήω		n
+7@θλιβομένην	θλιβομένην	θλιβομένην			n
+7@τὴν[12]	τὴν	τήν	ὁ		n
+7@ψυχὴν[2]	ψυχὴν	ψυχήν	ψυχή		n
+7@ἐν[9]	ἐν	ἐν	ἐν		n
+7@τῷ[14]	τῷ	τῷ	ὁ		n
+7@σώματι	σώματι	σώματι	σῶμα		n
+7@εὔσπλαγχνος	εὔσπλαγχνος	εὔσπλαγχνος	εὔσπλαγχνος		n
+7@ὢν	ὢν	ὤν	εἰμί		n
+7@καὶ[26]	καὶ	καί	καί		n
+7@ἐλεήμων	ἐλεήμων	ἐλεήμων	ἐλεήμων		n
+7@ἔπεμψε	ἔπεμψε	ἔπεμψε	πέμπω		n
+7@τὸν[13]	τὸν	τόν	ὁ		n
+7@υἱὸν[2]	υἱὸν	υἱόν	υἱός		n
+7@αὐτοῦ[7]	αὐτοῦ	αὐτοῦ	αὐτός		n
+7@τὸν[14]	τὸν	τόν	ὁ		n
+7@ἠγαπημένον	ἠγαπημένον	ἠγαπημένον	ἀγαπάω		n
+7@εἰς[6]	εἰς	εἰς	εἰς		n
+7@σωτηρίαν	σωτηρίαν	σωτηρίαν	σωτηρία		n
+7@τῆς[9]	τῆς	τῆς	ὁ		n
+7@ψυχῆς[2]	ψυχῆς	ψυχῆς	ψυχή		n
+7@διὰ[3]	διὰ	διά	διά		n
+7@γὰρ[2]	γὰρ	γάρ	γάρ		n
+7@ταύτην	ταύτην	ταύτην	οὗτος		n
+7@τὴν[13]	τὴν	τήν	ὁ		n
+7@πρόφασιν[2]	πρόφασιν	πρόφασιν	πρόφασις		n
+7@καὶ[27]	καὶ	καί	καί		n
+7@τὴν[14]	τὴν	τήν	ὁ		n
+7@τοῦ[20]	τοῦ	τοῦ	ὁ		n
+7@Ὠμοφόρου	Ὠμοφόρου	ὠμοφόρου			n
+7@ἀπέστειλεν[3]	ἀπέστειλεν	ἀπέστειλεν	ἀποστέλλω		n
+7@αὐτόν	αὐτόν	αὐτόν	αὐτός		n
+7@καὶ[28]	καὶ	καί	καί		n
+7@ἐλθὼν	ἐλθὼν	ἐλθών	ἔρχομαι		n
+7@ὁ[11]	ὁ	ὁ	ὁ		n
+7@υἱὸς	υἱὸς	υἱός	υἱός		n
+7@μετεσχημάτισεν	μετεσχημάτισεν	μετεσχημάτισεν			n
+7@ἑαυτὸν	ἑαυτὸν	ἑαυτόν	ἑαυτοῦ		n
+7@εἰς[7]	εἰς	εἰς	εἰς		n
+7@ἀνθρώπου[2]	ἀνθρώπου	ἀνθρώπου	ἄνθρωπος		n
+7@εἲδος	εἲδος	εἴδος			n
+7@καὶ[29]	καὶ	καί	καί		n
+7@ἐφαίνετο	ἐφαίνετο	ἐφαίνετο	φαίνω		n
+7@τοι[3]	τοι	τοι	τοι		n
+7@ἀνθρώποις[2]	ἀνθρώποις	ἀνθρώποις	ἄνθρωπος		n
+7@ὡς[3]	ὡς	ὡς	ὡς		n
+7@ἄνθρωπος[2]	ἄνθρωπος	ἄνθρωπος	ἄνθρωπος		n
+7@μὴ[3]	μὴ	μή	μή		n
+7@ὢν[2]	ὢν	ὤν	εἰμί		n
+7@ἄνθρωπος[3]	ἄνθρωπος	ἄνθρωπος	ἄνθρωπος		n
+7@καὶ[30]	καὶ	καί	καί		n
+7@οἱ[2]	οἱ	οἱ	ὁ		n
+7@ἄνθρωποι	ἄνθρωποι	ἄνθρωποι	ἄνθρωπος		n
+7@ὑπελάμβανον	ὑπελάμβανον	ὑπελάμβανον	ὑπολαμβάνω		n
+7@αὐτὸν	αὐτὸν	αὐτόν	αὐτός		n
+7@γεγεννῆσθαι	γεγεννῆσθαι	γεγεννῆσθαι	γεννάω		n
+7@ἐλθὼν[2]	ἐλθὼν	ἐλθών	ἔρχομαι		n
+7@οὖν[2]	οὖν	οὖν	οὖν		n
+7@ποιεῖται	ποιεῖται	ποιεῖται	ποιέω		n
+7@τὴν[15]	τὴν	τήν	ὁ		n
+7@δημιουργίαν	δημιουργίαν	δημιουργίαν	δημιουργία		n
+7@πρὸς[3]	πρὸς	πρός	πρός		n
+7@σωτηρίαν[2]	σωτηρίαν	σωτηρίαν	σωτηρία		n
+7@τῶν[8]	τῶν	τῶν	ὁ		n
+7@ψυχῶν	ψυχῶν	ψυχῶν			n
+7@καὶ[31]	καὶ	καί	καί		n
+7@μηχανὴν	μηχανὴν	μηχανήν	μηχανή		n
+7@συνεστήσατο	συνεστήσατο	συνεστήσατο	συνίστημι		n
+7@ἔχουσαν	ἔχουσαν	ἔχουσαν	ἔχω		n
+7@δώδεκα	δώδεκα	δώδεκα	δώδεκα		n
+7@κάδους	κάδους	κάδους	κάδος		n
+7@ἥ	ἥ	ἥ	ὁ		n
+7@τις	τις	τὶς	τις		n
+7@ὑπὸ[2]	ὑπὸ	ὑπό	ὑπό		n
+7@τῆς[10]	τῆς	τῆς	ὁ		n
+7@σφαίρας	σφαίρας	σφαίρας	σφαῖρα		n
+7@στρεφομένην	στρεφομένην	στρεφομένην			n
+7@ἀνιμᾶται	ἀνιμᾶται	ἀνιμᾶται	ἀνιμάω		n
+7@τῶν[9]	τῶν	τῶν	ὁ		n
+7@θνησκόν-	θνησκόν-	θνησκόν-			n
+7@ACM[3]	ACM	acm			n
+7@und[9]	und	und			n
+7@Epiph[6]	Epiph	epiph			n
+7@6[7]	6	6			n
+7@7[5]	7	7			n
+7@αὔτη	αὔτη	αὔτη			n
+7@ὑπόθεσις[2]	ὑπόθεσις	ὑπόθεσις			n
+7@fehlt	fehlt	fehlt			n
+7@in[28]	in	in			n
+7@Acta[3]	Acta	acta			n
+7@16[3]	16	16			n
+7@17[3]	17	17			n
+7@freie	freie	freie			n
+7@Übersetzung	Übersetzung	übersetzung			n
+7@humero	humero	humero			n
+7@A[37]	A	a			n
+7@17[4]	17	17			n
+7@et[25]	et	et			n
+7@A[38]	A	a			n
+7@18[6]	18	18			n
+7@ex[6]	ex	ex			n
+7@sese	sese	sese			n
+7@ex[7]	ex	ex			n
+7@se[26]	se	se			n
+7@A[39]	A	a			n
+7@esse[6]	esse	esse			n
+7@se[28]	se	se			n
+7@C[30]	C	c			n
+7@vel	vel	vel			n
+7@germina	germina	germina			n
+7@findet	findet	findet			n
+7@sich	sich	sich			n
+7@nicht	nicht	nicht			n
+7@bei	bei	bei			n
+7@Epiphanius[4]	Epiphanius	epiphanius			n
+7@furata	furata	furata			n
+7@M[20]	M	m			n
+7@18[7]	18	18			n
+7@19[4]	19	19			n
+7@a[126]	a	a			n
+7@quibusdam	quibusdam	quibusdam			n
+7@principibus	principibus	principibus			n
+7@C[31]	C	c			n
+7@19[5]	19	19			n
+7@principes[2]	principes	principes			n
+7@M[21]	M	m			n
+7@21[4]	21	21			n
+7@vinxit	vinxit	vinxit			n
+7@uixit	uixit	uixit			n
+7@Α[19]	Α	α			n
+7@iunxit	iunxit	iunxit			n
+7@M[22]	M	m			n
+7@eum	eum	eum			n
+7@A[40]	A	a			n
+7@22[4]	22	22			n
+7@quia	quia	quia			n
+7@qui[6]	qui	qui			n
+7@A[41]	A	a			n
+7@23[4]	23	23			n
+7@dilectum	dilectum	dilectum			n
+7@C[32]	C	c			n
+7@salute	salute	salute			n
+7@A[42]	A	a			n
+7@haec[2]	haec	haec			n
+7@A[43]	A	a			n
+7@24[6]	24	24			n
+7@humoforum	humoforum	humoforum			n
+7@C[33]	C	c			n
+7@homoforum	homoforum	homoforum			n
+7@Μ[18]	Μ	μ			n
+7@das[7]	das	das			n
+7@erste[3]	erste	erste			n
+7@o[78]	o	o			n
+7@getilgt[3]	getilgt	getilgt			n
+7@und[10]	und	und			n
+7@u[147]	u	u			n
+7@übergesch[4]	übergesch	übergesch			n
+7@von[2]	von	von			n
+7@M2[2]	M2	m2			n
+7@transformavit	transformavit	transformavit			n
+7@aus[7]	aus	aus			n
+7@transformabit	transformabit	transformabit			n
+7@ohne[3]	ohne	ohne			n
+7@Ras[4]	Ras	ras			n
+7@corr[8]	corr	corr			n
+7@C[34]	C	c			n
+7@25[2]	25	25			n
+7@adparebat	adparebat	adparebat			n
+7@parebat[2]	parebat	parebat			n
+7@A[44]	A	a			n
+7@C[35]	C	c			n
+7@M[24]	M	m			n
+7@nach[6]	nach	nach			n
+7@Epiphanius[5]	Epiphanius	epiphanius			n
+7@von[3]	von	von			n
+7@Zacagni[3]	Zacagni	zacagni			n
+7@verbessert[2]	verbessert	verbessert			n
+7@26[2]	26	26			n
+7@putauerunt	putauerunt	putauerunt			n
+7@C[36]	C	c			n
+7@natum	natum	natum			n
+7@naturam	naturam	naturam			n
+7@C[37]	C	c			n
+7@venisset	venisset	venisset			n
+7@uidisset	uidisset	uidisset			n
+7@Μ[19]	Μ	μ			n
+7@27[2]	27	27			n
+7@concinnauit	concinnauit	concinnauit			n
+7@C[38]	C	c			n
+7@rotam	rotam	rotam			n
+7@μηχανὴν[2]	μηχανὴν	μηχανήν			n
+7@Epiphanius[6]	Epiphanius	epiphanius			n
+7@statuit	statuit	statuit			n
+7@status	status	status			n
+7@Μ[20]	Μ	μ			n
+7@28[3]	28	28			n
+7@urceos	urceos	urceos			n
+7@os[4]	os	os			n
+7@aus[8]	aus	aus			n
+7@Corr	Corr	corr			n
+7@A[45]	A	a			n
+7@urchios	urchios	urchios			n
+7@M[25]	M	m			n
+7@quae[2]	quae	quae			n
+7@q[16]	q	q			n
+7@a[158]	a	a			n
+7@Ras[5]	Ras	ras			n
+7@A[46]	A	a			n
+7@nach[7]	nach	nach			n
+7@quae[3]	quae	quae			n
+7@rota[2]	rota	rota			n
+7@C[40]	C	c			n
+7@29[2]	29	29			n
+7@morientum	morientum	morientum			n
+7@M[26]	M	m			n
+7@quas	quas	quas			n
+7@quam	quam	quam			n
+7@M[27]	M	m			n
+7@id[5]	id	id			n
+7@est[4]	est	est			n
+7@sol	sol	sol			n
+7@eine[4]	eine	eine			n
+7@Erklärung[2]	Erklärung	erklärung			n
+7@des[6]	des	des			n
+7@Übersetzers[4]	Übersetzers	übersetzers			n
+7@w[7]	w	w			n
+7@e[304]	e	e			n
+7@sch[10]	sch	sch			n
+7@adimens	adimens	adimens			n
+7@λαβὼν	λαβὼν	λαβών			n
+7@Epiphanius[7]	Epiphanius	epiphanius			n
+7@των[6]	των	των			n
+7@τὰς[2]	τὰς	τάς	ὁ		n
+7@ψυχὰς	ψυχὰς	ψυχάς	ψυχή		n
+7@καὶ[32]	καὶ	καί	καί		n
+7@ταύτας	ταύτας	ταύτας	οὗτος		n
+7@ὁ[12]	ὁ	ὁ	ὁ		n
+7@μέγας	μέγας	μέγας	μέγας		n
+7@φωστὴρ	φωστὴρ	φωστήρ	φωστήρ		n
+7@ταῖς	ταῖς	ταῖς	ὁ		n
+7@ἀκτῖσι	ἀκτῖσι	ἀκτῖσι	ἀκτίς		n
+7@λαβὼν[2]	λαβὼν	λαβών	λαμβάνω		n
+7@καθαρίζει	καθαρίζει	καθαρίζει	καθαρίζω		n
+7@κὼ	κὼ	κώ			n
+7@μεταδίδωσι	μεταδίδωσι	μεταδίδωσι			n
+7@τῷ[15]	τῷ	τῷ	τῷ		n
+7@σελήνῃ	σελήνῃ	σελήνῃ	σελήνη		n
+7@καὶ[33]	καὶ	καί	καί		n
+7@οὕτως[2]	οὕτως	οὕτως	οὕτως		n
+7@πληροῦται	πληροῦται	πληροῦται	πληρόω		n
+7@τῆς[11]	τῆς	τῆς	ὁ		n
+7@σελήνης	σελήνης	σελήνης	σελήνη		n
+7@ὁ[13]	ὁ	ὁ	ὁ		n
+7@δίσκος	δίσκος	δίσκος	δίσκος		n
+7@ὁ[14]	ὁ	ὁ	ὁ		n
+7@παρ[6]	παρ	παρ			n
+7@ὑμῖν	ὑμῖν	ὑμῖν	παρά		n
+7@προσαγορευόμενος	προσαγορευόμενος	προσαγορευόμενος	προσαγορεύω		n
+7@πλοῖα	πλοῖα	πλοῖα	πλοῖον		n
+7@γὰρ[3]	γὰρ	γάρ	γάρ		n
+7@ἤτοι[2]	ἤτοι	ἤτοι			n
+7@πορθμεῖα	πορθμεῖα	πορθμεῖα			n
+7@εἶναι[3]	εἶναι	εἶναι	εἰμί		n
+7@λέγει[3]	λέγει	λέγει	λέγω		n
+7@τοὺς[5]	τοὺς	τούς	ὁ		n
+7@δύο[4]	δύο	δύο	γε		n
+7@φωστῆρας[2]	φωστῆρας	φωστῆρας			n
+7@εἶτα	εἶτα	εἶτα	εἶτα		n
+7@ἐὰν[2]	ἐὰν	ἐάν	ἐάν		n
+7@γεμισθῇ	γεμισθῇ	γεμισθῇ	γεμίζω		n
+7@ἡ[6]	ἡ	ἡ	ὁ		n
+7@σελήνηι	σελήνηι	σελήνηι			n
+7@μεταπορθμεύει	μεταπορθμεύει	μεταπορθμεύει			n
+7@εἰς[8]	εἰς	εἰς	εἰς		n
+7@ἀπηλιώτην	ἀπηλιώτην	ἀπηλιώτην			n
+7@καὶ[34]	καὶ	καί	καί		n
+7@οὕτως[3]	οὕτως	οὕτως	οὕτως		n
+7@ἀπόκρουσιν	ἀπόκρουσιν	ἀπόκρουσιν			n
+7@ποιεῖται[2]	ποιεῖται	ποιεῖται	ποιέω		n
+7@τοῦ[21]	τοῦ	τοῦ	ὁ		n
+7@γόμου	γόμου	γόμου	γόμος		n
+7@ἐλαφρυνομένη	ἐλαφρυνομένη	ἐλαφρυνομένη			n
+7@καὶ[35]	καὶ	καί	καί		n
+7@οὕτω[4]	οὕτω	οὕτω	οὕτως		n
+7@πληροῖ	πληροῖ	πληροῖ			n
+7@τὸ[28]	τὸ	τό	ὁ		n
+7@πορθμεῖον	πορθμεῖον	πορθμεῖον			n
+7@καὶ[36]	καὶ	καί	καί		n
+7@πάλιν[2]	πάλιν	πάλιν	πάλιν		n
+7@ἀπογομοῖ	ἀπογομοῖ	ἀπογομοῖ			n
+7@ἀνιμωμένων	ἀνιμωμένων	ἀνιμωμένων			n
+7@ὑπὸ[3]	ὑπὸ	ὑπό	ὑπό		n
+7@τῶν[10]	τῶν	τῶν	ὁ		n
+7@κάδων	κάδων	κάδων			n
+7@τῶν[11]	τῶν	τῶν	ὁ		n
+7@ψυχῶν[2]	ψυχῶν	ψυχῶν			n
+7@ἄχρις	ἄχρις	ἄχρις	ἄχρι		n
+7@οὑ	οὑ	οὑ			n
+7@τὸ[29]	τὸ	τό	ὁ		n
+7@ἴδιον	ἴδιον	ἴδιον	ἴδιος		n
+7@αὐτοῦ[8]	αὐτοῦ	αὐτοῦ	αὐτός		n
+7@μέρος[3]	μέρος	μέρος	μέρος		n
+7@σώσει	σώσει	σώσει	σῴζω		n
+7@τῆς[12]	τῆς	τῆς	ὁ		n
+7@ψυχῆς[3]	ψυχῆς	ψυχῆς	ψυχή		n
+7@τῆς[13]	τῆς	τῆς	ὁ		n
+7@γὰρ[4]	γὰρ	γάρ	γάρ		n
+7@τοῦ[23]	τοῦ	τοῦ	ὁ		n
+7@ἀγαθοῦ	ἀγαθοῦ	ἀγαθοῦ	ἀγαθός		n
+7@πατρὸς	πατρὸς	πατρός	πατήρ		n
+7@οὐσίας	οὐσίας	οὐσίας	οὐσία		n
+7@πᾶσαν	πᾶσαν	πᾶσαν	πᾶς		n
+7@ψυχὴν[3]	ψυχὴν	ψυχήν	ψυχή		n
+7@καὶ[37]	καὶ	καί	καί		n
+7@πᾶν	πᾶν	πᾶν	πᾶς		n
+7@κινούμενον	κινούμενον	κινούμενον	κινέω		n
+7@ζῶον	ζῶον	ζῶον	ζάω		n
+7@μετέχειν	μετέχειν	μετέχειν	μετέχω		n
+7@λέγει[4]	λέγει	λέγει	λέγω		n
+7@τῆς[14]	τῆς	τῆς	ὁ		n
+7@οὖν[3]	οὖν	οὖν	οὖν		n
+7@σελήνης[2]	σελήνης	σελήνης	σελήνη		n
+7@μεταδιδούσης	μεταδιδούσης	μεταδιδούσης			n
+7@τὸν[17]	τὸν	τόν	ὁ		n
+7@γόμον	γόμον	γόμον	γόμος		n
+7@τῶν[12]	τῶν	τῶν	ὁ		n
+7@φαῶν	φαῶν	φαῶν			n
+7@τοῖς[2]	τοῖς	τοῖς	ὁ		n
+7@αἰῶσι	αἰῶσι	αἰῶσι			n
+7@τοῦ[24]	τοῦ	τοῦ	ὁ		n
+7@πατρός	πατρός	πατρός	πατήρ		n
+7@παραμένουσιν	παραμένουσιν	παραμένουσιν	παραμένω		n
+7@ἐν[10]	ἐν	ἐν	ἐν		n
+7@τῷ[16]	τῷ	τῷ	ὁ		n
+7@στύλῳ	στύλῳ	στύλῳ	στῦλος		n
+7@τῆς[15]	τῆς	τῆς	ὁ		n
+7@δόξης	δόξης	δόξης	δόξα		n
+7@ὃς	ὃς	ὅς	ὅς		n
+7@καλεῖται	καλεῖται	καλεῖται	καλέω		n
+7@ἀὴρ	ἀὴρ	ἀήρ	ἀήρ		n
+7@ὁ[15]	ὁ	ὁ	ὁ		n
+7@τέλειος	τέλειος	τέλειος	τέλειος		n
+7@ὁ[16]	ὁ	ὁ	ὁ		n
+7@δὲ[11]	δὲ	δέ	δέ		n
+7@ἀὴρ[2]	ἀὴρ	ἀήρ	ἀήρ		n
+7@οὗτος[2]	οὗτος	οὗτος	οὗτος		n
+7@στύλος	στύλος	στύλος			n
+7@ἐστὶ[2]	ἐστὶ	ἐστί	εἰμί		n
+7@φωτός	φωτός	φωτός	φώς		n
+7@ἐπειδὴ	ἐπειδὴ	ἐπειδή	ἐπεί		n
+7@γέμει	γέμει	γέμει	γέμω		n
+7@ψυχῶν[3]	ψυχῶν	ψυχῶν	ψυχή		n
+7@τῶν[13]	τῶν	τῶν	ὁ		n
+7@καθαριζοιμένων	καθαριζοιμένων	καθαριζοιμένων			n
+7@αὕτη[3]	αὕτη	αὕτη	οὗτος		n
+7@ἐστὶν	ἐστὶν	ἐστίν	εἰμί		n
+7@ἡ[7]	ἡ	ἡ	ὁ		n
+7@αἰτία	αἰτία	αἰτία	αἰτία		n
+7@δι[8]	δι	δι	διά		n
+7@ἧς	ἧς	ἧς	ὅς		n
+7@αἱ[2]	αἱ	αἱ	ὁ		n
+7@ψυχαὶ	ψυχαὶ	ψυχαί	ψυχή		n
+7@σώζονται	σώζονται	σώζονται	σῴζω		n
+9@XXVII	XXVII	xxvii			n
+9@Ἡ	Ἡ	ἡ	ὁ		n
+9@δὲ	δὲ	δέ	δέ		n
+9@τοῦ	τοῦ	τοῦ	ὁ		n
+9@ἀποθανεῖν	ἀποθανεῖν	ἀποθανεῖν	ἀποθνῄσκω		n
+9@τοὺς	τοὺς	τούς	ὁ		n
+9@ἀνθρώπους	ἀνθρώπους	ἀνθρώπους	ἄνθρωπος		n
+9@ἐστὶ	ἐστὶ	ἐστί	εἰμί		n
+9@πάλιν	πάλιν	πάλιν	πάλιν		n
+9@αὕτη	αὕτη	αὕτη	οὗτος		n
+9@παρθένους	παρθένους	παρθένους	παρθένος		n
+9@τις	τις	τὶς	τις		n
+9@ὡραῖα	ὡραῖα	ὡραῖα	ὡραῖος		n
+9@κεκοσμημένη	κεκοσμημένη	κεκοσμημένη	κοσμέω		n
+9@Μανὴ	Μανὴ	μανή			n
+9@πάνυ	πάνυ	πάνυ	πάνυ		n
+9@συλαῖν	συλαῖν	συλαῖν			n
+9@ἐπι-	ἐπι-	ἐπι-			n
+9@ACM	ACM	acm			n
+9@und	und	und			n
+9@Epiph	Epiph	epiph			n
+9@1	1	1			n
+9@ταύτας	ταύτας	ταύτας			n
+9@ταύταις	ταύταις	ταύταις			n
+9@Oehler	Oehler	oehler			n
+9@6	6	6			n
+9@οὕτω	οὕτω	οὕτω			n
+9@w	w	w			n
+9@e[3]	e	e			n
+9@sch	sch	sch			n
+9@las	las	las			n
+9@der	der	der			n
+9@Übersetzer	Übersetzer	übersetzer			n
+9@πάλιν[2]	πάλιν	πάλιν			n
+9@αὖθις	αὖθις	αὖθις			n
+9@Oehler[2]	Oehler	oehler			n
+9@14	14	14			n
+9@τοῦ[2]	τοῦ	τοῦ			n
+9@Petavius	Petavius	petavius			n
+9@τὸ	τὸ	τό			n
+9@J	J	j			n
+9@16	16	16			n
+9@tradet	tradet	tradet			n
+9@A[2]	A	a			n
+9@discus	discus	discus			n
+9@discursus	discursus	discursus			n
+9@A[3]	A	a			n
+9@nobis	nobis	nobis			n
+9@nauis	nauis	nauis			n
+9@M[2]	M	m			n
+9@17	17	17			n
+9@cambas	cambas	cambas			n
+9@a[7]	a	a			n
+9@Ras	Ras	ras			n
+9@cymbas	cymbas	cymbas			n
+9@übergesch	übergesch	übergesch			n
+9@M2	M2	m2			n
+9@18	18	18			n
+9@luminaria	luminaria	luminaria			n
+9@das	das	das			n
+9@erste	erste	erste			n
+9@i[9]	i	i			n
+9@aus	aus	aus			n
+9@a[14]	a	a			n
+9@corr	corr	corr			n
+9@Α	Α	α			n
+9@impleta	impleta	impleta			n
+9@Μ[2]	Μ	μ			n
+9@lunam	lunam	lunam			n
+9@A[4]	A	a			n
+9@transfetare	transfetare	transfetare			n
+9@Α[2]	Α	α			n
+9@ad[2]	ad	ad			n
+9@d[8]	d	d			n
+9@aus[2]	aus	aus			n
+9@Corr	Corr	corr			n
+9@vielleicht	vielleicht	vielleicht			n
+9@aus[3]	aus	aus			n
+9@b[6]	b	b			n
+9@corr[2]	corr	corr			n
+9@A[5]	A	a			n
+9@19	19	19			n
+9@apocrisin	apocrisin	apocrisin			n
+9@C[3]	C	c			n
+9@apocrysim	apocrysim	apocrysim			n
+9@Μ[3]	Μ	μ			n
+9@facere	facere	facere			n
+9@patitur	patitur	patitur			n
+9@C[4]	C	c			n
+9@onere	onere	onere			n
+9@honore	honore	honore			n
+9@A[6]	A	a			n
+9@reuelata	reuelata	reuelata			n
+9@A[7]	A	a			n
+9@leuata	leuata	leuata			n
+9@Μ[4]	Μ	μ			n
+9@20	20	20			n
+9@cumbas	cumbas	cumbas			n
+9@cumbam	cumbam	cumbam			n
+9@C[5]	C	c			n
+9@cymbas[2]	cymbas	cymbas			n
+9@M[4]	M	m			n
+9@das[2]	das	das			n
+9@y[4]	y	y			n
+9@zu	zu	zu			n
+9@u[18]	u	u			n
+9@corr[3]	corr	corr			n
+9@und[2]	und	und			n
+9@y[5]	y	y			n
+9@übergesch[2]	übergesch	übergesch			n
+9@M2[2]	M2	m2			n
+9@rursum	rursum	rursum			n
+9@A[8]	A	a			n
+9@urceos	urceos	urceos			n
+9@das[3]	das	das			n
+9@ο[9]	ο	ο			n
+9@aus[4]	aus	aus			n
+9@u[24]	u	u			n
+9@corr[4]	corr	corr			n
+9@A[9]	A	a			n
+9@21	21	21			n
+9@animarum	animarum	animarum			n
+9@τῆς	τῆς	τῆς			n
+9@ψυχῆς	ψυχῆς	ψυχῆς			n
+9@Epiphanius	Epiphanius	epiphanius			n
+9@substantiam	substantiam	substantiam			n
+9@Α[3]	Α	α			n
+9@23	23	23			n
+9@quod	quod	quod			n
+9@gerit	gerit	gerit			n
+9@fehlt	fehlt	fehlt			n
+9@bei	bei	bei			n
+9@Epiphanius[2]	Epiphanius	epiphanius			n
+9@24	24	24			n
+9@permanet	permanet	permanet			n
+9@M[6]	M	m			n
+9@illa	illa	illa			n
+9@bezieht	bezieht	bezieht			n
+9@sich	sich	sich			n
+9@auf	auf	auf			n
+9@saecula	saecula	saecula			n
+9@vielleicht[2]	vielleicht	vielleicht			n
+9@ein	ein	ein			n
+9@Irrtum	Irrtum	irrtum			n
+9@des	des	des			n
+9@Übersetzers	Übersetzers	übersetzers			n
+9@illae	illae	illae			n
+9@Zacagni	Zacagni	zacagni			n
+9@25	25	25			n
+9@vir	vir	vir			n
+9@der[2]	der	der			n
+9@Übersetezer	Übersetezer	übersetezer			n
+9@hat	hat	hat			n
+9@ἀήρ	ἀήρ	ἀήρ			n
+9@und[3]	und	und			n
+9@ἀνήρ	ἀνήρ	ἀνήρ			n
+9@verwechselt	verwechselt	verwechselt			n
+9@26	26	26			n
+9@animarum[2]	animarum	animarum			n
+9@mundarum	mundarum	mundarum			n
+9@C[6]	C	c			n
+9@M[7]	M	m			n
+9@27	27	27			n
+9@mortis	mortis	mortis			n
+9@causa	causa	causa			n
+9@a[56]	a	a			n
+9@Ras[2]	Ras	ras			n
+9@w[3]	w	w			n
+9@e[56]	e	e			n
+9@sch[4]	sch	sch			n
+9@M[8]	M	m			n
+9@hominibus	hominibus	hominibus			n
+9@est	est	est			n
+9@A[10]	A	a			n
+9@ista	ista	ista			n
+9@πάλιν[3]	πάλιν	πάλιν			n
+9@αὕτη[2]	αὕτη	αὕτη			n
+9@Epiphanius[3]	Epiphanius	epiphanius			n
+9@28	28	28			n
+9@et[9]	et	et			n
+9@aus[6]	aus	aus			n
+9@Corr[2]	Corr	corr			n
+9@A[11]	A	a			n
+9@furto	furto	furto			n
+9@principes	principes	principes			n
+9@freie	freie	freie			n
+9@Übersetzung	Übersetzung	übersetzung			n
+9@appetit	appetit	appetit			n
+9@C[8]	C	c			n
+9@appetiit	appetiit	appetiit			n
+9@M[9]	M	m			n
+9@χειρεῖ	χειρεῖ	χειρεῖ			n
+9@τοὺς[2]	τοὺς	τούς	ὁ		n
+9@ἄρχοντας	ἄρχοντας	ἄρχοντας	ἄρχων		n
+9@τοὺς[3]	τοὺς	τούς	ὁ		n
+9@ἐν	ἐν	ἐν	ἐν		n
+9@τῷ	τῷ	τῷ	ὁ		n
+9@στερεώματι	στερεώματι	στερεώματι			n
+9@ὑπὸ	ὑπὸ	ὑπό	ὑπό		n
+9@τοῦ[3]	τοῦ	τοῦ	ὁ		n
+9@ζῶντος	ζῶντος	ζῶντος	ζήω		n
+9@πνεύματος	πνεύματος	πνεύματος	πνεῦμα		n
+9@ἀνενεχθέντας	ἀνενεχθέντας	ἀνενεχθέντας			n
+9@καὶ	καὶ	καί	καί		n
+9@σταυρωθέντας	σταυρωθέντας	σταυρωθέντας			n
+9@φαινομένη	φαινομένη	φαινομένη	φαίνω		n
+9@δὲ[2]	δὲ	δέ	δέ		n
+9@τοῖς	τοῖς	τοῖς	ὁ		n
+9@ἄρρεσι	ἄρρεσι	ἄρρεσι			n
+9@θήλεια	θήλεια	θήλεια	θῆλυς		n
+9@εὔμορφος	εὔμορφος	εὔμορφος	εὔμορφος		n
+9@ταῖς	ταῖς	ταῖς	ὁ		n
+9@δὲ[3]	δὲ	δέ	δέ		n
+9@θηλείαις	θηλείαις	θηλείαις	θῆλυς		n
+9@νεανίας	νεανίας	νεανίας			n
+9@εὐειδὴς	εὐειδὴς	εὐειδής	εὐειδής		n
+9@καὶ[2]	καὶ	καί	καί		n
+9@ἐπιθυμητός	ἐπιθυμητός	ἐπιθυμητός			n
+9@καὶ[3]	καὶ	καί	καί		n
+9@οἱ	οἱ	οἱ	ὁ		n
+9@μὲν	μὲν	μέν	μέν		n
+9@ἄρχοντες	ἄρχοντες	ἄρχοντες	ἄρχων		n
+9@ὁπόταν	ὁπόταν	ὁπόταν	ὁπότε		n
+9@ἴδωσιν	ἴδωσιν	ἴδωσιν	ὁράω		n
+9@αὐτὴν	αὐτὴν	αὐτήν	αὐτός		n
+9@κεκαλλωπισμένην	κεκαλλωπισμένην	κεκαλλωπισμένην	καλλωπίζω		n
+9@οἰστροῦνται	οἰστροῦνται	οἰστροῦνται			n
+9@τῷ[2]	τῷ	τῷ	τῷ		n
+9@φίλτρῳ	φίλτρῳ	φίλτρῳ	φίλτρον		n
+9@καὶ[4]	καὶ	καί	καί		n
+9@μὴ	μὴ	μή	μή		n
+9@δυνάμενοι	δυνάμενοι	δυνάμενοι			n
+9@αὐτὴν[2]	αὐτὴν	αὐτήν	αὐτός		n
+9@καταλαβεῖν	καταλαβεῖν	καταλαβεῖν	καταλαμβάνω		n
+9@δεινῶς	δεινῶς	δεινῶς	δεινός		n
+9@φλέγονται	φλέγονται	φλέγονται	φλέγω		n
+9@τῷ[3]	τῷ	τῷ	τῷ		n
+9@ἐρωτικῷ	ἐρωτικῷ	ἐρωτικῷ	ἐρωτικός		n
+9@πόθῳ	πόθῳ	πόθῳ	πόθος		n
+9@τὸν	τὸν	τόν	ὁ		n
+9@νοῦν	νοῦν	νοῦν	νόος		n
+9@ἐξαρπασθέντες	ἐξαρπασθέντες	ἐξαρπασθέντες			n
+9@ὅταν	ὅταν	ὅταν	ὅταν		n
+9@οὐν	οὐν	οὐν			n
+9@τρεχόντων	τρεχόντων	τρεχόντων	τρέχω		n
+9@αὐτῶν	αὐτῶν	αὐτῶν	αὐτός		n
+9@ἡ	ἡ	ἡ	ὁ		n
+9@παρθένος	παρθένος	παρθένος	παρθένος		n
+9@ἄφαντος	ἄφαντος	ἄφαντος	ἄφαντος		n
+9@γένηται	γένηται	γένηται	γίγνομαι		n
+9@τότε	τότε	τότε	τότε		n
+9@ὁ[2]	ὁ	ὁ	ὁ		n
+9@ἄρχων	ἄρχων	ἄρχων	ἄρχων		n
+9@ὁ[3]	ὁ	ὁ	ὁ		n
+9@μέγας	μέγας	μέγας	μέγας		n
+9@προβάλλει	προβάλλει	προβάλλει	προβάλλω		n
+9@τὰς	τὰς	τάς	ὁ		n
+9@νεφέλας	νεφέλας	νεφέλας	νεφέλη		n
+9@ἐξ[2]	ἐξ	ἐκ	ἐκ		n
+9@αὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτός		n
+9@ὅπως	ὅπως	ὅπως	ὅπως		n
+9@σκοτίσῃ	σκοτίσῃ	σκοτίσῃ			n
+9@τῇ	τῇ	τῇ	ὁ		n
+9@ὀργῇ	ὀργῇ	ὀργῇ	ὀργή		n
+9@αὐτοῦ[2]	αὐτοῦ	αὐτοῦ	αὐτός		n
+9@τὸν[2]	τὸν	τόν	ὁ		n
+9@κόσμον	κόσμον	κόσμον	κόσμος		n
+9@καὶ[5]	καὶ	καί	καί		n
+9@οὕτως	οὕτως	οὕτως	οὕτως		n
+9@ἐὰν	ἐὰν	ἐάν	ἐάν		n
+9@θλιβῇ	θλιβῇ	θλιβῇ			n
+9@πάνυ[2]	πάνυ	πάνυ	πάνυ		n
+9@καθάπερ	καθάπερ	καθάπερ	καθά		n
+9@ἄνθρωπος	ἄνθρωπος	ἄνθρωπος	ἄνθρωπος		n
+9@ἰδρῶν	ἰδρῶν	ἰδρῶν			n
+9@ἀποκοποῦται	ἀποκοποῦται	ἀποκοποῦται			n
+9@ὁ[4]	ὁ	ὁ	ὁ		n
+9@δὲ[4]	δὲ	δέ	δέ		n
+9@ἱδρὼς	ἱδρὼς	ἱδρώς	ἱδρώς		n
+9@αὐτοῦ[3]	αὐτοῦ	αὐτοῦ	αὐτός		n
+9@ἐστιν	ἐστιν	ἐστίν	εἰμί		n
+9@ἡ[2]	ἡ	ἡ	ὁ		n
+9@βροχή	βροχή	βροχή	βροχή		n
+9@ὁμοῦ	ὁμοῦ	ὁμοῦ	ὁμοῦ		n
+9@καὶ[6]	καὶ	καί	καί		n
+9@ὁ[6]	ὁ	ὁ	ὁ		n
+9@θερισμὸς	θερισμὸς	θερισμός	θερισμός		n
+9@ἄρχων[2]	ἄρχων	ἄρχων	ἄρχων		n
+9@ἐὰν[2]	ἐὰν	ἐάν	ἐάν		n
+9@συληθῇ	συληθῇ	συληθῇ			n
+9@ὑπὸ[2]	ὑπὸ	ὑπό	ὑπό		n
+9@τῆς[2]	τῆς	τῆς	ὁ		n
+9@παρθένου[2]	παρθένου	παρθένου	παρθένος		n
+9@καταχέει	καταχέει	καταχέει	καταχέω		n
+9@λοιμὸν	λοιμὸν	λοιμόν	λοιμός		n
+9@ἐφ	ἐφ	ἐφ	ἐπί		n
+9@ὅλης	ὅλης	ὅλης	ὅλος		n
+9@τῆς[3]	τῆς	τῆς	ὁ		n
+9@γῆς	γῆς	γῆς	γῆ		n
+9@ὅπως[2]	ὅπως	ὅπως	ὅπως		n
+9@θανατώσῃ	θανατώσῃ	θανατώσῃ			n
+9@τοὺς[4]	τοὺς	τούς	ὁ		n
+9@ἀνθρώπους[2]	ἀνθρώπους	ἀνθρώπους	ἄνθρωπος		n
+9@τὸ[4]	τὸ	τό	ὁ		n
+9@γὰρ	γὰρ	γάρ	γάρ		n
+9@σῶμα	σῶμα	σῶμα	σῶμα		n
+9@τοῦτο	τοῦτο	τοῦτο	οὗτος		n
+9@κόσμος	κόσμος	κόσμος	κόσμος		n
+9@καλεῖται	καλεῖται	καλεῖται	καλέω		n
+9@πρὸς	πρὸς	πρός	πρός		n
+9@τὸν[3]	τὸν	τόν	ὁ		n
+9@μέγαν	μέγαν	μέγαν	μέγας		n
+9@κόσμον[2]	κόσμον	κόσμον	κόσμος		n
+9@καὶ[7]	καὶ	καί	καί		n
+9@οἱ[2]	οἱ	οἱ	ὁ		n
+9@ἄνθρωποι	ἄνθρωποι	ἄνθρωποι	ἄνθρωπος		n
+9@πάντες	πάντες	πάντες	πᾶς		n
+9@ῥίζας	ῥίζας	ῥίζας	ῥίζα		n
+9@ἔχουσι	ἔχουσι	ἔχουσι	ἔχω		n
+9@κάτω	κάτω	κάτω	κάτω		n
+9@συνδεθείσας	συνδεθείσας	συνδεθείσας			n
+9@τοῖς[2]	τοῖς	τοῖς	ὁ		n
+9@ἄνω	ἄνω	ἄνω	ἄνω2		n
+9@ὁπόταν[2]	ὁπόταν	ὁπόταν	ὁπότε		n
+9@οὖν	οὖν	οὖν	οὖν		n
+9@συληθῇ[2]	συληθῇ	συληθῇ			n
+9@ὑπὸ[3]	ὑπὸ	ὑπό	ὑπό		n
+9@ἧς	ἧς	ἧς			n
+9@ACM[2]	ACM	acm			n
+9@und[5]	und	und			n
+9@Fpiph	Fpiph	fpiph			n
+9@10	10	10			n
+9@θερισμοῦ	θερισμοῦ	θερισμοῦ			n
+9@Zacagni[2]	Zacagni	zacagni			n
+9@vielleicht[3]	vielleicht	vielleicht			n
+9@mit	mit	mit			n
+9@Recht	Recht	recht			n
+9@θεριστὴς	θεριστὴς	θεριστής			n
+9@Petavius[2]	Petavius	petavius			n
+9@alter	alter	alter			n
+9@princeps	princeps	princeps			n
+9@messor	messor	messor			n
+9@appellatus	appellatus	appellatus			n
+9@Cornarius	Cornarius	cornarius			n
+9@15	15	15			n
+9@vivente	vivente	vivente			n
+9@aus[7]	aus	aus			n
+9@uiuentes	uiuentes	uiuentes			n
+9@corr[5]	corr	corr			n
+9@M1	M1	m1			n
+9@spirito	spirito	spirito			n
+9@A[13]	A	a			n
+9@educti	educti	educti			n
+9@seducit	seducit	seducit			n
+9@zu[3]	zu	zu			n
+9@seducti	seducti	seducti			n
+9@corr[6]	corr	corr			n
+9@M2[3]	M2	m2			n
+9@15[2]	15	15			n
+9@17[2]	17	17			n
+9@eine	eine	eine			n
+9@Paraphrase	Paraphrase	paraphrase			n
+9@15[3]	15	15			n
+9@masculis	masculis	masculis			n
+9@A[14]	A	a			n
+9@16[2]	16	16			n
+9@nach	nach	nach			n
+9@adulescentem	adulescentem	adulescentem			n
+9@se[9]	se	se			n
+9@M[13]	M	m			n
+9@19[2]	19	19			n
+9@20[2]	20	20			n
+9@freie[2]	freie	freie			n
+9@Übersetzung[2]	Übersetzung	übersetzung			n
+9@19[3]	19	19			n
+9@amoris	amoris	amoris			n
+9@amoriis	amoriis	amoriis			n
+9@A[15]	A	a			n
+9@excitati	excitati	excitati			n
+9@escitati	escitati	escitati			n
+9@A[16]	A	a			n
+9@excecati	excecati	excecati			n
+9@Μ[5]	Μ	μ			n
+9@20[3]	20	20			n
+9@calore	calore	calore			n
+9@amoris[2]	amoris	amoris			n
+9@calorem	calorem	calorem			n
+9@Α[4]	Α	α			n
+9@ergo	ergo	ergo			n
+9@enim	enim	enim			n
+9@C[11]	C	c			n
+9@eis	eis	eis			n
+9@C[12]	C	c			n
+9@post	post	post			n
+9@eam	eam	eam			n
+9@postea	postea	postea			n
+9@M[14]	M	m			n
+9@fehlt[2]	fehlt	fehlt			n
+9@bei[2]	bei	bei			n
+9@Epiphanius[4]	Epiphanius	epiphanius			n
+9@nach[2]	nach	nach			n
+9@eam[2]	eam	eam			n
+9@anxii	anxii	anxii			n
+9@effecti	effecti	effecti			n
+9@fuissent	fuissent	fuissent			n
+9@C[13]	C	c			n
+9@21[2]	21	21			n
+9@subito	subito	subito			n
+9@fehlt[3]	fehlt	fehlt			n
+9@bei[3]	bei	bei			n
+9@Epiphanius[5]	Epiphanius	epiphanius			n
+9@conparuerit	conparuerit	conparuerit			n
+9@comparuit	comparuit	comparuit			n
+9@uit[2]	uit	uit			n
+9@a[94]	a	a			n
+9@Ras[3]	Ras	ras			n
+9@A[17]	A	a			n
+9@AC[3]	AC	ac			n
+9@22	22	22			n
+9@ut	ut	ut			n
+9@M[15]	M	m			n
+9@universum	universum	universum			n
+9@omnem	omnem	omnem			n
+9@C[15]	C	c			n
+9@22[2]	22	22			n
+9@24[2]	24	24			n
+9@wieder	wieder	wieder			n
+9@eine[2]	eine	eine			n
+9@Paraphrase[2]	Paraphrase	paraphrase			n
+9@24[3]	24	24			n
+9@princeps[2]	princeps	princeps			n
+9@das[4]	das	das			n
+9@e[120]	e	e			n
+9@aus[8]	aus	aus			n
+9@i[94]	i	i			n
+9@corr[7]	corr	corr			n
+9@Α[5]	Α	α			n
+9@nach[3]	nach	nach			n
+9@sudat	sudat	sudat			n
+9@ei[13]	ei	ei			n
+9@Α[6]	Α	α			n
+9@25[2]	25	25			n
+9@effundet	effundet	effundet			n
+9@A[19]	A	a			n
+9@famem	famem	famem			n
+9@famam	famam	famam			n
+9@A[20]	A	a			n
+9@der[4]	der	der			n
+9@Übersetzer[3]	Übersetzer	übersetzer			n
+9@hat[2]	hat	hat			n
+9@w[5]	w	w			n
+9@e[129]	e	e			n
+9@sch[5]	sch	sch			n
+9@λοιμός	λοιμός	λοιμός			n
+9@und[7]	und	und			n
+9@λιμός	λιμός	λιμός			n
+9@verwechselt[2]	verwechselt	verwechselt			n
+9@26[2]	26	26			n
+9@omnem[2]	omnem	omnem			n
+9@Α[7]	Α	α			n
+9@C[16]	C	c			n
+9@mortem	mortem	mortem			n
+9@A[21]	A	a			n
+9@hoc	hoc	hoc			n
+9@enim[2]	enim	enim			n
+9@M[16]	M	m			n
+9@M2[4]	M2	m2			n
+9@27[2]	27	27			n
+9@magni	magni	magni			n
+9@imaginis	imaginis	imaginis			n
+9@Μ[6]	Μ	μ			n
+9@28[2]	28	28			n
+9@rursum[2]	rursum	rursum			n
+9@AC[4]	AC	ac			n
+9@παρθένου[3]	παρθένου	παρθένου	παρθένος		n
+9@τότε[2]	τότε	τότε	τότε		n
+9@ἄρχεται	ἄρχεται	ἄρχεται	ἄρχω		n
+9@κόπτειν	κόπτειν	κόπτειν	κόπτω		n
+9@τὰς[2]	τὰς	τάς	ὁ		n
+9@ῥίζας[2]	ῥίζας	ῥίζας	ῥίζα		n
+9@τῶν[2]	τῶν	τῶν	ὁ		n
+9@ἀνθρώπων	ἀνθρώπων	ἀνθρώπων	ἄνθρωπος		n
+9@καὶ[8]	καὶ	καί	καί		n
+9@ὅταν[2]	ὅταν	ὅταν	ὅταν		n
+9@κοπῶσιν	κοπῶσιν	κοπῶσιν			n
+9@αἱ	αἱ	αἱ	ὁ		n
+9@ῥίζαι	ῥίζαι	ῥίζαι	ῥίζα		n
+9@αὐτῶν[2]	αὐτῶν	αὐτῶν	αὐτός		n
+9@τότε[3]	τότε	τότε	τότε		n
+9@ἄρχεται[2]	ἄρχεται	ἄρχεται	ἄρχω		n
+9@λοιμὸς	λοιμὸς	λοιμός	λοιμός		n
+9@γίνεσθαι	γίνεσθαι	γίνεσθαι	γίγνομαι		n
+9@καὶ[9]	καὶ	καί	καί		n
+9@οὕτως[2]	οὕτως	οὕτως	οὕτως		n
+9@ἀκοθνήσκουσιν	ἀκοθνήσκουσιν	ἀκοθνήσκουσιν			n
+9@ἐὰν[3]	ἐὰν	ἐάν	ἐάν		n
+9@δὲ[5]	δὲ	δέ	δέ		n
+9@τὰ[3]	τὰ	τά	ὁ		n
+9@ἄνω[2]	ἄνω	ἄνω	ἄνω2		n
+9@τῆς[4]	τῆς	τῆς	ὁ		n
+9@ῥίζης	ῥίζης	ῥίζης	ῥίζα		n
+9@τόνω	τόνω	τόνω			n
+9@σαλεύσῃ	σαλεύσῃ	σαλεύσῃ			n
+9@σεισμὸς	σεισμὸς	σεισμός	σεισμός		n
+9@γίγνεταί	γίγνεταί	γίγνεται			n
+9@τε[9]	τε	τέ	τε		n
+9@καὶ[10]	καὶ	καί	καί		n
+9@ἐπακολουθεῖ	ἐπακολουθεῖ	ἐπακολουθεῖ	ἐπακολουθέω		n
+9@συγκινουμένου	συγκινουμένου	συγκινουμένου			n
+9@μὲν[2]	μὲν	μέν	μέν		n
+9@τοῦ[8]	τοῦ	τοῦ	ὁ		n
+9@Ὠμοφόρου	Ὠμοφόρου	ὠμοφόρου			n
+9@αὕτη[3]	αὕτη	αὕτη	οὗτος		n
+9@ἡ[3]	ἡ	ἡ	ὁ		n
+9@αἰτία	αἰτία	αἰτία	αἰτία		n
+9@τοῦ[9]	τοῦ	τοῦ	ὁ		n
+9@θανάτου	θανάτου	θανάτου	θάνατος		n
+10@XXVIII	XXVIII	xxviii			n
+10@Ἐρῶ	Ἐρῶ	ἐρῶ			n
+10@δὲ	δὲ	δέ	δέ		n
+10@ὑμῖν	ὑμῖν	ὑμῖν			n
+10@καὶ	καὶ	καί	καί		n
+10@τοῦτο	τοῦτο	τοῦτο	οὗτος		n
+10@πῶς	πῶς	πῶς	πῶς		n
+10@μεταγγίζεται	μεταγγίζεται	μεταγγίζεται			n
+10@ἡ	ἡ	ἡ	ὁ		n
+10@ψυχὴ	ψυχὴ	ψυχή	ψυχή		n
+10@εἰς	εἰς	εἰς	εἰς		n
+10@πέντε	πέντε	πέντε			n
+10@σώματα	σώματα	σώματα	σῶμα		n
+10@πρῶτον	πρῶτον	πρῶτον	πρῶτος		n
+10@καθαρίζεται	καθαρίζεται	καθαρίζεται	καθαρίζω		n
+10@μικρόν	μικρόν	μικρόν	μικρός		n
+10@τι	τι	τὶ	τις		n
+10@ἀπ	ἀπ	ἀπ	ἀπό		n
+10@αὐτῆς	αὐτῆς	αὐτῆς	αὐτός		n
+10@εἶτα	εἶτα	εἶτα	εἶτα		n
+10@μεταγγίζεται[2]	μεταγγίζεται	μεταγγίζεται			n
+10@εἰς[2]	εἰς	εἰς	εἰς		n
+10@κυνὸς	κυνὸς	κυνός			n
+10@ἢ	ἢ	ἤ	τίη		n
+10@εἰς[3]	εἰς	εἰς	εἰς		n
+10@καμήλου	καμήλου	καμήλου	κάμηλος		n
+10@ἢ[2]	ἢ	ἤ	τίη		n
+10@εἰς[4]	εἰς	εἰς	εἰς		n
+10@ἑτέρου	ἑτέρου	ἑτέρου	ἕτερος		n
+10@ζώου	ζώου	ζώου			n
+10@σῶμα	σῶμα	σῶμα	σῶμα		n
+10@ἐὰν	ἐὰν	ἐάν	ἐάν		n
+10@δὲ[2]	δὲ	δέ	δέ		n
+10@ᾐ	ᾐ	ᾐ			n
+10@πεφονευκυῖα	πεφονευκυῖα	πεφονευκυῖα			n
+10@ψυχή	ψυχή	ψυχή	ψυχή		n
+10@εἰς[5]	εἰς	εἰς	εἰς		n
+10@κελεφῶν	κελεφῶν	κελεφῶν			n
+10@σώματα[2]	σώματα	σώματα	σῶμα		n
+10@μεταφέρεται	μεταφέρεται	μεταφέρεται	μεταφέρω		n
+10@ἐὰν[2]	ἐὰν	ἐάν	ἐάν		n
+10@δὲ[3]	δὲ	δέ	δέ		n
+10@θερίσασα	θερίσασα	θερίσασα			n
+10@εὑρεθῇ	εὑρεθῇ	εὑρεθῇ	εὑρίσκω		n
+10@εἰς[6]	εἰς	εἰς	εἰς		n
+10@μογγιλάλους	μογγιλάλους	μογγιλάλους			n
+10@τῆς[2]	τῆς	τῆς	ὁ		n
+10@Κε	Κε	κε			n
+10@ψυχῆς	ψυχῆς	ψυχῆς	ψυχή		n
+10@ἐστι	ἐστι	ἐστί	εἰμί		n
+10@τὰ	τὰ	τά	ὁ		n
+10@ὀνόματα	ὀνόματα	ὀνόματα	ὄνομα		n
+10@ταῦτα	ταῦτα	ταῦτα	οὗτος		n
+10@νοῦς	νοῦς	νοῦς			n
+10@ἔννοια	ἔννοια	ἔννοια	ἔννοια		n
+10@φρόνησις	φρόνησις	φρόνησις	φρόνησις		n
+10@ἐνθύμησις	ἐνθύμησις	ἐνθύμησις	ἐνθύμησις		n
+10@λογισμός	λογισμός	λογισμός	λογισμός		n
+10@οἱ	οἱ	οἱ	ὁ		n
+10@δὲ[4]	δὲ	δέ	δέ		n
+10@θερισταὶ	θερισταὶ	θερισταί	θεριστής		n
+10@ὅσοι	ὅσοι	ὅσοι	ὅσος		n
+10@θερίζουσιν	θερίζουσιν	θερίζουσιν	θερίζω		n
+10@ἐοίκασι	ἐοίκασι	ἐοίκασι	ἔοικα		n
+10@τοῖς	τοῖς	τοῖς	ὁ		n
+10@ἄρχουσι	ἄρχουσι	ἄρχουσι	ἄρχων		n
+10@τοῖς[2]	τοῖς	τοῖς	ὁ		n
+10@ἀπ[2]	ἀπ	ἀπ	ἀπό		n
+10@ἀρχῆς	ἀρχῆς	ἀρχῆς	ἀρχή		n
+10@οὐσιν	οὐσιν	οὐσιν			n
+10@εἰς[7]	εἰς	εἰς	εἰς		n
+10@τὸ	τὸ	τό	ὁ		n
+10@σκότος	σκότος	σκότος	σκότος		n
+10@ὅτε	ὅτε	ὅτε	ὅτε		n
+10@ἔφαγον	ἔφαγον	ἔφαγον			n
+10@ἐκ	ἐκ	ἐκ	ἐκ		n
+10@τῆς[3]	τῆς	τῆς	ὁ		n
+10@τοῦ[2]	τοῦ	τοῦ	ὁ		n
+10@πρώτου	πρώτου	πρώτου	πρῶτος		n
+10@ἀνθρώπου	ἀνθρώπου	ἀνθρώπου	ἄνθρωπος		n
+10@πανοπλίας	πανοπλίας	πανοπλίας	πανοπλία		n
+10@διὸ	διὸ	διό	διό		n
+10@ἀνάγκη	ἀνάγκη	ἀνάγκη	ἀνάγκη		n
+10@αὐτοὺς	αὐτοὺς	αὐτούς	αὐτός		n
+10@μεταγγισθῆναι	μεταγγισθῆναι	μεταγγισθῆναι			n
+10@εἰς[8]	εἰς	εἰς	εἰς		n
+10@χόρτον	χόρτον	χόρτον	χόρτος		n
+10@ἢ[3]	ἢ	ἤ	τίη		n
+10@εἰς[9]	εἰς	εἰς	εἰς		n
+10@φασήλια	φασήλια	φασήλια			n
+10@ἢ[4]	ἢ	ἤ	τίη		n
+10@εἰς[10]	εἰς	εἰς	εἰς		n
+10@κριθὴν	κριθὴν	κριθήν	κριθή		n
+10@ἢ[5]	ἢ	ἤ	τίη		n
+10@εἰς[11]	εἰς	εἰς	εἰς		n
+10@στάχυν	στάχυν	στάχυν	στάχυς		n
+10@ἢ[6]	ἢ	ἤ	τίη		n
+10@εἰς[12]	εἰς	εἰς	εἰς		n
+10@λάχανα	λάχανα	λάχανα	λάχανον		n
+10@ἵνα	ἵνα	ἵνα	ἵνα		n
+10@θερισθῶσι	θερισθῶσι	θερισθῶσι			n
+10@κοὶ	κοὶ	κοί			n
+10@κοπῶσι	κοπῶσι	κοπῶσι			n
+10@καὶ[2]	καὶ	καί	καί		n
+10@εἴ	εἴ	εἴ	εἰ		n
+10@τις	τις	τὶς	τις		n
+10@ACM	ACM	acm			n
+10@und	und	und			n
+10@Epiph	Epiph	epiph			n
+10@3	3	3			n
+10@τόνῳ	τόνῳ	τόνῳ			n
+10@πόνῳ	πόνῳ	πόνῳ			n
+10@Petavius	Petavius	petavius			n
+10@6	6	6			n
+10@τοῦτο[2]	τοῦτο	τοῦτο			n
+10@fehlt	fehlt	fehlt			n
+10@in	in	in			n
+10@den	den	den			n
+10@Acta	Acta	acta			n
+10@14	14	14			n
+10@εἰς[13]	εἰς	εἰς			n
+10@φασήλια[2]	φασήλια	φασήλια			n
+10@σφασήλια	σφασήλια	σφασήλια			n
+10@J	J	j			n
+10@φάσηλον	φάσηλον	φάσηλον			n
+10@oder	oder	oder			n
+10@φασίολον	φασίολον	φασίολον			n
+10@Dindorf	Dindorf	dindorf			n
+10@16	16	16			n
+10@uirginem	uirginem	uirginem			n
+10@A[3]	A	a			n
+10@incipiet	incipiet	incipiet			n
+10@Α	Α	α			n
+10@excipit	excipit	excipit			n
+10@M[2]	M	m			n
+10@excidere	excidere	excidere			n
+10@cum	cum	cum			n
+10@C[2]	C	c			n
+10@17	17	17			n
+10@pestilentia	pestilentia	pestilentia			n
+10@das	das	das			n
+10@erste	erste	erste			n
+10@e[15]	e	e			n
+10@aus	aus	aus			n
+10@i[15]	i	i			n
+10@corr	corr	corr			n
+10@A[4]	A	a			n
+10@si	si	si			n
+10@C[3]	C	c			n
+10@18	18	18			n
+10@radicis	radicis	radicis			n
+10@radices	radices	radices			n
+10@Α[2]	Α	α			n
+10@radicum	radicum	radicum			n
+10@CM[2]	CM	cm			n
+10@18[2]	18	18			n
+10@19	19	19			n
+10@ungenaue	ungenaue	ungenaue			n
+10@Übersetzung	Übersetzung	übersetzung			n
+10@19[2]	19	19			n
+10@humofori	humofori	humofori			n
+10@C[5]	C	c			n
+10@homofori	homofori	homofori			n
+10@zu[2]	zu	zu			n
+10@humofori[2]	humofori	humofori			n
+10@corr[2]	corr	corr			n
+10@M2	M2	m2			n
+10@20	20	20			n
+10@alia	alia	alia			n
+10@quoqne	quoqne	quoqne			n
+10@πέντε[2]	πέντε	πέντε			n
+10@Epiphanius	Epiphanius	epiphanius			n
+10@21	21	21			n
+10@transferuntur	transferuntur	transferuntur			n
+10@A[5]	A	a			n
+10@purgantur	purgantur	purgantur			n
+10@A[6]	A	a			n
+10@parum	parum	parum			n
+10@ex[3]	ex	ex			n
+10@ea	ea	ea			n
+10@M[5]	M	m			n
+10@23	23	23			n
+10@commisit	commisit	commisit			n
+10@C[6]	C	c			n
+10@ammisit	ammisit	ammisit			n
+10@M[6]	M	m			n
+10@elephantiacorum	elephantiacorum	elephantiacorum			n
+10@elefantorum	elefantorum	elefantorum			n
+10@Α[3]	Α	α			n
+10@elefantia	elefantia	elefantia			n
+10@corum[2]	corum	corum			n
+10@C[7]	C	c			n
+10@elefantiacorum	elefantiacorum	elefantiacorum			n
+10@et[4]	et	et			n
+10@cephalorum	cephalorum	cephalorum			n
+10@M[7]	M	m			n
+10@wahrscheinlich	wahrscheinlich	wahrscheinlich			n
+10@liegt	liegt	liegt			n
+10@eine	eine	eine			n
+10@Doppelversion	Doppelversion	doppelversion			n
+10@des	des	des			n
+10@Übersetzers	Übersetzers	übersetzers			n
+10@zu[3]	zu	zu			n
+10@Grunde	Grunde	grunde			n
+10@24	24	24			n
+10@transfunduntur	transfunduntur	transfunduntur			n
+10@AC[2]	AC	ac			n
+10@26	26	26			n
+10@ex[4]	ex	ex			n
+10@materia	materia	materia			n
+10@ἀπ[3]	ἀπ	ἀπ			n
+10@ἀρχῆς[2]	ἀρχῆς	ἀρχῆς			n
+10@Epiphanius[2]	Epiphanius	epiphanius			n
+10@die	die	die			n
+10@Übersetzung[2]	Übersetzung	übersetzung			n
+10@hier	hier	hier			n
+10@ist	ist	ist			n
+10@übrigens	übrigens	übrigens			n
+10@nicht	nicht	nicht			n
+10@genau[2]	genau	genau			n
+10@28	28	28			n
+10@eos	eos	eos			n
+10@transfundi	transfundi	transfundi			n
+10@Α[4]	Α	α			n
+10@fasellum	fasellum	fasellum			n
+10@Α[5]	Α	α			n
+10@fasolum	fasolum	fasolum			n
+10@M[8]	M	m			n
+10@29	29	29			n
+10@aut	aut	aut			n
+10@in[7]	in	in			n
+10@spicas	spicas	spicas			n
+10@C[9]	C	c			n
+10@dementiatur	dementiatur	dementiatur			n
+10@C[10]	C	c			n
+10@πάλιν	πάλιν	πάλιν	πάλιν		n
+10@ἐσθίει	ἐσθίει	ἐσθίει	ἐσθίω		n
+10@ἄρτον	ἄρτον	ἄρτον	ἄρτος		n
+10@ἀνάγκη[2]	ἀνάγκη	ἀνάγκη	ἀνάγκη		n
+10@καὶ[3]	καὶ	καί	καί		n
+10@αὐτὸν	αὐτὸν	αὐτόν	αὐτός		n
+10@βρωθῆναι	βρωθῆναι	βρωθῆναι	βιβρώσκω		n
+10@ἄρτον[2]	ἄρτον	ἄρτον	ἄρτος		n
+10@γενόμενον	γενόμενον	γενόμενον	γίγνομαι		n
+10@εἴ[2]	εἴ	εἴ	εἰ		n
+10@τις[2]	τις	τὶς	τις		n
+10@φονεύσει	φονεύσει	φονεύσει	φονεύω		n
+10@ὀρνίθιον	ὀρνίθιον	ὀρνίθιον			n
+10@ὀρνίθιον[2]	ὀρνίθιον	ὀρνίθιον			n
+10@ἔσται	ἔσται	ἔσται	εἰμί		n
+10@εἴ[3]	εἴ	εἴ	εἰ		n
+10@τις[3]	τις	τὶς	τις		n
+10@φονεύσει[2]	φονεύσει	φονεύσει	φονεύω		n
+10@μῦν	μῦν	μῦν			n
+10@καὶ[4]	καὶ	καί	καί		n
+10@αὐτὸς	αὐτὸς	αὐτός	αὐτός		n
+10@μῦς	μῦς	μῦς	μῦς		n
+10@ἔσται[2]	ἔσται	ἔσται	εἰμί		n
+10@εἴ[4]	εἴ	εἴ	εἰ		n
+10@τις[4]	τις	τὶς	τις		n
+10@πάλιν[2]	πάλιν	πάλιν	πάλιν		n
+10@ἐστὶ	ἐστὶ	ἐστί	εἰμί		n
+10@πλούσιος	πλούσιος	πλούσιος	πλούσιος		n
+10@ἐν[2]	ἐν	ἐν	ἐν		n
+10@τούτῳ	τούτῳ	τούτῳ	οὗτος		n
+10@τῷ	τῷ	τῷ	ὁ		n
+10@κόσμῳ	κόσμῳ	κόσμῳ	κόσμος		n
+10@καὶ[5]	καὶ	καί	καί		n
+10@ἐὰν[3]	ἐὰν	ἐάν	ἐάν		n
+10@ἐξέλθῃ	ἐξέλθῃ	ἐξέλθῃ	ἐξέρχομαι		n
+10@ἐκ[2]	ἐκ	ἐκ	ἐκ		n
+10@τοῦ[4]	τοῦ	τοῦ	ὁ		n
+10@σκηνώματος	σκηνώματος	σκηνώματος	σκήνωμα		n
+10@αὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτός		n
+10@ἀνάγκη[3]	ἀνάγκη	ἀνάγκη	ἀνάγκη		n
+10@αὐτὸν[2]	αὐτὸν	αὐτόν	αὐτός		n
+10@εἰς[14]	εἰς	εἰς	εἰς		n
+10@πτωχοῦ	πτωχοῦ	πτωχοῦ			n
+10@σῶμα[2]	σῶμα	σῶμα	σῶμα		n
+10@μεταγγισθῆναι[2]	μεταγγισθῆναι	μεταγγισθῆναι			n
+10@ὥστε	ὥστε	ὥστε	ὥστε		n
+10@περιπατοῦντα	περιπατοῦντα	περιπατοῦντα	περιπατέω		n
+10@αὐτὸν[3]	αὐτὸν	αὐτόν	αὐτός		n
+10@ἐπαιτῆσαι	ἐπαιτῆσαι	ἐπαιτῆσαι			n
+10@καὶ[6]	καὶ	καί	καί		n
+10@μετὰ	μετὰ	μετά	μετά		n
+10@ταῦτα[2]	ταῦτα	ταῦτα	οὗτος		n
+10@ἀνελθεῖν	ἀνελθεῖν	ἀνελθεῖν	ἀνέρχομαι		n
+10@αὐτὸν[4]	αὐτὸν	αὐτόν	αὐτός		n
+10@εἰς[15]	εἰς	εἰς	εἰς		n
+10@κόλασιν	κόλασιν	κόλασιν	κόλασις		n
+10@αἰώνιον	αἰώνιον	αἰώνιον	αἰώνιος		n
+10@τοῦ[7]	τοῦ	τοῦ	ὁ		n
+10@δὲ[5]	δὲ	δέ	δέ		n
+10@σώματος	σώματος	σώματος	σῶμα		n
+10@τούτου	τούτου	τούτου	οὗτος		n
+10@ὄντος	ὄντος	ὄντος	εἰμί		n
+10@τῶν	τῶν	τῶν	ὁ		n
+10@ἀρχόντων	ἀρχόντων	ἀρχόντων	ἄρχων		n
+10@καὶ[7]	καὶ	καί	καί		n
+10@τῆς[4]	τῆς	τῆς	ὁ		n
+10@ὕλης	ὕλης	ὕλης	ὕλη		n
+10@ἀνάγκη[4]	ἀνάγκη	ἀνάγκη	ἀνάγκη		n
+10@τὸν[5]	τὸν	τόν	ὁ		n
+10@φυτεύοντα	φυτεύοντα	φυτεύοντα			n
+10@περσέαν	περσέαν	περσέαν			n
+10@διελθεῖν	διελθεῖν	διελθεῖν	διέρχομαι		n
+10@πολλὰ	πολλὰ	πολλά	πολύς		n
+10@σώματα[3]	σώματα	σώματα	σῶμα		n
+10@ἕως	ἕως	ἕως	ἕως		n
+10@ἂν	ἂν	ἄν	ἄν		n
+10@καταβληθῇ	καταβληθῇ	καταβληθῇ	καταβάλλω		n
+10@ἡ[2]	ἡ	ἡ	ὁ		n
+10@περσέα[2]	περσέα	περσέα			n
+10@ἐκείνη	ἐκείνη	ἐκείνη	ἐκεῖνος		n
+10@εἰ[16]	εἰ	εἰ	εἰ		n
+10@δέ	δέ	δέ	δέ		n
+10@τις[5]	τις	τὶς	τις		n
+10@οίκοδομεῖ	οίκοδομεῖ	οίκοδομει			n
+10@ἑαυτῷ	ἑαυτῷ	ἑαυτῷ	ἑαυτοῦ		n
+10@οἰκίαν	οἰκίαν	οἰκίαν	οἰκία		n
+10@διασπαραχθήσεται	διασπαραχθήσεται	διασπαραχθήσεται			n
+10@εἰς[16]	εἰς	εἰς	εἰς		n
+10@τὰ[3]	τὰ	τά	ὁ		n
+10@ὅλα	ὅλα	ὅλα	ὅλος		n
+10@σώματα[4]	σώματα	σώματα	σῶμα		n
+10@εἴ[5]	εἴ	εἴ	εἰ		n
+10@τις[6]	τις	τὶς	τις		n
+10@λούεται	λούεται	λούεται	λούω		n
+10@εἰς[17]	εἰς	εἰς	εἰς		n
+10@τὸ[8]	τὸ	τό	ὁ		n
+10@ὕδωρ	ὕδωρ	ὕδωρ	ὕδωρ		n
+10@τὴν	τὴν	τήν	ὁ		n
+10@ἑαυτοῦ	ἑαυτοῦ	ἑαυτοῦ	ἑαυτοῦ		n
+10@ψυχὴν	ψυχὴν	ψυχήν	ψυχή		n
+10@πήσσει	πήσσει	πήσσει			n
+10@καὶ[8]	καὶ	καί	καί		n
+10@εἴ[6]	εἴ	εἴ	εἰ		n
+10@τις[7]	τις	τὶς	τις		n
+10@οὐ[2]	οὐ	οὐ	οὐ		n
+10@δίδωσι	δίδωσι	δίδωσι	δίδωμι		n
+10@τοῖς[3]	τοῖς	τοῖς	ὁ		n
+10@ἐκλεκτοῖς	ἐκλεκτοῖς	ἐκλεκτοῖς	ἐκλεκτός		n
+10@αὐτοῦ[2]	αὐτοῦ	αὐτοῦ	αὐτός		n
+10@εἰσέβειαν	εἰσέβειαν	εἰσέβειαν			n
+10@κολασθήσεται	κολασθήσεται	κολασθήσεται			n
+10@εἰς[18]	εἰς	εἰς	εἰς		n
+10@τὰς	τὰς	τάς	ὁ		n
+10@γεέννας	γεέννας	γεέννας			n
+10@κοὶ[2]	κοὶ	κοί			n
+10@ματενσωματοῦται	ματενσωματοῦται	ματενσωματοῦται			n
+10@εἰς[19]	εἰς	εἰς	εἰς		n
+10@κατηχουμένων	κατηχουμένων	κατηχουμένων			n
+10@σώματα[5]	σώματα	σώματα	σῶμα		n
+10@ἕως[2]	ἕως	ἕως	ἕως		n
+10@οὑ	οὑ	οὑ	οὗ		n
+10@δῷ	δῷ	δῷ	δίδωμι		n
+10@εὐσεβείας	εὐσεβείας	εὐσεβείας	εὐσέβεια		n
+10@πολλάς	πολλάς	πολλάς	πολύς		n
+10@καὶ[9]	καὶ	καί	καί		n
+10@διὰ	διὰ	διά	διά		n
+10@τοῦτο[3]	τοῦτο	τοῦτο	οὗτος		n
+10@εἴ[7]	εἴ	εἴ	εἰ		n
+10@τι[10]	τι	τὶ	τι		n
+10@κάλλιστον	κάλλιστον	κάλλιστον			n
+10@ἐν[3]	ἐν	ἐν	ἐν		n
+10@βρώμασι	βρώμασι	βρώμασι	βρῶμα		n
+10@τοῖς[5]	τοῖς	τοῖς	ὁ		n
+10@ἐκλεκτοῖς[2]	ἐκλεκτοῖς	ἐκλεκτοῖς	ἐκλεκτός		n
+10@προσφέρουσι	προσφέρουσι	προσφέρουσι	προσφέρω		n
+10@κοὶ[3]	κοὶ	κοί			n
+10@ὅταν	ὅταν	ὅταν	ὅταν		n
+10@μέλλωσιν	μέλλωσιν	μέλλωσιν	μέλλω		n
+10@ἐσθίειν	ἐσθίειν	ἐσθίειν	ἐσθίω		n
+10@ἄρτον[3]	ἄρτον	ἄρτον	ἄρτος		n
+10@προσεύχονται	προσεύχονται	προσεύχονται	προσεύχομαι		n
+10@πρῶτον[2]	πρῶτον	πρῶτον	πρῶτος		n
+10@οὕτω	οὕτω	οὕτω	οὕτως		n
+10@λέγοντες	λέγοντες	λέγοντες	λέγω		n
+10@πρὸς	πρὸς	πρός	πρός		n
+10@τὸν[6]	τὸν	τόν	ὁ		n
+10@ἄρτον[4]	ἄρτον	ἄρτον	ἄρτος		n
+10@οὔτε	οὔτε	οὔτε	οὔτε		n
+10@σε[8]	σε	σε			n
+10@ἐγὼ	ἐγὼ	ἐγώ			n
+10@ἐθέρισα	ἐθέρισα	ἐθέρισα	θερίζω		n
+10@οὔτε[2]	οὔτε	οὔτε	οὔτε		n
+10@ACM[2]	ACM	acm			n
+10@und[5]	und	und			n
+10@Epiph[4]	Epiph	epiph			n
+10@10	10	10			n
+10@Routh	Routh	routh			n
+10@und[6]	und	und			n
+10@Oehler	Oehler	oehler			n
+10@interpungieren	interpungieren	interpungieren			n
+10@nach	nach	nach			n
+10@ὕδωρ[2]	ὕδωρ	ὕδωρ			n
+10@Zacagni	Zacagni	zacagni			n
+10@vermutet	vermutet	vermutet			n
+10@πλήσσει	πλήσσει	πλήσσει			n
+10@als	als	als			n
+10@die[2]	die	die			n
+10@Lesart	Lesart	lesart			n
+10@des[2]	des	des			n
+10@Übersetzers[2]	Übersetzers	übersetzers			n
+10@11	11	11			n
+10@γεέννας[2]	γεέννας	γεέννας			n
+10@Dindorf[2]	Dindorf	dindorf			n
+10@γενεάς	γενεάς	γενεάς			n
+10@J[2]	J	j			n
+10@vgl	vgl	vgl			n
+10@18[3]	18	18			n
+10@11[2]	11	11			n
+10@14[2]	14	14			n
+10@ἔσθιεν	ἔσθιεν	ἔσθιεν			n
+10@am[2]	am	am			n
+10@Rande	Rande	rande			n
+10@J[3]	J	j			n
+10@16[2]	16	16			n
+10@manducant	manducant	manducant			n
+10@C[12]	C	c			n
+10@est[2]	est	est			n
+10@M[10]	M	m			n
+10@nach[2]	nach	nach			n
+10@est[3]	est	est			n
+10@ut[4]	ut	ut			n
+10@C[13]	C	c			n
+10@16[3]	16	16			n
+10@17[2]	17	17			n
+10@ipsum	ipsum	ipsum			n
+10@effectum	effectum	effectum			n
+10@ipsi	ipsi	ipsi			n
+10@manducentur	manducentur	manducentur			n
+10@pane	pane	pane			n
+10@effecti	effecti	effecti			n
+10@C[14]	C	c			n
+10@vielleicht	vielleicht	vielleicht			n
+10@eine[2]	eine	eine			n
+10@Doppelversion[2]	Doppelversion	doppelversion			n
+10@des[3]	des	des			n
+10@Übersetzers[3]	Übersetzers	übersetzers			n
+10@17[3]	17	17			n
+10@qui	qui	qui			n
+10@nach[3]	nach	nach			n
+10@effectum[2]	effectum	effectum			n
+10@quod	quod	quod			n
+10@A[9]	A	a			n
+10@murem	murem	murem			n
+10@mnre	mnre	mnre			n
+10@Α[6]	Α	α			n
+10@18[4]	18	18			n
+10@nach[4]	nach	nach			n
+10@etiam	etiam	etiam			n
+10@et[11]	et	et			n
+10@A[10]	A	a			n
+10@si[7]	si	si			n
+10@A[11]	A	a			n
+10@21[2]	21	21			n
+10@eum	eum	eum			n
+10@enim	enim	enim			n
+10@C[15]	C	c			n
+10@perseam	perseam	perseam			n
+10@per[2]	per	per			n
+10@se[8]	se	se			n
+10@eam[2]	eam	eam			n
+10@Α[7]	Α	α			n
+10@persa	persa	persa			n
+10@C[16]	C	c			n
+10@22	22	22			n
+10@persea[2]	persea	persea			n
+10@illa	illa	illa			n
+10@per[5]	per	per			n
+10@se[10]	se	se			n
+10@a[58]	a	a			n
+10@illa[2]	illa	illa			n
+10@zu[5]	zu	zu			n
+10@per[6]	per	per			n
+10@se[11]	se	se			n
+10@ad[4]	ad	ad			n
+10@illam	illam	illam			n
+10@corr[3]	corr	corr			n
+10@C2	C2	c2			n
+10@quam	quam	quam			n
+10@plantaverat	plantaverat	plantaverat			n
+10@fehlt[2]	fehlt	fehlt			n
+10@bei	bei	bei			n
+10@Epiphanius[3]	Epiphanius	epiphanius			n
+10@23[2]	23	23			n
+10@dispergitur	dispergitur	dispergitur			n
+10@M[11]	M	m			n
+10@24[2]	24	24			n
+10@aquam	aquam	aquam			n
+10@M[12]	M	m			n
+10@vielleicht[2]	vielleicht	vielleicht			n
+10@hat	hat	hat			n
+10@der[3]	der	der			n
+10@Übersetzer[4]	Übersetzer	übersetzer			n
+10@buchstäblich	buchstäblich	buchstäblich			n
+10@übersetzt	übersetzt	übersetzt			n
+10@ohne	ohne	ohne			n
+10@die[3]	die	die			n
+10@Construction	Construction	construction			n
+10@zu[6]	zu	zu			n
+10@treffen	treffen	treffen			n
+10@non	non	non			n
+10@Μ	Μ	μ			n
+10@25	25	25			n
+10@elementa	elementa	elementa			n
+10@A[12]	A	a			n
+10@εὐσέβειαν	εὐσέβειαν	εὐσέβειαν			n
+10@Epiphanius[4]	Epiphanius	epiphanius			n
+10@poenis	poenis	poenis			n
+10@w[2]	w	w			n
+10@e[130]	e	e			n
+10@seh	seh	seh			n
+10@aus[2]	aus	aus			n
+10@paenis	paenis	paenis			n
+10@corr[4]	corr	corr			n
+10@A[13]	A	a			n
+10@subditar	subditar	subditar			n
+10@AM	AM	am			n
+10@26[2]	26	26			n
+10@catecumenorum	catecumenorum	catecumenorum			n
+10@Α[8]	Α	α			n
+10@cathecuminorum	cathecuminorum	cathecuminorum			n
+10@M[14]	M	m			n
+10@facias	facias	facias			n
+10@C[19]	C	c			n
+10@miseri-	miseri-	miseri-			n
+10@cordias	cordias	cordias			n
+10@εὐσέβειας	εὐσέβειας	εὐσέβειας			n
+10@Epiphanius[5]	Epiphanius	epiphanius			n
+10@27	27	27			n
+10@est[4]	est	est			n
+10@fehlt[3]	fehlt	fehlt			n
+10@bei[2]	bei	bei			n
+10@Epiphanius[6]	Epiphanius	epiphanius			n
+10@illis	illis	illis			n
+10@C[20]	C	c			n
+10@28[2]	28	28			n
+10@oratio	oratio	oratio			n
+10@manicheorum	manicheorum	manicheorum			n
+10@super	super	super			n
+10@cibos	cibos	cibos			n
+10@rot	rot	rot			n
+10@Μ[2]	Μ	μ			n
+10@ad[5]	ad	ad			n
+10@panem	panem	panem			n
+10@Μ[3]	Μ	μ			n
+10@ἤλεσα	ἤλεσα	ἤλεσα			n
+10@οὔτε[3]	οὔτε	οὔτε	οὔτε		n
+10@ἔθλιψά	ἔθλιψά	ἔθλιψα			n
+10@σε[10]	σε	σε			n
+10@οὔτε[4]	οὔτε	οὔτε	οὔτε		n
+10@εἰς[20]	εἰς	εἰς	εἰς		n
+10@κλίβανον	κλίβανον	κλίβανον			n
+10@ἔβαλον	ἔβαλον	ἔβαλον	βάλλω		n
+10@ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά		n
+10@ἄλλος	ἄλλος	ἄλλος	ἄλλος		n
+10@ἐποίησε	ἐποίησε	ἐποίησε	ποιέω		n
+10@ταῦτα[3]	ταῦτα	ταῦτα	οὗτος		n
+10@καὶ[10]	καὶ	καί	καί		n
+10@ἤνεγκέ	ἤνεγκέ	ἤνεγκε			n
+10@μοι	μοι	μοι			n
+10@ἐγὼ[2]	ἐγὼ	ἐγώ			n
+10@ἀναιτίως	ἀναιτίως	ἀναιτίως	ἀναίτιος		n
+10@ἔφαγον[2]	ἔφαγον	ἔφαγον	ἐσθίω		n
+10@καὶ[11]	καὶ	καί	καί		n
+10@ὅταν[2]	ὅταν	ὅταν	ὅταν		n
+10@καθ[2]	καθ	καθ	κατά		n
+10@ἑαυτὸν	ἑαυτὸν	ἑαυτόν	ἑαυτοῦ		n
+10@εἴπῃ	εἴπῃ	εἴπῃ	λέγω		n
+10@ταῦτα[4]	ταῦτα	ταῦτα	οὗτος		n
+10@λέγει	λέγει	λέγει	λέγω		n
+10@τῷ[3]	τῷ	τῷ	τῷ		n
+10@κατηχουμένῳ	κατηχουμένῳ	κατηχουμένῳ			n
+10@ηύξάμην	ηύξάμην	ηύξαμην			n
+10@ὑπὲρ	ὑπὲρ	ὑπέρ	ὑπέρ		n
+10@σοῦ	σοῦ	σοῦ	σός		n
+10@καὶ[12]	καὶ	καί	καί		n
+10@οὕτως	οὕτως	οὕτως	οὕτως		n
+10@ἀφίσταται	ἀφίσταται	ἀφίσταται	ἀφίστημι		n
+10@ἐκεῖνος	ἐκεῖνος	ἐκεῖνος	ἐκεῖνος		n
+10@ὡς	ὡς	ὡς	ὡς		n
+10@γὰς	γὰς	γάς			n
+10@εῖπον	εῖπον	εῖπον			n
+10@ὑμῖν[2]	ὑμῖν	ὑμῖν			n
+10@πρὸ[2]	πρὸ	πρό	πρό		n
+10@ὀλίγου	ὀλίγου	ὀλίγου	ὀλίγος		n
+10@εἴ[9]	εἴ	εἴ	εἰ		n
+10@τις[8]	τις	τὶς	τις		n
+10@θερίζει	θερίζει	θερίζει	θερίζω		n
+10@θερισθήσεται	θερισθήσεται	θερισθήσεται			n
+10@οὕτως[2]	οὕτως	οὕτως	οὕτως		n
+10@ἐὰν[4]	ἐὰν	ἐάν	ἐάν		n
+10@εἰς[21]	εἰς	εἰς	εἰς		n
+10@μηχανὴν	μηχανὴν	μηχανήν	μηχανή		n
+10@σῖτον	σῖτον	σῖτον	σῖτος		n
+10@βάλλῃ	βάλλῃ	βάλλῃ	βάλλω		n
+10@βληθήσεται	βληθήσεται	βληθήσεται			n
+10@καὶ[13]	καὶ	καί	καί		n
+10@αὐτός	αὐτός	αὐτός	αὐτός		n
+10@ἢ[7]	ἢ	ἤ	τίη		n
+10@φυράσας	φυράσας	φυράσας			n
+10@φυραθήσεται	φυραθήσεται	φυραθήσεται			n
+10@ἢ[8]	ἢ	ἤ	ἤ		n
+10@ὀπτήσας	ὀπτήσας	ὀπτήσας	ὀπτάω		n
+10@ἄρτον[5]	ἄρτον	ἄρτον	ἄρτος		n
+10@ὀπτηθήσεται	ὀπτηθήσεται	ὀπτηθήσεται			n
+10@καὶ[14]	καὶ	καί	καί		n
+10@διὰ[2]	διὰ	διά	διά		n
+10@τοῦτο[4]	τοῦτο	τοῦτο	οὗτος		n
+10@ἀπείρηται	ἀπείρηται	ἀπείρηται			n
+10@αὐτοῖς	αὐτοῖς	αὐτοῖς	αὐτός		n
+10@ἔργον	ἔργον	ἔργον	ἔργον		n
+10@ποιῆσαι	ποιῆσαι	ποιῆσαι	ποιέω		n
+10@καὶ[15]	καὶ	καί	καί		n
+10@χάλιν	χάλιν	χάλιν			n
+10@πάλιν[3]	πάλιν	πάλιν	πάλιν		n
+10@εἰσὶν	εἰσὶν	εἰσίν	εἰμί		n
+10@κόσμοι	κόσμοι	κόσμοι	κόσμος		n
+10@τινές	τινές	τινές			n
+10@τῶν[2]	τῶν	τῶν	ὁ		n
+10@φωστήρων	φωστήρων	φωστήρων			n
+10@δυνάντων	δυνάντων	δυνάντων			n
+10@ἀπὸ	ἀπὸ	ἀπό	ἀπό		n
+10@τούτου[2]	τούτου	τούτου	οὗτος		n
+10@τοῦ[13]	τοῦ	τοῦ	ὁ		n
+10@κόσμου	κόσμου	κόσμου	κόσμος		n
+10@ἐξ[2]	ἐξ	ἐκ	ἐκ		n
+10@ὡν	ὡν	ὡν			n
+10@ἀνατέλλουσι	ἀνατέλλουσι	ἀνατέλλουσι	ἀνατέλλω		n
+10@καὶ[16]	καὶ	καί	καί		n
+10@εἴ[10]	εἴ	εἴ	εἰ		n
+10@τις[9]	τις	τὶς	τις		n
+10@περιπατεῖ	περιπατεῖ	περιπατεῖ	περιπατέω		n
+10@χαμαί	χαμαί	χαμαί	χαμαί		n
+10@βλάπτει	βλάπτει	βλάπτει	βλάπτω		n
+10@τὴν[2]	τὴν	τήν	ὁ		n
+10@γῆν	γῆν	γῆν	γῆ		n
+10@καὶ[17]	καὶ	καί	καί		n
+10@ὁ	ὁ	ὁ	ὁ		n
+10@κινῶν	κινῶν	κινῶν	κινέω		n
+10@τὴν[3]	τὴν	τήν	ὁ		n
+10@χεῖρα	χεῖρα	χεῖρα	χείρ		n
+10@βλάπτει[2]	βλάπτει	βλάπτει	βλάπτω		n
+10@τὸν[8]	τὸν	τόν	ὁ		n
+10@ἀέρα	ἀέρα	ἀέρα			n
+10@ἐπειδὴ	ἐπειδὴ	ἐπειδή	ἐπεί		n
+10@ὁ[2]	ὁ	ὁ	ὁ		n
+10@ἀὴρ	ἀὴρ	ἀήρ	ἀήρ		n
+10@ψυχή[2]	ψυχή	ψυχή	ψυχή		n
+10@ἐστι[2]	ἐστι	ἐστί	εἰμί		n
+10@τῶν[3]	τῶν	τῶν	ὁ		n
+10@ἀνθρώπων	ἀνθρώπων	ἀνθρώπων	ἄνθρωπος		n
+10@κοὶ[4]	κοὶ	κοί			n
+10@τῶν[4]	τῶν	τῶν	ὁ		n
+10@ζώων	ζώων	ζώων			n
+10@καὶ[18]	καὶ	καί	καί		n
+10@τῶν[5]	τῶν	τῶν	ὁ		n
+10@πετεινῶν	πετεινῶν	πετεινῶν	πετεινός		n
+10@καὶ[19]	καὶ	καί	καί		n
+10@τῶν[6]	τῶν	τῶν	ὁ		n
+10@ἰχθύων	ἰχθύων	ἰχθύων	ἰχθύς		n
+10@καὶ[20]	καὶ	καί	καί		n
+10@τῶν[7]	τῶν	τῶν	ὁ		n
+10@ἑρπετῶν	ἑρπετῶν	ἑρπετῶν			n
+10@κοὶ[5]	κοὶ	κοί			n
+10@εἴ[11]	εἴ	εἴ	εἰ		n
+10@τις[10]	τις	τὶς	τις		n
+10@ἐν[4]	ἐν	ἐν	ἐν		n
+10@κόσμῳ[2]	κόσμῳ	κόσμῳ	κόσμος		n
+10@ἐστίν	ἐστίν	ἐστίν	εἰμί		n
+10@εἶπον	εἶπον	εἶπον	λέγω		n
+10@ὑμῖν[3]	ὑμῖν	ὑμῖν			n
+10@ὅτι	ὅτι	ὅτι	ὅτι2		n
+10@τὸ[12]	τὸ	τό	ὁ		n
+10@σῶμα[3]	σῶμα	σῶμα	σῶμα		n
+10@τοῦτο[5]	τοῦτο	τοῦτο	οὗτος		n
+10@οὐκ	οὐκ	οὐ	οὐ		n
+10@ἔστι	ἔστι	ἔστι	εἰμί		n
+10@τοῦ[15]	τοῦ	τοῦ	ὁ		n
+10@θεοῦ	θεοῦ	θεοῦ	θεός		n
+10@ἀλλὰ[2]	ἀλλὰ	ἀλλά	ἀλλά		n
+10@τῆς[5]	τῆς	τῆς	ὁ		n
+10@ὕλης[2]	ὕλης	ὕλης	ὕλη		n
+10@ἐστὶ[2]	ἐστὶ	ἐστί	εἰμί		n
+10@κοὶ[6]	κοὶ	κοί			n
+10@σκότος[2]	σκότος	σκότος	σκότος		n
+10@ἐστί[2]	ἐστί	ἐστί	εἰμί		n
+10@καὶ[21]	καὶ	καί	καί		n
+10@αὐτὸ[6]	αὐτὸ	αὐτό	αὐτός		n
+10@σκοτωθῆναι	σκοτωθῆναι	σκοτωθῆναι	σκοτόω		n
+10@δεῖ	δεῖ	δεῖ	δέω		n
+11@XXIX	XXIX	xxix			n
+11@περὶ	περὶ	περί	περί		n
+11@δὲ	δὲ	δέ	δέ		n
+11@τοῦ	τοῦ	τοῦ	ὁ		n
+11@παραδείσου	παραδείσου	παραδείσου	παράδεισος		n
+11@ὅς	ὅς	ὅς	ὅς		n
+11@καλεῖται	καλεῖται	καλεῖται	καλέω		n
+11@κόσμος	κόσμος	κόσμος	κόσμος		n
+11@ἔστι	ἔστι	ἔστι	εἰμί		n
+11@δὲ[2]	δὲ	δέ	δέ		n
+11@τὰ	τὰ	τά	ὁ		n
+11@φυτὰ	φυτὰ	φυτά	φυτόν		n
+11@τὰ[3]	τὰ	τά	ὁ		n
+11@ἐν	ἐν	ἐν	ἐν		n
+11@αὐτῷ	αὐτῷ	αὐτῷ	αὐτός		n
+11@ἐπιθυμίαι	ἐπιθυμίαι	ἐπιθυμίαι	ἐπιθυμία		n
+11@κοὶ	κοὶ	κοί			n
+11@ἄλλαι	ἄλλαι	ἄλλαι	ἄλλος		n
+11@ἀπάται	ἀπάται	ἀπάται	ἀπάτη		n
+11@διαφθείρουσαι	διαφθείρουσαι	διαφθείρουσαι			n
+11@τοὺς	τοὺς	τούς	ὁ		n
+11@λογισμοὺς	λογισμοὺς	λογισμούς	λογισμός		n
+11@τῶν	τῶν	τῶν	ὁ		n
+11@ἀνθρώπων	ἀνθρώπων	ἀνθρώπων	ἄνθρωπος		n
+11@ἐκείνων	ἐκείνων	ἐκείνων	ἐκεῖνος		n
+11@τὸ	τὸ	τό	ὁ		n
+11@δὲ[3]	δὲ	δέ	δέ		n
+11@ἐν[2]	ἐν	ἐν	ἐν		n
+11@κπαραδείσῳ	κπαραδείσῳ	κπαραδείσῳ			n
+11@φυτὸν	φυτὸν	φυτόν	φυτόν		n
+11@ἐξ	ἐξ	ἐκ	ἐκ		n
+11@οὗ	οὗ	οὗ	οὗ		n
+11@γνωρίζουσι	γνωρίζουσι	γνωρίζουσι			n
+11@τὸ[3]	τὸ	τό	ὁ		n
+11@καλόν	καλόν	καλόν	καλός		n
+11@αὐτός	αὐτός	αὐτός	αὐτός		n
+11@ἐστι	ἐστι	ἐστί	εἰμί		n
+11@ὁ	ὁ	ὁ	ὁ		n
+11@Ἰησοῦς	Ἰησοῦς	ἰησοῦς			n
+11@ἡ	ἡ	ἡ	ὁ		n
+11@γνῶνσις	γνῶνσις	γνῶνσις			n
+11@αὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτός		n
+11@ἡ[2]	ἡ	ἡ	ὁ		n
+11@ἐν[3]	ἐν	ἐν	ἐν		n
+11@τῷ[2]	τῷ	τῷ	ὁ		n
+11@κόσμῳ	κόσμῳ	κόσμῳ	κόσμος		n
+11@ὁ[2]	ὁ	ὁ	ὁ		n
+11@δὲ[4]	δὲ	δέ	δέ		n
+11@λαμβάνων	λαμβάνων	λαμβάνων	λαμβάνω		n
+11@διακρίνει	διακρίνει	διακρίνει	διακρίνω		n
+11@τὸ[4]	τὸ	τό	ὁ		n
+11@καλὸν	καλὸν	καλόν	καλός		n
+11@καὶ	καὶ	καί	καί		n
+11@τὸ[5]	τὸ	τό	ὁ		n
+11@κονηρόν	κονηρόν	κονηρόν			n
+11@ὁ[3]	ὁ	ὁ	ὁ		n
+11@μέντοι	μέντοι	μέντοι			n
+11@κόσμος[2]	κόσμος	κόσμος	κόσμος		n
+11@οὐδ	οὐδ	οὐδ			n
+11@οὐτός	οὐτός	οὐτός			n
+11@ἐστι[2]	ἐστι	ἐστί	εἰμί		n
+11@τοῦ[3]	τοῦ	τοῦ	ὁ		n
+11@θεοῦ	θεοῦ	θεοῦ	θεός		n
+11@ἀλλ	ἀλλ	ἀλλ			n
+11@ἢ	ἢ	ἤ	τίη		n
+11@ἀπὸ	ἀπὸ	ἀπό	ἀπό		n
+11@μερους	μερους	μερους			n
+11@τῆς	τῆς	τῆς	ὁ		n
+11@ὕλης	ὕλης	ὕλης	ὕλη		n
+11@ἐπλάσθη	ἐπλάσθη	ἐπλάσθη	πλάσσω		n
+11@καὶ[2]	καὶ	καί	καί		n
+11@διὰ	διὰ	διά	διά		n
+11@τοῦτο	τοῦτο	τοῦτο	οὗτος		n
+11@πάντα	πάντα	πάντα	πᾶς		n
+11@ἀφανίζεται	ἀφανίζεται	ἀφανίζεται	ἀφανίζω		n
+11@ὅ[2]	ὅ	ὅ	ὅς		n
+11@δὲ[5]	δὲ	δέ	δέ		n
+11@ἀσύλησαν	ἀσύλησαν	ἀσύλησαν			n
+11@οἱ	οἱ	οἱ	ὁ		n
+11@ἄρχοντες	ἄρχοντες	ἄρχοντες	ἄρχων		n
+11@ἀπὸ[2]	ἀπὸ	ἀπό	ἀπό		n
+11@τοῦ[5]	τοῦ	τοῦ	ὁ		n
+11@πρώτου	πρώτου	πρώτου	πρῶτος		n
+11@ἀνθρώκου	ἀνθρώκου	ἀνθρώκου			n
+11@αὐτό[2]	αὐτό	αὐτό	αὐτός		n
+11@ἐστι[3]	ἐστι	ἐστί	εἰμί		n
+11@τὸ[6]	τὸ	τό	ὁ		n
+11@γεμίζον	γεμίζον	γεμίζον			n
+11@τὴν	τὴν	τήν	ὁ		n
+11@σελήνην	σελήνην	σελήνην	σελήνη		n
+11@τὸ[7]	τὸ	τό	ὁ		n
+11@καθαριζόμενον	καθαριζόμενον	καθαριζόμενον			n
+11@καθημερινὸν	καθημερινὸν	καθημερινόν			n
+11@ἀπὸ[3]	ἀπὸ	ἀπό	ἀπό		n
+11@τοῦ[6]	τοῦ	τοῦ	ὁ		n
+11@κόσμου	κόσμου	κόσμου	κόσμος		n
+11@καὶ[3]	καὶ	καί	καί		n
+11@ἐὰν	ἐὰν	ἐάν	ἐάν		n
+11@ἐξέλθῃ	ἐξέλθῃ	ἐξέλθῃ	ἐξέρχομαι		n
+11@ἡ[3]	ἡ	ἡ	ὁ		n
+11@ψυχὴ	ψυχὴ	ψυχή	ψυχή		n
+11@μὴ	μὴ	μή	μή		n
+11@γνοῦσα	γνοῦσα	γνοῦσα			n
+11@τὴν[2]	τὴν	τήν	ὁ		n
+11@ἀλήειαν	ἀλήειαν	ἀλήειαν			n
+11@παραδίδοται	παραδίδοται	παραδίδοται			n
+11@τοῖς	τοῖς	τοῖς	ὁ		n
+11@δαίμοσιν	δαίμοσιν	δαίμοσιν	δαίμων		n
+11@ὅπως	ὅπως	ὅπως	ὅπως		n
+11@δαμάσωσιν	δαμάσωσιν	δαμάσωσιν			n
+11@αὐτὴν	αὐτὴν	αὐτήν	αὐτός		n
+11@ἐν[4]	ἐν	ἐν	ἐν		n
+11@ταῖς	ταῖς	ταῖς	ὁ		n
+11@γεένναις	γεένναις	γεένναις			n
+11@τοῦ[7]	τοῦ	τοῦ	ὁ		n
+11@πυρός	πυρός	πυρός	πῦρ		n
+11@καὶ[4]	καὶ	καί	καί		n
+11@μετὰ	μετὰ	μετά	μετά		n
+11@τὴν[4]	τὴν	τήν	ὁ		n
+11@παίδυσιν	παίδυσιν	παίδυσιν			n
+11@μεταγγίζεται	μεταγγίζεται	μεταγγίζεται			n
+11@εἰς	εἰς	εἰς	εἰς		n
+11@σώματα	σώματα	σώματα	σῶμα		n
+11@ἵνα	ἵνα	ἵνα	ἵνα		n
+11@δαμασθῇ	δαμασθῇ	δαμασθῇ	δαμάζω		n
+11@καὶ[5]	καὶ	καί	καί		n
+11@οὕτω	οὕτω	οὕτω	οὕτως		n
+11@βάλλεται	βάλλεται	βάλλεται	βάλλω		n
+11@εἰς[2]	εἰς	εἰς	εἰς		n
+11@τὸ[8]	τὸ	τό	ὁ		n
+11@μέγα	μέγα	μέγα	μέγας		n
+11@πῦρ	πῦρ	πῦρ	πῦρ		n
+11@ἄχρι	ἄχρι	ἄχρι	ἄχρι		n
+11@τῆς[2]	τῆς	τῆς	ὁ		n
+11@συντελείας	συντελείας	συντελείας	συντέλεια		n
+11@ΧΧΧ	ΧΧΧ	χχχ			n
+11@περὶ[2]	περὶ	περί	περί		n
+11@δὲ[6]	δὲ	δέ	δέ		n
+11@τῶν[2]	τῶν	τῶν	ὁ		n
+11@παρ[4]	παρ	παρ			n
+11@ὑμῖν	ὑμῖν	ὑμῖν			n
+11@προφητῶν	προφητῶν	προφητῶν	προφήτης		n
+11@οὕτως	οὕτως	οὕτως	οὕτως		n
+11@λέγει	λέγει	λέγει	λέγω		n
+11@πνεῦμα	πνεῦμα	πνεῦμα	πνεῦμα		n
+11@εἱναι	εἱναι	εἱναι			n
+11@ἀσεβείας	ἀσεβείας	ἀσεβείας	ἀσέβεια		n
+11@ἤτοι	ἤτοι	ἤτοι	ἤτοι		n
+11@ἀνομίας	ἀνομίας	ἀνομίας	ἀνομία		n
+11@τοῦ[8]	τοῦ	τοῦ	ὁ		n
+11@ACM	ACM	acm			n
+11@und	und	und			n
+11@Epiph	Epiph	epiph			n
+11@1	1	1			n
+11@δς	δς	δς			n
+11@Zacagni	Zacagni	zacagni			n
+11@οὐ[3]	οὐ	οὐ			n
+11@J	J	j			n
+11@Dindorf	Dindorf	dindorf			n
+11@nimmt	nimmt	nimmt			n
+11@mit	mit	mit			n
+11@Unrecht	Unrecht	unrecht			n
+11@eine	eine	eine			n
+11@Lücke	Lücke	lücke			n
+11@an	an	an			n
+11@vgl	vgl	vgl			n
+11@Epiphanius	Epiphanius	epiphanius			n
+11@Cap	Cap	cap			n
+11@54	54	54			n
+11@3	3	3			n
+11@ἐκείνων[2]	ἐκείνων	ἐκείνων			n
+11@ἐκεῖνο	ἐκεῖνο	ἐκεῖνο			n
+11@mit[2]	mit	mit			n
+11@φυτὸν[2]	φυτὸν	φυτόν			n
+11@zu	zu	zu			n
+11@verbinden	verbinden	verbinden			n
+11@Oehler	Oehler	oehler			n
+11@wοhl	wοhl	wοhl			n
+11@mit[3]	mit	mit			n
+11@Reeht	Reeht	reeht			n
+11@4[2]	4	4			n
+11@αὐτός[2]	αὐτός	αὐτός			n
+11@Oehler[2]	Oehler	oehler			n
+11@αὐτό[4]	αὐτό	αὐτό			n
+11@J[2]	J	j			n
+11@vgl[2]	vgl	vgl			n
+11@Epiphanius[2]	Epiphanius	epiphanius			n
+11@a[7]	a	a			n
+11@a[8]	a	a			n
+11@Ο	Ο	ο			n
+11@nach	nach	nach			n
+11@Ἰησοῦς[2]	Ἰησοῦς	ἰησοῦς			n
+11@καὶ[6]	καὶ	καί			n
+11@Zacagni[2]	Zacagni	zacagni			n
+11@Oehler[3]	Oehler	oehler			n
+11@und[2]	und	und			n
+11@Dindorf[2]	Dindorf	dindorf			n
+11@ober	ober	ober			n
+11@vgl[3]	vgl	vgl			n
+11@Epiphanius[3]	Epiphanius	epiphanius			n
+11@a[13]	a	a			n
+11@a[14]	a	a			n
+11@Ο[2]	Ο	ο			n
+11@13	13	13			n
+11@ὑμῖν[2]	ὑμῖν	ὑμῖν			n
+11@υ[16]	υ	υ			n
+11@aus	aus	aus			n
+11@η[10]	η	η			n
+11@hergestellt	hergestellt	hergestellt			n
+11@J[3]	J	j			n
+11@ἡμῖν	ἡμῖν	ἡμῖν			n
+11@Petavius	Petavius	petavius			n
+11@vgl[4]	vgl	vgl			n
+11@19	19	19			n
+11@9[2]	9	9			n
+11@14	14	14			n
+11@πνεῦμα[2]	πνεῦμα	πνεῦμα			n
+11@πνεύματα	πνεύματα	πνεύματα			n
+11@Oehler[4]	Oehler	oehler			n
+11@wohl	wohl	wohl			n
+11@mit[4]	mit	mit			n
+11@Recht	Recht	recht			n
+11@viellcicht	viellcicht	viellcicht			n
+11@liegt	liegt	liegt			n
+11@eine[2]	eine	eine			n
+11@Verwechselung	Verwechselung	verwechselung			n
+11@der	der	der			n
+11@Abkürzungen	Abkürzungen	abkürzungen			n
+11@vor	vor	vor			n
+11@15	15	15			n
+11@16	16	16			n
+11@ungenaue	ungenaue	ungenaue			n
+11@Übersetzung	Übersetzung	übersetzung			n
+11@paradisi	paradisi	paradisi			n
+11@Μ	Μ	μ			n
+11@nach[2]	nach	nach			n
+11@mnndus	mnndus	mnndus			n
+11@et[3]	et	et			n
+11@C[3]	C	c			n
+11@16[2]	16	16			n
+11@concupiscentia	concupiscentia	concupiscentia			n
+11@M[2]	M	m			n
+11@agitationes	agitationes	agitationes			n
+11@C[4]	C	c			n
+11@17	17	17			n
+11@18	18	18			n
+11@qua	qua	qua			n
+11@agnoscitur	agnoscitur	agnoscitur			n
+11@quo	quo	quo			n
+11@cognoscitur	cognoscitur	cognoscitur			n
+11@Α	Α	α			n
+11@18[2]	18	18			n
+11@est[2]	est	est			n
+11@Iesus	Iesus	iesus			n
+11@estis	estis	estis			n
+11@C[5]	C	c			n
+11@Der	Der	der			n
+11@Schreiber	Schreiber	schreiber			n
+11@hat	hat	hat			n
+11@dic	dic	dic			n
+11@Abkürxung	Abkürxung	abkürxung			n
+11@IS	IS	is			n
+11@Iesus[2]	Iesus	iesus			n
+11@verlesen	verlesen	verlesen			n
+11@eius	eius	eius			n
+11@illius	illius	illius			n
+11@C[6]	C	c			n
+11@19[2]	19	19			n
+11@bono	bono	bono			n
+11@A[4]	A	a			n
+11@20	20	20			n
+11@dei	dei	dei			n
+11@deus	deus	deus			n
+11@aus[2]	aus	aus			n
+11@dei[2]	dei	dei			n
+11@corr	corr	corr			n
+11@M2	M2	m2			n
+11@parte	parte	parte			n
+11@r[27]	r	r			n
+11@übergesch	übergesch	übergesch			n
+11@Α[2]	Α	α			n
+11@C[7]	C	c			n
+11@materia	materia	materia			n
+11@C[8]	C	c			n
+11@plasmatur	plasmatur	plasmatur			n
+11@Μ[2]	Μ	μ			n
+11@21	21	21			n
+11@hominem	hominem	hominem			n
+11@A[5]	A	a			n
+11@ipsut	ipsut	ipsut			n
+11@A[6]	A	a			n
+11@ipsum	ipsum	ipsum			n
+11@Μ[3]	Μ	μ			n
+11@22	22	22			n
+11@luna	luna	luna			n
+11@C[9]	C	c			n
+11@animam	animam	animam			n
+11@Α[3]	Α	α			n
+11@38	38	38			n
+11@tradetur	tradetur	tradetur			n
+11@Α[4]	Α	α			n
+11@gehenna	gehenna	gehenna			n
+11@das	das	das			n
+11@erste	erste	erste			n
+11@e[63]	e	e			n
+11@übergesch[2]	übergesch	übergesch			n
+11@Α[5]	Α	α			n
+11@gehennam	gehennam	gehennam			n
+11@CM[2]	CM	cm			n
+11@24	24	24			n
+11@postquam	postquam	postquam			n
+11@Α[6]	Α	α			n
+11@correpta	correpta	correpta			n
+11@correptam	correptam	correptam			n
+11@Α[7]	Α	α			n
+11@correcta	correcta	correcta			n
+11@Μ[4]	Μ	μ			n
+11@transfundetur	transfundetur	transfundetur			n
+11@M[5]	M	m			n
+11@alia	alia	alia			n
+11@fehlt	fehlt	fehlt			n
+11@bei	bei	bei			n
+11@Epiphanius[4]	Epiphanius	epiphanius			n
+11@26	26	26			n
+11@illud	illud	illud			n
+11@Μ[5]	Μ	μ			n
+11@27	27	27			n
+11@qui	qui	qui			n
+11@ΑΜ	ΑΜ	αμ			n
+11@σκότους	σκότους	σκότους	σκότος		n
+11@τοῦ[9]	τοῦ	τοῦ	ὁ		n
+11@ἀκ	ἀκ	ἀκ			n
+11@ἀρχῆς	ἀρχῆς	ἀρχῆς	ἀρχή		n
+11@ἀνελθόντος	ἀνελθόντος	ἀνελθόντος			n
+11@καὶ[7]	καὶ	καί	καί		n
+11@διὸ	διὸ	διό	διό		n
+11@τοῦτο[2]	τοῦτο	τοῦτο	οὗτος		n
+11@πλανηθέντες	πλανηθέντες	πλανηθέντες	πλανάω		n
+11@οὐκ	οὐκ	οὐ	οὐ		n
+11@ἐλάλησαν	ἐλάλησαν	ἐλάλησαν	λαλέω		n
+11@ἐτύφλωσεν	ἐτύφλωσεν	ἐτύφλωσεν	τυφλόω		n
+11@γὰρ	γὰρ	γάρ	γάρ		n
+11@αὐτῶν	αὐτῶν	αὐτῶν	αὐτός		n
+11@ὁ[4]	ὁ	ὁ	ὁ		n
+11@ἄρχων	ἄρχων	ἄρχων	ἄρχων		n
+11@τὴν[5]	τὴν	τήν	ὁ		n
+11@διάνοιαν	διάνοιαν	διάνοιαν	διάνοια		n
+11@καὶ[8]	καὶ	καί	καί		n
+11@εἴ	εἴ	εἴ	εἰ		n
+11@τις	τις	τὶς	τις		n
+11@ἀκολουθεῖ	ἀκολουθεῖ	ἀκολουθεῖ	ἀκολουθέω		n
+11@τοῖς[2]	τοῖς	τοῖς	ὁ		n
+11@λόγοις	λόγοις	λόγοις	λόγος		n
+11@αὐτῶν[2]	αὐτῶν	αὐτῶν	αὐτός		n
+11@ἀποθνήσει	ἀποθνήσει	ἀποθνήσει			n
+11@εἰς[3]	εἰς	εἰς	εἰς		n
+11@τοὺς[2]	τοὺς	τούς	ὁ		n
+11@αἰῶνας	αἰῶνας	αἰῶνας	αἰών		n
+11@δεδεμένος	δεδεμένος	δεδεμένος	δέω		n
+11@εἰς[4]	εἰς	εἰς	εἰς		n
+11@τὸν[3]	τὸν	τόν	ὁ		n
+11@βῶλον	βῶλον	βῶλον			n
+11@ὅτι	ὅτι	ὅτι	ὅτι2		n
+11@οὐκ[2]	οὐκ	οὐ	οὐ		n
+11@ἔμαθε	ἔμαθε	ἔμαθε	μανθάνω		n
+11@τὴν[6]	τὴν	τήν	ὁ		n
+11@γνῶσιν	γνῶσιν	γνῶσιν	γνῶσις		n
+11@τοῦ[11]	τοῦ	τοῦ	ὁ		n
+11@παρακλήτου	παρακλήτου	παρακλήτου			n
+11@ἐνετείλατο	ἐνετείλατο	ἐνετείλατο	ἐντέλλω		n
+11@δὲ[7]	δὲ	δέ	δέ		n
+11@τοῖς[3]	τοῖς	τοῖς	ὁ		n
+11@ἐκλεκτοῖς	ἐκλεκτοῖς	ἐκλεκτοῖς	ἐκλεκτός		n
+11@αὐτοῦ[2]	αὐτοῦ	αὐτοῦ	αὐτός		n
+11@μόνοις	μόνοις	μόνοις			n
+11@οὐ[6]	οὐ	οὐ	οὐ		n
+11@πλέον	πλέον	πλέον	πολύς		n
+11@ἑπτὰ	ἑπτὰ	ἑπτά			n
+11@οὖσι	οὖσι	οὖσι	εἰμί		n
+11@τὸν[4]	τὸν	τόν	ὁ		n
+11@ἀριθμόν	ἀριθμόν	ἀριθμόν	ἀριθμός		n
+11@ἐὰν[2]	ἐὰν	ἐάν	ἐάν		n
+11@παύσησθε	παύσησθε	παύσησθε	παύω		n
+11@ἐσθίοντες	ἐσθίοντες	ἐσθίοντες	ἐσθίω		n
+11@εὔχεσθε	εὔχεσθε	εὔχεσθε	εὔχομαι		n
+11@καὶ[9]	καὶ	καί	καί		n
+11@βέλλετε	βέλλετε	βέλλετε			n
+11@ἐπὶ	ἐπὶ	ἐπί	ἐπί		n
+11@τῆς[3]	τῆς	τῆς	ὁ		n
+11@κεφαλῆς	κεφαλῆς	κεφαλῆς	κεφαλή		n
+11@ἔλαιον	ἔλαιον	ἔλαιον	ἔλαιον		n
+11@ἐξωρκισμένον	ἐξωρκισμένον	ἐξωρκισμένον			n
+11@ἀνόμασι	ἀνόμασι	ἀνόμασι			n
+11@πολλοῖς	πολλοῖς	πολλοῖς	πολύς		n
+11@πρὸς	πρὸς	πρός	πρός		n
+11@στηριγμὸν	στηριγμὸν	στηριγμόν			n
+11@τῆς[4]	τῆς	τῆς	ὁ		n
+11@πίστεως	πίστεως	πίστεως	πίστις		n
+11@ταύτης	ταύτης	ταύτης	οὗτος		n
+11@τὰ[6]	τὰ	τά	ὁ		n
+11@δὲ[8]	δὲ	δέ	δέ		n
+11@ὀνόματά	ὀνόματά	ὀνόματα	ὄνομα		n
+11@μοι	μοι	μοι			n
+11@οὐχ	οὐχ	οὐ	οὐ		n
+11@ἐφανερώθη	ἐφανερώθη	ἐφανερώθη	φανερόω		n
+11@μόνοι[2]	μόνοι	μόνοι	μόνος		n
+11@γὰρ[2]	γὰρ	γάρ	γάρ		n
+11@οἱ[2]	οἱ	οἱ	ὁ		n
+11@ἑπτὰ[2]	ἑπτὰ	ἑπτά			n
+11@τούτοις	τούτοις	τούτοις	οὗτος		n
+11@χρῶνται	χρῶνται	χρῶνται	χράω2		n
+11@καὶ[10]	καὶ	καί	καί		n
+11@πάλιν	πάλιν	πάλιν	πάλιν		n
+11@τὸ[12]	τὸ	τό	ὁ		n
+11@παρ[6]	παρ	παρ			n
+11@ὑμῖν[3]	ὑμῖν	ὑμῖν			n
+11@τίμιον	τίμιον	τίμιον	τίμιος		n
+11@καὶ[11]	καὶ	καί	καί		n
+11@μίγα	μίγα	μίγα			n
+11@ὄνομα	ὄνομα	ὄνομα	ὄνομα		n
+11@Σαβαὼθ	Σαβαὼθ	σαβαώθ			n
+11@αὐτὸ	αὐτὸ	αὐτό	αὐτός		n
+11@εἴναι	εἴναι	εἴναι			n
+11@τὴν[7]	τὴν	τήν	ὁ		n
+11@φύσιν	φύσιν	φύσιν	φύσις		n
+11@τοῦ[13]	τοῦ	τοῦ	ὁ		n
+11@ἀνθρώπου	ἀνθρώπου	ἀνθρώπου	ἄνθρωπος		n
+11@καὶ[12]	καὶ	καί	καί		n
+11@πατέρα	πατέρα	πατέρα	πατήρ		n
+11@τῆς[5]	τῆς	τῆς	ὁ		n
+11@ἐκιθυμίας	ἐκιθυμίας	ἐκιθυμίας			n
+11@καὶ[13]	καὶ	καί	καί		n
+11@διὰ[2]	διὰ	διά	διά		n
+11@τοῦτο[3]	τοῦτο	τοῦτο	οὗτος		n
+11@ἁπλάριοι	ἁπλάριοι	ἁπλάριοι			n
+11@προσκυνοῦσι	προσκυνοῦσι	προσκυνοῦσι	προσκυνέω		n
+11@τὴν[8]	τὴν	τήν	ὁ		n
+11@ἐπιθυμίαν	ἐπιθυμίαν	ἐπιθυμίαν	ἐπιθυμία		n
+11@θεὸν	θεὸν	θεόν			n
+11@αὐτὴν[2]	αὐτὴν	αὐτήν	αὐτός		n
+11@ἡγούμενοι	ἡγούμενοι	ἡγούμενοι			n
+12@Περὶ	Περὶ	περί			n
+12@δὲ	δὲ	δέ	δέ		n
+12@τοῦ	τοῦ	τοῦ	ὁ		n
+12@Ἀδὰμ	Ἀδὰμ	ἀδάμ			n
+12@πῶς	πῶς	πῶς	πῶς		n
+12@ἐκτίσθη	ἐκτίσθη	ἐκτίσθη	ἐκτίνω		n
+12@λέγει	λέγει	λέγει	λέγω		n
+12@οὕτως	οὕτως	οὕτως	οὕτως		n
+12@ὅτι	ὅτι	ὅτι	ὅτι2		n
+12@ὀ	ὀ	ὀ			n
+12@εἰπών	εἰπών	εἰπών	λέγω		n
+12@δεῦτε	δεῦτε	δεῦτε	δεῦρο		n
+12@καὶ	καὶ	καί	καί		n
+12@ποιήσωμεν	ποιήσωμεν	ποιήσωμεν	ποιέω		n
+12@ἔνθρωπον	ἔνθρωπον	ἔνθρωπον			n
+12@κατ	κατ	κατ			n
+12@εἰκόνα	εἰκόνα	εἰκόνα	εἰκών		n
+12@ἡμετέραν	ἡμετέραν	ἡμετέραν	ἡμέτερος		n
+12@καὶ[2]	καὶ	καί			n
+12@καθ	καθ	καθ			n
+12@14	14	14			n
+12@27	27	27			n
+12@Gen	Gen	gen			n
+12@1[2]	1	1			n
+12@26	26	26			n
+12@ACM	ACM	acm			n
+12@und	und	und			n
+12@Epiph	Epiph	epiph			n
+12@1[3]	1	1			n
+12@τοῖτο	τοῖτο	τοῖτο			n
+12@der	der	der			n
+12@Übersetxer	Übersetxer	übersetxer			n
+12@hat	hat	hat			n
+12@τούτων	τούτων	τούτων			n
+12@gelesen	gelesen	gelesen			n
+12@2[3]	2	2			n
+12@nach	nach	nach			n
+12@ἐλάλησαν	ἐλάλησαν	ἐλάλησαν			n
+12@ἐν	ἐν	ἐν			n
+12@ἀληθείᾳ	ἀληθείᾳ	ἀληθείᾳ			n
+12@Zacagni	Zacagni	zacagni			n
+12@mit	mit	mit			n
+12@Recht	Recht	recht			n
+12@9	9	9			n
+12@ὑμῖν	ὑμῖν	ὑμῖν			n
+12@Cornarius	Cornarius	cornarius			n
+12@und[2]	und	und			n
+12@Zacagni[2]	Zacagni	zacagni			n
+12@vgl	vgl	vgl			n
+12@18	18	18			n
+12@13	13	13			n
+12@ἡμῖν	ἡμῖν	ἡμῖν			n
+12@J	J	j			n
+12@14[2]	14	14			n
+12@καὶ[3]	καὶ	καί	καί		n
+12@nach[2]	nach	nach			n
+12@δεῦτε[2]	δεῦτε	δεῦτε			n
+12@fehlt	fehlt	fehlt			n
+12@in	in	in			n
+12@den	den	den			n
+12@Acta	Acta	acta			n
+12@und[3]	und	und			n
+12@bei	bei	bei			n
+12@Epiphanius	Epiphanius	epiphanius			n
+12@Cap	Cap	cap			n
+12@56	56	56			n
+12@15	15	15			n
+12@a[12]	a	a			n
+12@x003C	x003C	x003c			n
+12@Α	Α	α			n
+12@deceptio	deceptio	deceptio			n
+12@Α[2]	Α	α			n
+12@in[2]	in	in			n
+12@i[12]	i	i			n
+12@übergeseh	übergeseh	übergeseh			n
+12@Α[3]	Α	α			n
+12@16	16	16			n
+12@mentes	mentes	mentes			n
+12@C[5]	C	c			n
+12@illorum	illorum	illorum			n
+12@Α[4]	Α	α			n
+12@et[2]	et	et			n
+12@si	si	si			n
+12@ipsorum	ipsorum	ipsorum			n
+12@x003C[2]	x003C	x003c			n
+12@M[2]	M	m			n
+12@17	17	17			n
+12@morientur	morientur	morientur			n
+12@Μ	Μ	μ			n
+12@seculo	seculo	seculo			n
+12@M[3]	M	m			n
+12@deuictus	deuictus	deuictus			n
+12@Α[5]	Α	α			n
+12@non	non	non			n
+12@x003C[3]	x003C	x003c			n
+12@Μ[2]	Μ	μ			n
+12@18[2]	18	18			n
+12@paraclyti	paraclyti	paraclyti			n
+12@Α[6]	Α	α			n
+12@wie	wie	wie			n
+12@immer	immer	immer			n
+12@paracliti	paracliti	paracliti			n
+12@M[4]	M	m			n
+12@wie[2]	wie	wie			n
+12@immer[2]	immer	immer			n
+12@non[2]	non	non			n
+12@x003C[4]	x003C	x003c			n
+12@A[3]	A	a			n
+12@19	19	19			n
+12@desinerint	desinerint	desinerint			n
+12@Α[7]	Α	α			n
+12@orarent	orarent	orarent			n
+12@et[3]	et	et			n
+12@orantes	orantes	orantes			n
+12@M[5]	M	m			n
+12@20	20	20			n
+12@oleum	oleum	oleum			n
+12@super	super	super			n
+12@caput	caput	caput			n
+12@CM[2]	CM	cm			n
+12@extorcidiatum	extorcidiatum	extorcidiatum			n
+12@Α[8]	Α	α			n
+12@exorcizatorum	exorcizatorum	exorcizatorum			n
+12@suorum	suorum	suorum			n
+12@M[7]	M	m			n
+12@21	21	21			n
+12@horum	horum	horum			n
+12@C[10]	C	c			n
+12@mihi	mihi	mihi			n
+12@hi[2]	hi	hi			n
+12@übergesch	übergesch	übergesch			n
+12@Α[9]	Α	α			n
+12@22	22	22			n
+12@enim	enim	enim			n
+12@autem	autem	autem			n
+12@C[11]	C	c			n
+12@nominibus	nominibus	nominibus			n
+12@fehlt[2]	fehlt	fehlt			n
+12@bei[2]	bei	bei			n
+12@Epiphanius[2]	Epiphanius	epiphanius			n
+12@hoc	hoc	hoc			n
+12@x003C[5]	x003C	x003c			n
+12@Α[10]	Α	α			n
+12@23	23	23			n
+12@magnum	magnum	magnum			n
+12@nomen	nomen	nomen			n
+12@magnum[2]	magnum	magnum			n
+12@esset	esset	esset			n
+12@honorabilem	honorabilem	honorabilem			n
+12@nomen[2]	nomen	nomen			n
+12@Α[11]	Α	α			n
+12@ille	ille	ille			n
+12@dicit	dicit	dicit			n
+12@fehlt[3]	fehlt	fehlt			n
+12@bei[3]	bei	bei			n
+12@Epiphanius[3]	Epiphanius	epiphanius			n
+12@natura	natura	natura			n
+12@Α[12]	Α	α			n
+12@esse[2]	esse	esse			n
+12@aus	aus	aus			n
+12@esset[2]	esset	esset			n
+12@gleich	gleich	gleich			n
+12@corr	corr	corr			n
+12@Α[13]	Α	α			n
+12@24	24	24			n
+12@partam	partam	partam			n
+12@M[8]	M	m			n
+12@inquid	inquid	inquid			n
+12@Α[14]	Α	α			n
+12@wie[3]	wie	wie			n
+12@immer[3]	immer	immer			n
+12@fehlt[4]	fehlt	fehlt			n
+12@bei[4]	bei	bei			n
+12@Epiphanius[4]	Epiphanius	epiphanius			n
+12@25	25	25			n
+12@concupiscentia	concupiscentia	concupiscentia			n
+12@Α[15]	Α	α			n
+12@26[2]	26	26			n
+12@quia	quia	quia			n
+12@qui[3]	qui	qui			n
+12@dicit[2]	dicit	dicit			n
+12@x003C[6]	x003C	x003c			n
+12@Α[16]	Α	α			n
+12@27[2]	27	27			n
+12@et[6]	et	et			n
+12@nach[3]	nach	nach			n
+12@nostram	nostram	nostram			n
+12@x003C[7]	x003C	x003c			n
+12@CM[3]	CM	cm			n
+12@ὁμοίωσιν	ὁμοίωσιν	ὁμοίωσιν	ὁμοίωσις		n
+12@ἤ	ἤ	ἤ	ἤ		n
+12@καθ[2]	καθ	καθ			n
+12@ἢν	ἢν	ἤν	ἐάν		n
+12@εἴδομεν	εἴδομεν	εἴδομεν	ὁράω		n
+12@μορφήν	μορφήν	μορφήν	μορφή		n
+12@ἄρχων	ἄρχων	ἄρχων	ἄρχων		n
+12@ἐστίν	ἐστίν	ἐστίν	εἰμί		n
+12@ὁ[2]	ὁ	ὁ	ὁ		n
+12@εἰπὼν	εἰπὼν	εἰπών	λέγω		n
+12@τοῖς	τοῖς	τοῖς	ὁ		n
+12@ἑτέροις	ἑτέροις	ἑτέροις	ἕτερος		n
+12@ἄρχουσιν	ἄρχουσιν	ἄρχουσιν	ἄρχω		n
+12@ὅτι[2]	ὅτι	ὅτι	ὅτι2		n
+12@δεῦτε[3]	δεῦτε	δεῦτε	δεῦρο		n
+12@δότε	δότε	δότε			n
+12@μοι	μοι	μοι			n
+12@ἐκ[2]	ἐκ	ἐκ	ἐκ		n
+12@τοῦ[2]	τοῦ	τοῦ	ὁ		n
+12@φωτὸς	φωτὸς	φωτός	φώς		n
+12@οὗ	οὗ	οὗ	οὗ		n
+12@ἐλάβομεν	ἐλάβομεν	ἐλάβομεν			n
+12@καὶ[4]	καὶ	καί	καί		n
+12@ποιήσωμεν[2]	ποιήσωμεν	ποιήσωμεν			n
+12@ἄνθρωπον	ἄνθρωπον	ἄνθρωπον	ἄνθρωπος		n
+12@κατὰ	κατὰ	κατά	κατά		n
+12@τὴν	τὴν	τήν	ὁ		n
+12@ἡμῶν	ἡμῶν	ἡμῶν			n
+12@τῶν	τῶν	τῶν	ὁ		n
+12@ἀρχόντων	ἀρχόντων	ἀρχόντων	ἄρχων		n
+12@μορφήν[2]	μορφήν	μορφήν	μορφή		n
+12@καθ[3]	καθ	καθ			n
+12@ἥν	ἥν	ἥν	ὅς		n
+12@εἴδομεν[2]	εἴδομεν	εἴδομεν	ὁράω		n
+12@ὅ[3]	ὅ	ὅ	ὅς		n
+12@ἐστι	ἐστι	ἐστί	εἰμί		n
+12@πρῶτος	πρῶτος	πρῶτος	πρῶτος		n
+12@ἄνθρωπος	ἄνθρωπος	ἄνθρωπος	ἄνθρωπος		n
+12@καὶ[5]	καὶ	καί	καί		n
+12@οὕτως[2]	οὕτως	οὕτως	οὕτως		n
+12@ἔκτισε	ἔκτισε	ἔκτισε	ἐκτίνω		n
+12@τὸν	τὸν	τόν	ὁ		n
+12@ἄνθρω-	ἄνθρω-	ἄνθρω-			n
+12@πον[3]	πον	πον			n
+12@τὴν[2]	τὴν	τήν	ὁ		n
+12@δὲ[2]	δὲ	δέ	δέ		n
+12@Εὕαν	Εὕαν	εὕαν			n
+12@ὁμοίως	ὁμοίως	ὁμοίως	ὅμοιος		n
+12@ἵκτισαν	ἵκτισαν	ἵκτισαν			n
+12@δόντες	δόντες	δόντες	δίδωμι		n
+12@αὐτῇ	αὐτῇ	αὐτῇ	αὐτός		n
+12@ἐκ[3]	ἐκ	ἐκ	ἐκ		n
+12@τῆς	τῆς	τῆς	ὁ		n
+12@ἐπιθυμίας	ἐπιθυμίας	ἐπιθυμίας	ἐπιθυμία		n
+12@αὐτῶν	αὐτῶν	αὐτῶν	αὐτός		n
+12@πρὸς	πρὸς	πρός	πρός		n
+12@τὸ[3]	τὸ	τό	ὁ		n
+12@ἐξαπατῆαι	ἐξαπατῆαι	ἐξαπατῆαι			n
+12@τὸν[2]	τὸν	τόν	ὁ		n
+12@Ἀδάμ	Ἀδάμ	ἀδάμ			n
+12@καὶ[6]	καὶ	καί	καί		n
+12@διὰ	διὰ	διά	διά		n
+12@τούτων[2]	τούτων	τούτων	οὗτος		n
+12@γέγονεν	γέγονεν	γέγονεν	γίγνομαι		n
+12@ἡ[4]	ἡ	ἡ	ὁ		n
+12@πλάσις	πλάσις	πλάσις			n
+12@τοῦ[3]	τοῦ	τοῦ	ὁ		n
+12@κόσμου	κόσμου	κόσμου	κόσμος		n
+12@ἐκ[4]	ἐκ	ἐκ	ἐκ		n
+12@τῆς[2]	τῆς	τῆς	ὁ		n
+12@τοῦ[4]	τοῦ	τοῦ	ὁ		n
+12@ἄρχοντος	ἄρχοντος	ἄρχοντος	ἄρχων		n
+12@δημιουργίας	δημιουργίας	δημιουργίας	δημιουργία		n
+12@XXXI	XXXI	xxxi			n
+12@τὸν[3]	τὸν	τόν	ὁ		n
+12@δὲ[3]	δὲ	δέ	δέ		n
+12@θεὸν	θεὸν	θεόν			n
+12@μὴ	μὴ	μή	μή		n
+12@ἔχειν	ἔχειν	ἔχειν	ἔχω		n
+12@μέρος	μέρος	μέρος	μέρος		n
+12@μετ[2]	μετ	μετ			n
+12@αὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτός		n
+12@τοῦ[6]	τοῦ	τοῦ	ὁ		n
+12@κόσμου[2]	κόσμου	κόσμου	κόσμος		n
+12@μηδὲ	μηδὲ	μηδέ	μηδέ		n
+12@χαίρειν	χαίρειν	χαίρειν	χαίρω		n
+12@ἐκ[5]	ἐκ	ἐκ			n
+12@αὐτῷ	αὐτῷ	αὐτῷ	αὐτός		n
+12@διὰ[2]	διὰ	διά	διά		n
+12@τὸ[6]	τὸ	τό	ὁ		n
+12@ἐξ[2]	ἐξ	ἐκ	ἐκ		n
+12@ἀρχῆς	ἀρχῆς	ἀρχῆς	ἀρχή		n
+12@σεσυλῆσθαι	σεσυλῆσθαι	σεσυλῆσθαι			n
+12@αὐτὸν	αὐτὸν	αὐτόν	αὐτός		n
+12@ὑπὸ	ὑπὸ	ὑπό	ὑπό		n
+12@τῶν[3]	τῶν	τῶν	ὁ		n
+12@ἀρχόντων[2]	ἀρχόντων	ἀρχόντων	ἄρχων		n
+12@καὶ[7]	καὶ	καί	καί		n
+12@γενέσθαι	γενέσθαι	γενέσθαι	γίγνομαι		n
+12@αὐτῷ[2]	αὐτῷ	αὐτῷ	αὐτός		n
+12@θλίψιν	θλίψιν	θλίψιν	θλῖψις		n
+12@τούτου	τούτου	τούτου	οὗτος		n
+12@χάριν	χάριν	χάριν	χάρις		n
+12@πέμπει	πέμπει	πέμπει	πέμπω		n
+12@καὶ[8]	καὶ	καί	καί		n
+12@συλᾷ	συλᾷ	συλᾷ	συλάω		n
+12@ἀπ	ἀπ	ἀπ			n
+12@αἰτῶν	αἰτῶν	αἰτῶν			n
+12@τὴν[3]	τὴν	τήν	ὁ		n
+12@ψυχὴν	ψυχὴν	ψυχήν	ψυχή		n
+12@αὐτοῦ[2]	αὐτοῦ	αὐτοῦ	αὐτός		n
+12@καθ[4]	καθ	καθ			n
+12@ἡμέραν	ἡμέραν	ἡμέραν	ἡμέρα		n
+12@διὰ[3]	διὰ	διά	διά		n
+12@τῶν[5]	τῶν	τῶν	ὁ		n
+12@φωστήρων	φωστήρων	φωστήρων			n
+12@τούτων[3]	τούτων	τούτων	οὗτος		n
+12@ἡλίου	ἡλίου	ἡλίου	ἥλιος		n
+12@καὶ[9]	καὶ	καί	καί		n
+12@σελήωης	σελήωης	σελήωης			n
+12@ὑφ	ὑφ	ὑφ			n
+12@ὧν	ὧν	ὧν	ὅς		n
+12@ὅλος	ὅλος	ὅλος	ὅλος		n
+12@ὁ[4]	ὁ	ὁ	ὁ		n
+12@κόσμος	κόσμος	κόσμος	κόσμος		n
+12@καὶ[10]	καὶ	καί	καί		n
+12@πᾶσα	πᾶσα	πᾶσα	πᾶς		n
+12@ἡ[7]	ἡ	ἡ	ὁ		n
+12@κτίσις	κτίσις	κτίσις	κτίσις		n
+12@ἁρκάζεται	ἁρκάζεται	ἁρκάζεται			n
+12@τὸν[5]	τὸν	τόν	ὁ		n
+12@δὲ[5]	δὲ	δέ	δέ		n
+12@λαλήσαντα	λαλήσαντα	λαλήσαντα			n
+12@μετὰ	μετὰ	μετά	μετά		n
+12@Μωϋσέως	Μωϋσέως	μωϋσέως			n
+12@καὶ[11]	καὶ	καί	καί		n
+12@τῶν[6]	τῶν	τῶν	ὁ		n
+12@Ἰουδαίων	Ἰουδαίων	ἰουδαίων			n
+12@καὶ[12]	καὶ	καί	καί		n
+12@τῶν[7]	τῶν	τῶν	ὁ		n
+12@ἱερέων	ἱερέων	ἱερέων			n
+12@τὸν[6]	τὸν	τόν	ὁ		n
+12@ἄρχοντα	ἄρχοντα	ἄρχοντα	ἄρχω		n
+12@λέγει[2]	λέγει	λέγει	λέγω		n
+12@εἷναι	εἷναι	εἷναι	ἵημι		n
+12@τοῦ[8]	τοῦ	τοῦ	ὁ		n
+12@σκότους	σκότους	σκότους	σκότος		n
+12@ὥστε	ὥστε	ὥστε	ὥστε		n
+12@ἕν	ἕν	ἕν			n
+12@εἰσι	εἰσι	εἰσί	εἰμί		n
+12@καὶ[13]	καὶ	καί	καί		n
+12@τὸ[10]	τὸ	τό	ὁ		n
+12@αὐτὸ[2]	αὐτὸ	αὐτό	αὐτός		n
+12@οἵ	οἵ	οἵ	ὁ		n
+12@τε[7]	τε	τέ	τε		n
+12@Χριστιανοὶ	Χριστιανοὶ	χριστιανοί			n
+12@καὶ[14]	καὶ	καί	καί		n
+12@οἱ	οἱ	οἱ	ὁ		n
+12@Ἰουδαῖοι	Ἰουδαῖοι	ἰουδαῖοι			n
+12@καὶ[15]	καὶ	καί	καί		n
+12@οἱ[2]	οἱ	οἱ	ὁ		n
+12@ἰθνικοἱ	ἰθνικοἱ	ἰθνικοἱ			n
+12@τὸν[7]	τὸν	τόν	ὁ		n
+12@αὐτὸν[2]	αὐτὸν	αὐτόν	αὐτός		n
+12@θεὸν[2]	θεὸν	θεόν			n
+12@σέβοντες	σέβοντες	σέβοντες	σέβομαι		n
+12@ἐν[2]	ἐν	ἐν	ἐν		n
+12@γὰρ	γὰρ	γάρ	γάρ		n
+12@ταῖς	ταῖς	ταῖς	ὁ		n
+12@ἐπιθυμἱαις	ἐπιθυμἱαις	ἐπιθυμἱαις			n
+12@αὐτοῦ[3]	αὐτοῦ	αὐτοῦ	αὐτός		n
+12@ἐξαπατᾷ	ἐξαπατᾷ	ἐξαπατᾷ	ἐξαπατάω		n
+12@αὐτούς	αὐτούς	αὐτούς	αὐτός		n
+12@οὐκ	οὐκ	οὐ	οὐ		n
+12@ὢν	ὢν	ὤν	εἰμί		n
+12@ἀληθείας	ἀληθείας	ἀληθείας	ἀλήθεια		n
+12@θεός	θεός	θεός	θεός		n
+12@διὰ[4]	διὰ	διά	διά		n
+12@τοῦτο	τοῦτο	τοῦτο	οὗτος		n
+12@οὖν	οὖν	οὖν	οὖν		n
+12@ὅσοι	ὅσοι	ὅσοι	ὅσος		n
+12@ἐπ[3]	ἐπ	ἐπ			n
+12@ἐκεῖνον	ἐκεῖνον	ἐκεῖνον	ἐκεῖνος		n
+12@ἐλπίζουσι	ἐλπίζουσι	ἐλπίζουσι	ἐλπίζω		n
+12@τὸν[9]	τὸν	τόν	ὁ		n
+12@θεὸν[3]	θεὸν	θεόν			n
+12@τὸν[10]	τὸν	τόν	ὁ		n
+12@μετὰ[2]	μετὰ	μετά	μετά		n
+12@ACM[2]	ACM	acm			n
+12@und[4]	und	und			n
+12@Epiph[6]	Epiph	epiph			n
+12@1[13]	1	1			n
+12@ἤ[2]	ἤ	ἤ			n
+12@et[7]	et	et			n
+12@dic[3]	dic	dic			n
+12@Acta[2]	Acta	acta			n
+12@3[10]	3	3			n
+12@nach[4]	nach	nach			n
+12@μορφὴν	μορφὴν	μορφήν			n
+12@καὶ[16]	καὶ	καί			n
+12@Routh	Routh	routh			n
+12@4[4]	4	4			n
+12@ἔκτισε[2]	ἔκτισε	ἔκτισε			n
+12@ω[25]	ω	ω			n
+12@e[63]	e	e			n
+12@sch[2]	sch	sch			n
+12@zu	zu	zu			n
+12@ἔκτισαν	ἔκτισαν	ἔκτισαν			n
+12@zu[2]	zu	zu			n
+12@corr[2]	corr	corr			n
+12@so[2]	so	so			n
+12@Cornarius[2]	Cornarius	cornarius			n
+12@18[3]	18	18			n
+12@uidemus	uidemus	uidemus			n
+12@Α[17]	Α	α			n
+12@qui[4]	qui	qui			n
+12@quia[2]	quia	quia			n
+12@A[6]	A	a			n
+12@18[4]	18	18			n
+12@20[2]	20	20			n
+12@nicht	nicht	nicht			n
+12@wortlich	wortlich	wortlich			n
+12@übersetzt	übersetzt	übersetzt			n
+12@20[3]	20	20			n
+12@accipimus	accipimus	accipimus			n
+12@Α[18]	Α	α			n
+12@21[2]	21	21			n
+12@uidemus[2]	uidemus	uidemus			n
+12@Α[19]	Α	α			n
+12@22[2]	22	22			n
+12@creaverunt	creaverunt	creaverunt			n
+12@fecerunt	fecerunt	fecerunt			n
+12@Μ[4]	Μ	μ			n
+12@nach[5]	nach	nach			n
+12@creaverunt[2]	creaverunt	creaverunt			n
+12@qui[6]	qui	qui			n
+12@Α[20]	Α	α			n
+12@euuam	euuam	euuam			n
+12@Α[21]	Α	α			n
+12@23[2]	23	23			n
+12@per[2]	per	per			n
+12@haec	haec	haec			n
+12@διὰ[5]	διὰ	διά			n
+12@τούτων[4]	τούτων	τούτων			n
+12@Epiphanius[5]	Epiphanius	epiphanius			n
+12@per[3]	per	per			n
+12@hos	hos	hos			n
+12@Cornarius[3]	Cornarius	cornarius			n
+12@esse[4]	esse	esse			n
+12@Α[22]	Α	α			n
+12@24[2]	24	24			n
+12@mundum	mundum	mundum			n
+12@C[19]	C	c			n
+12@conditionis	conditionis	conditionis			n
+12@M[11]	M	m			n
+12@nach[6]	nach	nach			n
+12@vero	vero	vero			n
+12@dicit[3]	dicit	dicit			n
+12@M[12]	M	m			n
+12@patrem	patrem	patrem			n
+12@Α[23]	Α	α			n
+12@25[2]	25	25			n
+12@eo	eo	eo			n
+12@C[20]	C	c			n
+12@in[7]	in	in			n
+12@itio[2]	itio	itio			n
+12@Ras	Ras	ras			n
+12@von	von	von			n
+12@einem	einem	einem			n
+12@Buchst	Buchst	buchst			n
+12@Α[24]	Α	α			n
+12@26[3]	26	26			n
+12@aborta	aborta	aborta			n
+12@A[7]	A	a			n
+12@haec[2]	haec	haec			n
+12@Α[25]	Α	α			n
+12@27[3]	27	27			n
+12@mittet	mittet	mittet			n
+12@C[21]	C	c			n
+12@27[4]	27	27			n
+12@28	28	28			n
+12@id[5]	id	id			n
+12@est	est	est			n
+12@fehlt[5]	fehlt	fehlt			n
+12@bei[5]	bei	bei			n
+12@Epiphanius[6]	Epiphanius	epiphanius			n
+12@28[2]	28	28			n
+12@nach[7]	nach	nach			n
+12@est[2]	est	est			n
+12@per[4]	per	per			n
+12@C[22]	C	c			n
+12@omnes	omnes	omnes			n
+12@Α[26]	Α	α			n
+12@rapatur	rapatur	rapatur			n
+12@Α[27]	Α	α			n
+12@aptatur	aptatur	aptatur			n
+12@Μ[5]	Μ	μ			n
+12@29	29	29			n
+12@moysen	moysen	moysen			n
+12@Α[28]	Α	α			n
+12@31	31	31			n
+12@gentes	gentes	gentes			n
+12@C[23]	C	c			n
+12@Μωῦσέως	Μωῦσέως	μωῦσεως			n
+12@λαλήσαντα[2]	λαλήσαντα	λαλήσαντα			n
+12@καὶ[17]	καὶ	καί	καί		n
+12@τῶν[8]	τῶν	τῶν	ὁ		n
+12@προφητῶν	προφητῶν	προφητῶν			n
+12@μετ[5]	μετ	μετ			n
+12@αὐτοῦ[4]	αὐτοῦ	αὐτοῦ	αὐτός		n
+12@ἔχουσι	ἔχουσι	ἔχουσι	ἔχω		n
+12@δεθῆναι	δεθῆναι	δεθῆναι	δέω		n
+12@ὅτι[3]	ὅτι	ὅτι	ὅτι2		n
+12@οὐ[2]	οὐ	οὐ	οὐ		n
+12@ἤλπισαν	ἤλπισαν	ἤλπισαν	ἐλπίζω		n
+12@ἐπὶ	ἐπὶ	ἐπί	ἐπί		n
+12@τὸν[11]	τὸν	τόν	ὁ		n
+12@θεὸν[4]	θεὸν	θεόν			n
+12@τὴς	τὴς	τής			n
+12@ἀληθείας[2]	ἀληθείας	ἀληθείας	ἀλήθεια		n
+12@ἀκεῖνος	ἀκεῖνος	ἀκεῖνος			n
+12@γὰρ[2]	γὰρ	γάρ	γάρ		n
+12@κατὰ[2]	κατὰ	κατά	κατά		n
+12@τὰς	τὰς	τάς	ὁ		n
+12@ἐπιθυμίας[2]	ἐπιθυμίας	ἐπιθυμίας	ἐπιθυμία		n
+12@αὐτῶν[2]	αὐτῶν	αὐτῶν	αὐτός		n
+12@ἐλάλησε	ἐλάλησε	ἐλάλησε	λαλέω		n
+12@μετ[6]	μετ	μετ	μετά		n
+12@αὐτῶν[3]	αὐτῶν	αὐτῶν	αὐτός		n
+13@Μετὰ	Μετὰ	μετά			n
+13@δὲ	δὲ	δέ	δέ		n
+13@πάντα	πάντα	πάντα	πᾶς		n
+13@ταῦτα	ταῦτα	ταῦτα	οὗτος		n
+13@ἐπὶ	ἐπὶ	ἐπί	ἐπί		n
+13@τέλει	τέλει	τέλει	τέλος		n
+13@λέγει	λέγει	λέγει	λέγω		n
+13@καθὼς	καθὼς	καθώς			n
+13@αὐτὸς	αὐτὸς	αὐτός	αὐτός		n
+13@ἔγραψεν	ἔγραψεν	ἔγραψεν	γράφω		n
+13@ὁ	ὁ	ὁ	ὁ		n
+13@πρεσβύτης	πρεσβύτης	πρεσβύτης	πρεσβύτης2		n
+13@ὅταν	ὅταν	ὅταν	ὅταν		n
+13@προφάνῃ	προφάνῃ	προφάνῃ			n
+13@αὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτός		n
+13@τὴν	τὴν	τήν	ὁ		n
+13@εἰκόνα	εἰκόνα	εἰκόνα	εἰκών		n
+13@τότε	τότε	τότε	τότε		n
+13@ὁ[2]	ὁ	ὁ	ὁ		n
+13@Ὠμοφόρος	Ὠμοφόρος	ὠμοφόρος			n
+13@ἀφίησιν	ἀφίησιν	ἀφίησιν			n
+13@ἔξω	ἔξω	ἔξω	ἔξω		n
+13@τὴν[2]	τὴν	τήν	ὁ		n
+13@γῆν	γῆν	γῆν	γῆ		n
+13@καὶ	καὶ	καί	καί		n
+13@οὕτως	οὕτως	οὕτως	οὕτως		n
+13@ἀπολύεται	ἀπολύεται	ἀπολύεται	ἀπολύω		n
+13@τὸ[2]	τὸ	τό	ὁ		n
+13@μέγα	μέγα	μέγα	μέγας		n
+13@πᾶρ	πᾶρ	πᾶρ			n
+13@καὶ[2]	καὶ	καί	καί		n
+13@ὅλον	ὅλον	ὅλον	ὅλος		n
+13@ἀναλίσκει	ἀναλίσκει	ἀναλίσκει	ἀναλίσκω		n
+13@τὸν	τὸν	τόν	ὁ		n
+13@κόσμον	κόσμον	κόσμον	κόσμος		n
+13@εἶτα	εἶτα	εἶτα	εἶτα		n
+13@πάλιν	πάλιν	πάλιν	πάλιν		n
+13@ἀφίησι[2]	ἀφίησι	ἀφίησι	ἀφίημι		n
+13@τὸν[2]	τὸν	τόν	ὁ		n
+13@βῶλον	βῶλον	βῶλον			n
+13@μετὰ	μετὰ	μετά	μετά		n
+13@τοῦ[2]	τοῦ	τοῦ	ὁ		n
+13@νἐου	νἐου	νἐου			n
+13@αἰῶνος	αἰῶνος	αἰῶνος	αἰών		n
+13@ὅπως	ὅπως	ὅπως	ὅπως		n
+13@πᾶσαι	πᾶσαι	πᾶσαι	πᾶς		n
+13@αἱ	αἱ	αἱ	ὁ		n
+13@ψυχαὶ	ψυχαὶ	ψυχαί	ψυχή		n
+13@τῶν	τῶν	τῶν	ὁ		n
+13@ἁμαρτωλῶν	ἁμαρτωλῶν	ἁμαρτωλῶν	ἁμαρτωλός		n
+13@δεθῶσιν	δεθῶσιν	δεθῶσιν			n
+13@εἰς	εἰς	εἰς	εἰς		n
+13@τὸν[3]	τὸν	τόν	ὁ		n
+13@αἰῶνα	αἰῶνα	αἰῶνα	αἰών		n
+13@τότε[2]	τότε	τότε	τότε		n
+13@δὲ[2]	δὲ	δέ	δέ		n
+13@ταῦτα[2]	ταῦτα	ταῦτα	οὗτος		n
+13@γενήσεται	γενήσεται	γενήσεται	γίγνομαι		n
+13@ὅταν[2]	ὅταν	ὅταν	ὅταν		n
+13@ὁ[3]	ὁ	ὁ	ὁ		n
+13@ἀνδριὰς	ἀνδριὰς	ἀνδριάς	ἀνδριάς		n
+13@ἔλθῃ	ἔλθῃ	ἔλθῃ	ἔρχομαι		n
+13@αἱ[2]	αἱ	αἱ	ὁ		n
+13@δὲ[3]	δὲ	δέ	δέ		n
+13@προβολαὶ	προβολαὶ	προβολαί	προβολή		n
+13@πᾶσαι[2]	πᾶσαι	πᾶσαι	πᾶς		n
+13@ὁ[4]	ὁ	ὁ	ὁ		n
+13@Ἰησοῦς	Ἰησοῦς	ἰησοῦς			n
+13@ὁ[5]	ὁ	ὁ	ὁ		n
+13@ἐν	ἐν	ἐν	ἐν		n
+13@τῷ	τῷ	τῷ	τῷ		n
+13@μικρῷ	μικρῷ	μικρῷ	μικρός		n
+13@πλοίῳ	πλοίῳ	πλοίῳ	πλοῖον		n
+13@καὶ[3]	καὶ	καί	καί		n
+13@ἡ	ἡ	ἡ	ὁ		n
+13@μήτηρ	μήτηρ	μήτηρ	μήτηρ		n
+13@τῆς	τῆς	τῆς	ὁ		n
+13@ζωῆς	ζωῆς	ζωῆς	ζωή		n
+13@καὶ[4]	καὶ	καί	καί		n
+13@οἱ	οἱ	οἱ	ἕ		n
+13@δώδεκα	δώδεκα	δώδεκα	δώδεκα		n
+13@κυβερωῆται	κυβερωῆται	κυβερωῆται			n
+13@καὶ[5]	καὶ	καί	καί		n
+13@ἡ[2]	ἡ	ἡ	ὁ		n
+13@παρθένος	παρθένος	παρθένος	παρθένος		n
+13@τοῦ[3]	τοῦ	τοῦ	ὁ		n
+13@φωτός	φωτός	φωτός	φώς		n
+13@καὶ[6]	καὶ	καί	καί		n
+13@ὁ[6]	ὁ	ὁ	ὁ		n
+13@πρεσβύτης[2]	πρεσβύτης	πρεσβύτης	πρεσβύτης2		n
+13@ὁ[7]	ὁ	ὁ	ὁ		n
+13@τρίτος	τρίτος	τρίτος	τρίτος		n
+13@ὁ[8]	ὁ	ὁ	ὁ		n
+13@ἐν[2]	ἐν	ἐν	ἐν		n
+13@τῷ[2]	τῷ	τῷ	τῷ		n
+13@μεγάλῳ	μεγάλῳ	μεγάλῳ	μέγας		n
+13@πλοίῳ[2]	πλοίῳ	πλοίῳ	πλοῖον		n
+13@καὶ[7]	καὶ	καί	καί		n
+13@τὸ[6]	τὸ	τό	ὁ		n
+13@ζῶν	ζῶν	ζῶν	ζήω		n
+13@πνεῦμα	πνεῦμα	πνεῦμα	πνεῦμα		n
+13@καὶ[8]	καὶ	καί	καί		n
+13@τὸ[7]	τὸ	τό	ὁ		n
+13@τεῖχος	τεῖχος	τεῖχος	τεῖχος		n
+13@τοῦ[4]	τοῦ	τοῦ	ὁ		n
+13@μεγάλου	μεγάλου	μεγάλου	μέγας		n
+13@κυρός	κυρός	κυρός			n
+13@καὶ[9]	καὶ	καί	καί		n
+13@τὸ[8]	τὸ	τό	ὁ		n
+13@τεῖχος[2]	τεῖχος	τεῖχος	τεῖχος		n
+13@τοῦ[5]	τοῦ	τοῦ	ὁ		n
+13@ἀνέμου	ἀνέμου	ἀνέμου	ἄνεμος		n
+13@καὶ[10]	καὶ	καί	καί		n
+13@τοῦ[6]	τοῦ	τοῦ	ὁ		n
+13@ἀέρος	ἀέρος	ἀέρος	ἀήρ		n
+13@καὶ[11]	καὶ	καί	καί		n
+13@τοῦ[7]	τοῦ	τοῦ	ὁ		n
+13@ὕδατος	ὕδατος	ὕδατος	ὕδωρ		n
+13@καὶ[12]	καὶ	καί	καί		n
+13@τοῦ[8]	τοῦ	τοῦ	ὁ		n
+13@ἔσωθεν	ἔσωθεν	ἔσωθεν	ἔσωθεν		n
+13@πυρὸς	πυρὸς	πυρός	πῦρ		n
+13@τοῦ[9]	τοῦ	τοῦ	ὁ		n
+13@ζῶντος	ζῶντος	ζῶντος	ζήω		n
+13@πρὸς	πρὸς	πρός	πρός		n
+13@τὸν[4]	τὸν	τόν	ὁ		n
+13@μικρὸν	μικρὸν	μικρόν	μικρός		n
+13@φωστῆρα	φωστῆρα	φωστῆρα			n
+13@οἰκοῦσιν	οἰκοῦσιν	οἰκοῦσιν	οἰκέω		n
+13@ἄχρις	ἄχρις	ἄχρις	ἄχρι		n
+13@ὂν	ὂν	ὄν	εἰμί		n
+13@τὸ[10]	τὸ	τό	ὁ		n
+13@πῦρ	πῦρ	πῦρ	πῦρ		n
+13@καταναλώσῃ	καταναλώσῃ	καταναλώσῃ			n
+13@τὸν[5]	τὸν	τόν	ὁ		n
+13@κόσμον[2]	κόσμον	κόσμον	κόσμος		n
+13@ὅλον[2]	ὅλον	ὅλον	ὅλος		n
+13@ἐν[3]	ἐν	ἐν	ἐν		n
+13@ποσοῖς	ποσοῖς	ποσοῖς			n
+13@ποτε	ποτε	ποτέ	ποτε		n
+13@ἔτεσιν	ἔτεσιν	ἔτεσιν	ἔτος		n
+13@ὧν	ὧν	ὧν	ὅς		n
+13@οὐκ	οὐκ	οὐ	οὐ		n
+13@ἔμεθον	ἔμεθον	ἔμεθον			n
+13@τὴν[3]	τὴν	τήν	ὁ		n
+13@πασότητα	πασότητα	πασότητα			n
+13@καὶ[13]	καὶ	καί	καί		n
+13@μετὰ[2]	μετὰ	μετά	μετά		n
+13@ACM	ACM	acm			n
+13@und	und	und			n
+13@Epiph	Epiph	epiph			n
+13@17	17	17			n
+13@moysen	moysen	moysen			n
+13@Α	Α	α			n
+13@18	18	18			n
+13@quoniam	quoniam	quoniam			n
+13@Μ[2]	Μ	μ			n
+13@21	21	21			n
+13@feceris	feceris	feceris			n
+13@AM	AM	am			n
+13@humoforus	humoforus	humoforus			n
+13@C[2]	C	c			n
+13@bomoforus	bomoforus	bomoforus			n
+13@M[3]	M	m			n
+13@22	22	22			n
+13@derelinquet	derelinquet	derelinquet			n
+13@Α[2]	Α	α			n
+13@reliquid	reliquid	reliquid			n
+13@M[4]	M	m			n
+13@28	28	28			n
+13@consummat	consummat	consummat			n
+13@A[3]	A	a			n
+13@dimittur	dimittur	dimittur			n
+13@anima	anima	anima			n
+13@Α[3]	Α	α			n
+13@statt	statt	statt			n
+13@animam	animam	animam			n
+13@βῶλον[2]	βῶλον	βῶλον			n
+13@Epiphanius	Epiphanius	epiphanius			n
+13@23	23	23			n
+13@24	24	24			n
+13@quae	quae	quae			n
+13@obicitur	obicitur	obicitur			n
+13@fehlt	fehlt	fehlt			n
+13@bei	bei	bei			n
+13@Epiphanius[2]	Epiphanius	epiphanius			n
+13@24[2]	24	24			n
+13@uincantur	uincantur	uincantur			n
+13@AM[2]	AM	am			n
+13@25	25	25			n
+13@fiet	fiet	fiet			n
+13@A[5]	A	a			n
+13@statua	statua	statua			n
+13@venerit	venerit	venerit			n
+13@Beausobre	Beausobre	beausobre			n
+13@ista	ista	ista			n
+13@tota	tota	tota			n
+13@uenerit	uenerit	uenerit			n
+13@Α[4]	Α	α			n
+13@statuta	statuta	statuta			n
+13@uenerit[2]	uenerit	uenerit			n
+13@dies	dies	dies			n
+13@C[3]	C	c			n
+13@statuta[2]	statuta	statuta			n
+13@uenerit[3]	uenerit	uenerit			n
+13@probatio	probatio	probatio			n
+13@Μ[3]	Μ	μ			n
+13@prolationes	prolationes	prolationes			n
+13@probationes	probationes	probationes			n
+13@AM[3]	AM	am			n
+13@26	26	26			n
+13@80	80	80			n
+13@eine	eine	eine			n
+13@ziemlich	ziemlich	ziemlich			n
+13@ungenaue	ungenaue	ungenaue			n
+13@Paraphrase	Paraphrase	paraphrase			n
+13@26[2]	26	26			n
+13@modica	modica	modica			n
+13@od[2]	od	od			n
+13@a[29]	a	a			n
+13@Ras	Ras	ras			n
+13@C[4]	C	c			n
+13@uita	uita	uita			n
+13@C[5]	C	c			n
+13@27	27	27			n
+13@28[2]	28	28			n
+13@maiori	maiori	maiori			n
+13@in[4]	in	in			n
+13@navi	navi	navi			n
+13@maior[2]	maior	maior			n
+13@in[5]	in	in			n
+13@naui	naui	naui			n
+13@Α[5]	Α	α			n
+13@maiori[2]	maiori	maiori			n
+13@naui[2]	naui	naui			n
+13@CM[2]	CM	cm			n
+13@28[3]	28	28			n
+13@navi[2]	navi	navi			n
+13@vivens	vivens	vivens			n
+13@a[39]	a	a			n
+13@Ras[2]	Ras	ras			n
+13@M[8]	M	m			n
+13@ignis	ignis	ignis			n
+13@illius	illius	illius			n
+13@C[7]	C	c			n
+13@29	29	29			n
+13@et[3]	et	et			n
+13@aquae	aquae	aquae			n
+13@ea[2]	ea	ea			n
+13@quae[3]	quae	quae			n
+13@C[8]	C	c			n
+13@et[4]	et	et			n
+13@x003C	x003C	x003c			n
+13@Α[6]	Α	α			n
+13@ignis[2]	ignis	ignis			n
+13@vivi	vivi	vivi			n
+13@quae[4]	quae	quae			n
+13@ignis[3]	ignis	ignis			n
+13@uiuensque	uiuensque	uiuensque			n
+13@Α[7]	Α	α			n
+13@uiui	uiui	uiui			n
+13@quae[5]	quae	quae			n
+13@C[10]	C	c			n
+13@30	30	30			n
+13@habitabant	habitabant	habitabant			n
+13@Μ[4]	Μ	μ			n
+13@obsumat	obsumat	obsumat			n
+13@Α[8]	Α	α			n
+13@quod	quod	quod			n
+13@AC[2]	AC	ac			n
+13@ταῦτα[3]	ταῦτα	ταῦτα	οὗτος		n
+13@ἀποκατάστασις	ἀποκατάστασις	ἀποκατάστασις	ἀποκατάστασις		n
+13@ἔσται	ἔσται	ἔσται	εἰμί		n
+13@τῶν[2]	τῶν	τῶν	ὁ		n
+13@δύο	δύο	δύο	γε		n
+13@φύσεων	φύσεων	φύσεων	φύσις		n
+13@καὶ[14]	καὶ	καί	καί		n
+13@οἰ[2]	οἰ	οἰ			n
+13@ἄρχοντες	ἄρχοντες	ἄρχοντες	ἄρχω		n
+13@οἰκήσουσι	οἰκήσουσι	οἰκήσουσι	οἰκέω		n
+13@τὰ[4]	τὰ	τά	ὁ		n
+13@κατώτερα	κατώτερα	κατώτερα			n
+13@μέρη	μέρη	μέρη	μέρος		n
+13@ὁαυτῶν	ὁαυτῶν	ὁαυτῶν			n
+13@ὁ[10]	ὁ	ὁ	ὁ		n
+13@δὲ[4]	δὲ	δέ	δέ		n
+13@πατὴρ	πατὴρ	πατήρ	πατήρ		n
+13@τὰ[5]	τὰ	τά	ὁ		n
+13@ἀνώτερα	ἀνώτερα	ἀνώτερα	ἀνώτερος		n
+13@τὸ[12]	τὸ	τό	ὁ		n
+13@ἵδιον	ἵδιον	ἵδιον			n
+13@ἀπολαβών	ἀπολαβών	ἀπολαβών	ἀπολαμβάνω		n
+13@ταύτην	ταύτην	ταύτην	οὗτος		n
+13@δὲ[5]	δὲ	δέ	δέ		n
+13@πᾶσαν	πᾶσαν	πᾶσαν	πᾶς		n
+13@τὴν[4]	τὴν	τήν	ὁ		n
+13@διδασκαλίαν	διδασκαλίαν	διδασκαλίαν	διδασκαλία		n
+13@παρέδωκε	παρέδωκε	παρέδωκε	παραδίδωμι		n
+13@τοῖς	τοῖς	τοῖς	ὁ		n
+13@τρισὶν	τρισὶν	τρισίν			n
+13@αὐτοῦ[2]	αὐτοῦ	αὐτοῦ	αὐτός		n
+13@μαθηταῖς	μαθηταῖς	μαθηταῖς	μαθητής		n
+13@κελεύσας	κελεύσας	κελεύσας	κελεύω		n
+13@ἕκαστον	ἕκαστον	ἕκαστον	ἕκαστος		n
+13@εἰς[2]	εἰς	εἰς	εἰς		n
+13@κλίματα	κλίματα	κλίματα	κλίμα		n
+13@ὁδεύειν	ὁδεύειν	ὁδεύειν	ὁδεύω		n
+13@κοὶ	κοὶ	κοί			n
+13@ὁ[12]	ὁ	ὁ	ὁ		n
+13@μὲν	μὲν	μέν	μέν		n
+13@Ἀδδᾶς	Ἀδδᾶς	ἀδδᾶς			n
+13@τὰ[6]	τὰ	τά	ὁ		n
+13@τῆς[2]	τῆς	τῆς	ὁ		n
+13@ἀνατολῆς	ἀνατολῆς	ἀνατολῆς	ἀνατολή		n
+13@μέρη[2]	μέρη	μέρη	μέρος		n
+13@ἔλαχεν	ἔλαχεν	ἔλαχεν	λαγχάνω		n
+13@ὁ[13]	ὁ	ὁ	ὁ		n
+13@δὲ[6]	δὲ	δέ	δέ		n
+13@Θωμᾶς	Θωμᾶς	θωμᾶς	Θωμᾶς		n
+13@τὴν[5]	τὴν	τήν	ὁ		n
+13@Σύρων	Σύρων	σύρων			n
+13@γὴν	γὴν	γήν			n
+13@κεκλήρωται	κεκλήρωται	κεκλήρωται	κληρόω		n
+13@Ἑρμείας	Ἑρμείας	ἑρμείας	Ἑρμῆς		n
+13@δὲ[7]	δὲ	δέ	δέ		n
+13@ἄλλος	ἄλλος	ἄλλος	ἄλλος		n
+13@τὴν[6]	τὴν	τήν	ὁ		n
+13@εἰς[3]	εἰς	εἰς	εἰς		n
+13@Αἴγυπτον	Αἴγυπτον	αἴγυπτον	Αἴγυπτος		n
+13@πορείαν	πορείαν	πορείαν	πορεία		n
+13@ἐποιήσατο	ἐποιήσατο	ἐποιήσατο	ποιέω		n
+13@καὶ[15]	καὶ	καί	καί		n
+13@μέχρι	μέχρι	μέχρι	μέχρι		n
+13@σήμερον	σήμερον	σήμερον	σήμερον		n
+13@ἐκεῖσε	ἐκεῖσε	ἐκεῖσε	ἐκεῖσε		n
+13@διατρίβουσι	διατρίβουσι	διατρίβουσι	διατρίβω		n
+13@τὴν[7]	τὴν	τήν	ὁ		n
+13@τοῦ[11]	τοῦ	τοῦ	ὁ		n
+13@δόγματος	δόγματος	δόγματος	δόγμα		n
+13@ὑπόθεσιν	ὑπόθεσιν	ὑπόθεσιν	ὑπόθεσις		n
+13@στῆαι	στῆαι	στῆαι			n
+13@θέλοντες	θέλοντες	θέλοντες	ἐθέλω		n
